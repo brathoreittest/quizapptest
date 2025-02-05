@@ -30,16 +30,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "Find the perimeter of the coloured area in the given figure assuming each box in the grid is 1 cm by 1 cm.",
-        "choices": [
-            "15",
-            "56",
-            "52",
-            "26"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "The perimeter of the figure is 60 m. What is the value of 'x'?",
         "choices": [
             "10 m",
@@ -50,39 +40,10 @@
         "correctAnswer": 2
     },
     {
-        "question": "Find the area of the given figure:",
-        "choices": [
-            "30 sq units",
-            "25 sq units",
-            "27 sq units",
-            "28 sq units"
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "Rishabh was trying to find out the length of the side with the question mark in the figure alongside. He decided that the question mark side is 7 m. He was:",
         "choices": [
             "Correct",
             "Incorrect"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "If area of each grid box is 1 sq cm, the area of the following figure would be ______ sq cm.",
-        "choices": [
-            "12",
-            "10",
-            "11",
-            "13"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which of the following rectangles have an area of 36 square centimetres?",
-        "choices": [
-            "Rectangle A",
-            "Rectangle B",
-            "Rectangle C"
         ],
         "correctAnswer": 1
     },
@@ -137,26 +98,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "Find the area of the kite shown in question 5(a). (Each square side is 1 cm)",
-        "choices": [
-            "6 sq cm",
-            "7 sq cm",
-            "8 sq cm",
-            "9 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Find the area of the butterfly shown in question 5(b). (Each square side is 1 cm)",
-        "choices": [
-            "12 sq cm",
-            "10 sq cm",
-            "11 sq cm",
-            "9 sq cm"
-        ],
-        "correctAnswer": 0
-    },
-    {
         "question": "The perimeter of a rectangular field is 72 m. If the width is 16 m, calculate its length.",
         "choices": [
             "20 m",
@@ -187,162 +128,12 @@
         "correctAnswer": 1
     },
     {
-        "question": "Find the perimeter and area of the shape shown in question 10.",
-        "choices": [
-            "22, 20",
-            "22, 24",
-            "26, 24",
-            "24, 24"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Aman's lawn has two parts. Find the perimeter of the whole lawn (question 11).",
-        "choices": [
-            "60m",
-            "70m",
-            "74m",
-            "66m"
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "Calculate the area of the figure a) in question 1.",
         "choices": [
             "16 sq cm",
             "20 sq cm",
             "24 sq cm",
             "28 sq cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Calculate the area of the figure b) in question 1.",
-        "choices": [
-            "24 sq cm",
-            "28 sq cm",
-            "32 sq cm",
-            "36 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Calculate the area of the figure c) in question 1.",
-        "choices": [
-            "12 sq cm",
-            "16 sq cm",
-            "20 sq cm",
-            "24 sq cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Calculate the area of the figure d) in question 1.",
-        "choices": [
-            "20 sq cm",
-            "24 sq cm",
-            "28 sq cm",
-            "32 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Calculate the area of the vowel 'O' (figure a) in question 2.",
-        "choices": [
-            "10 sq cm",
-            "12 sq cm",
-            "14 sq cm",
-            "16 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Calculate the area of the vowel 'E' (figure b) in question 2.",
-        "choices": [
-            "10 sq cm",
-            "12 sq cm",
-            "14 sq cm",
-            "16 sq cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Calculate the area of the vowel 'I' (figure c) in question 2.",
-        "choices": [
-            "4 sq cm",
-            "6 sq cm",
-            "8 sq cm",
-            "10 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Calculate the area of the vowel 'O' (figure d) in question 2.",
-        "choices": [
-            "10 sq cm",
-            "12 sq cm",
-            "14 sq cm",
-            "16 sq cm"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "Calculate the area of the vowel 'U' (figure e) in question 2.",
-        "choices": [
-            "12 sq cm",
-            "14 sq cm",
-            "16 sq cm",
-            "18 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In question 3, do the figures have the same perimeter?",
-        "choices": [
-            "Yes",
-            "No, the triangle has a greater perimeter",
-            "No, the hexagon has a greater perimeter",
-            "No, the square has a greater perimeter"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the total number of filled squares in the image of the leaf?",
-        "choices": [
-            "1",
-            "2",
-            "3",
-            "4"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the total number of half-filled squares in the image of the leaf?",
-        "choices": [
-            "1",
-            "2",
-            "3",
-            "4"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the total number of more than half-filled squares in the image of the leaf?",
-        "choices": [
-            "10",
-            "11",
-            "12",
-            "13"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the area of the shaded figure (leaf) in the image?",
-        "choices": [
-            "14 sq.cm",
-            "15 sq.cm",
-            "16 sq.cm",
-            "17 sq.cm"
         ],
         "correctAnswer": 1
     },
@@ -355,267 +146,6 @@
             "17 sq cm"
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "What is the area of unwanted space in the calculation for the area of square T-3?",
-        "choices": [
-            "4 sq cm",
-            "5 sq cm",
-            "6 sq cm",
-            "7 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the area of square T-3?",
-        "choices": [
-            "8 sq cm",
-            "9 sq cm",
-            "10 sq cm",
-            "11 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "How many squares are shown as drawn straight in the image?",
-        "choices": [
-            "2",
-            "3",
-            "4",
-            "5"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "How many squares are shown as tilted in the image?",
-        "choices": [
-            "2",
-            "3",
-            "4",
-            "5"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "The method used to find the area of tilted squares involves which of the following steps?",
-        "choices": [
-            "Adding the areas of all the squares in the tilted figure",
-            "Subtracting the areas of unwanted space from the area of an enclosing square",
-            "Multiplying the side length of the tilted square by itself",
-            "Dividing the area of the enclosing square by two"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the area of the field used to grow tomatoes?",
-        "choices": [
-            "12 sq m",
-            "16 sq m",
-            "20 sq m",
-            "24 sq m"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the area of the field used more for potatoes than cauliflowers?",
-        "choices": [
-            "10 sq m",
-            "12 sq m",
-            "14 sq m",
-            "16 sq m"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "What is the area of the field that remains unused?",
-        "choices": [
-            "4 sq m",
-            "6 sq m",
-            "8 sq m",
-            "10 sq m"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the total area of Mr. Singh's field?",
-        "choices": [
-            "40 sq m",
-            "42 sq m",
-            "44 sq m",
-            "48 sq m"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "According to the rules for calculating the area of irregular figures, how are completely covered squares counted?",
-        "choices": [
-            "As 0",
-            "As 1/2",
-            "As 1",
-            "As 2"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "How are squares exactly half-covered counted in calculating the area of irregular figures?",
-        "choices": [
-            "As 0",
-            "As 1/2",
-            "As 1",
-            "They are ignored"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "How are squares covered more than half counted?",
-        "choices": [
-            "As 0",
-            "As 1/2",
-            "As 1",
-            "They are ignored"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "How are squares covered less than half counted?",
-        "choices": [
-            "As 0",
-            "As 1/2",
-            "As 1",
-            "They are ignored"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "In Example 5, how many fully colored squares are there?",
-        "choices": [
-            "12",
-            "14",
-            "16",
-            "18"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the total area of the shaded figure in Example 5?",
-        "choices": [
-            "20 sq cm",
-            "21 sq cm",
-            "22 sq cm",
-            "23 sq cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the area of the green shaded region in Example 4?",
-        "choices": [
-            "12 sq cm",
-            "21 sq cm",
-            "36 sq cm",
-            "28 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "What is the area of the blue shaded region in Example 4?",
-        "choices": [
-            "12 sq cm",
-            "21 sq cm",
-            "36 sq cm",
-            "28 sq cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the area of the yellow shaded region in Example 4?",
-        "choices": [
-            "12 sq cm",
-            "21 sq cm",
-            "36 sq cm",
-            "28 sq cm"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "What is the area of the purple shaded region in Example 4?",
-        "choices": [
-            "12 sq cm",
-            "21 sq cm",
-            "36 sq cm",
-            "28 sq cm"
-        ],
-        "correctAnswer": 3
-    },
-    {
-        "question": "In question 1, which figure has a greater area?",
-        "choices": [
-            "Carrom board (a)",
-            "Pizza (b)",
-            "Table Tennis bats (c)"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "In question 2(a), what is the area of the shaded region, given each square has a side of 2cm?",
-        "choices": [
-            "21 sq cm",
-            "42 sq cm",
-            "84 sq cm",
-            "168 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In question 2(b), what is the area of the shaded region, given each square has a side of 2cm?",
-        "choices": [
-            "14 sq cm",
-            "28 sq cm",
-            "56 sq cm",
-            "112 sq cm"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In question 2(c), what is the area of the shaded region, given each square has a side of 2cm?",
-        "choices": [
-            "14 sq cm",
-            "28 sq cm",
-            "56 sq cm",
-            "112 sq cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "According to the text, where was the first recorded use of areas?",
-        "choices": [
-            "Greece",
-            "Babylon",
-            "Egypt",
-            "Rome"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Which mathematician discovered the area and perimeter relationship of a circle?",
-        "choices": [
-            "Euclid",
-            "Pythagoras",
-            "Archimedes",
-            "Thales"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "Which of the following objects from a household is best suited for measuring perimeter using a thread?",
-        "choices": [
-            "The edge of a flower pot",
-            "A bangle",
-            "A shoe",
-            "A greeting card with curved surfaces",
-            "The edge of a flower",
-            "The boundary of a leaf"
-        ],
-        "correctAnswer": 0
     },
     {
         "question": "Ritesh jogs around a lake with a perimeter of 1 km 200 m.  If he jogs around 5 times, what's the total distance?",
@@ -748,16 +278,6 @@
         "correctAnswer": 3
     },
     {
-        "question": "Given 9 squares each with a side of 1 cm, what is the arrangement with the least perimeter?",
-        "choices": [
-            "3x3 square",
-            "Other arrangement with least perimeter",
-            "1x9 rectangle",
-            "Other arrangement"
-        ],
-        "correctAnswer": 0
-    },
-    {
         "question": "What is the method used to measure the perimeter of a curved figure?",
         "choices": [
             "Ruler",
@@ -794,16 +314,6 @@
             "28 cm",
             "32 cm",
             "48 cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "What is the perimeter of the figure shown with 12 sides of 1 cm each?",
-        "choices": [
-            "6 cm",
-            "12 cm",
-            "24 cm",
-            "36 cm"
         ],
         "correctAnswer": 1
     },
