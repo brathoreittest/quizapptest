@@ -1,12 +1,880 @@
 [
     {
-        "question": "What is geometry 2 + 2?",
-        "choices": ["3", "4", "5", "6"],
-        "correct": 1
+        "question": "The perimeter of a rectangular room is 28 m. If the width of the room is 5 m, find its length.",
+        "choices": [
+            "9 m",
+            "10 m",
+            "8 m",
+            "7 m"
+        ],
+        "correctAnswer": 2
     },
     {
-        "question": "What geometry is 5 * 3?",
-        "choices": ["10", "15", "20", "25"],
-        "correct": 1
+        "question": "A fly walks along the edge of a cup. If after 3 complete rounds it covers a distance of 63 cm, find the perimeter of the cup.",
+        "choices": [
+            "36 cm",
+            "189 cm",
+            "60 cm",
+            "21 cm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the difference in the perimeter of two squares having sides 4 cm and 6 cm?",
+        "choices": [
+            "2 cm",
+            "10 cm",
+            "8 cm",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the perimeter of the coloured area in the given figure assuming each box in the grid is 1 cm by 1 cm.",
+        "choices": [
+            "15",
+            "56",
+            "52",
+            "26"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The perimeter of the figure is 60 m. What is the value of 'x'?",
+        "choices": [
+            "10 m",
+            "52 m",
+            "7 m",
+            "8 m"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the area of the given figure:",
+        "choices": [
+            "30 sq units",
+            "25 sq units",
+            "27 sq units",
+            "28 sq units"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Rishabh was trying to find out the length of the side with the question mark in the figure alongside. He decided that the question mark side is 7 m. He was:",
+        "choices": [
+            "Correct",
+            "Incorrect"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If area of each grid box is 1 sq cm, the area of the following figure would be ______ sq cm.",
+        "choices": [
+            "12",
+            "10",
+            "11",
+            "13"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following rectangles have an area of 36 square centimetres?",
+        "choices": [
+            "Rectangle A",
+            "Rectangle B",
+            "Rectangle C"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following units cannot be used to measure the perimeter of a square?",
+        "choices": [
+            "cm",
+            "sq m",
+            "mm",
+            "m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The perimeter of a square is 84 cm. What is the length of each side of the square?",
+        "choices": [
+            "20 cm",
+            "22 cm",
+            "21 cm",
+            "19 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the two (a rectangle having a length of 15 cm and a perimeter equal to the square drawn in question (a), and the square drawn in question (a)) has a greater area?",
+        "choices": [
+            "The rectangle",
+            "The square",
+            "Both have equal areas",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Aastha wants to pack a present in a box (length 26 cm, thickness 15 cm). She has 1 m of ribbon. Will it be enough to wrap around the gift once?",
+        "choices": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Cannot be determined"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A rectangular dining table measures 18 m in length and 12 m in width. Find the perimeter. If a square table cloth of 3 cm side is used to cover the entire table, find the number of cloths required.",
+        "choices": [
+            "60m, 1200",
+            "60m, 360000",
+            "60m, 3600",
+            "60m, 120000"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the area of the kite shown in question 5(a). (Each square side is 1 cm)",
+        "choices": [
+            "6 sq cm",
+            "7 sq cm",
+            "8 sq cm",
+            "9 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the area of the butterfly shown in question 5(b). (Each square side is 1 cm)",
+        "choices": [
+            "12 sq cm",
+            "10 sq cm",
+            "11 sq cm",
+            "9 sq cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The perimeter of a rectangular field is 72 m. If the width is 16 m, calculate its length.",
+        "choices": [
+            "20 m",
+            "10 m",
+            "36 m",
+            "18 m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A 60 cm wire forms a square. Find the side. If the same wire forms a rectangle with length 19 cm, find its width.",
+        "choices": [
+            "15cm, 11cm",
+            "15cm, 22cm",
+            "15cm, 21cm",
+            "10cm, 11cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A rectangle has length 28 cm and width 20 cm. Find the side of a square with the same perimeter.",
+        "choices": [
+            "24 cm",
+            "12 cm",
+            "48 cm",
+            "14 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the perimeter and area of the shape shown in question 10.",
+        "choices": [
+            "22, 20",
+            "22, 24",
+            "26, 24",
+            "24, 24"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Aman's lawn has two parts. Find the perimeter of the whole lawn (question 11).",
+        "choices": [
+            "60m",
+            "70m",
+            "74m",
+            "66m"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Calculate the area of the figure a) in question 1.",
+        "choices": [
+            "16 sq cm",
+            "20 sq cm",
+            "24 sq cm",
+            "28 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Calculate the area of the figure b) in question 1.",
+        "choices": [
+            "24 sq cm",
+            "28 sq cm",
+            "32 sq cm",
+            "36 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Calculate the area of the figure c) in question 1.",
+        "choices": [
+            "12 sq cm",
+            "16 sq cm",
+            "20 sq cm",
+            "24 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Calculate the area of the figure d) in question 1.",
+        "choices": [
+            "20 sq cm",
+            "24 sq cm",
+            "28 sq cm",
+            "32 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Calculate the area of the vowel 'O' (figure a) in question 2.",
+        "choices": [
+            "10 sq cm",
+            "12 sq cm",
+            "14 sq cm",
+            "16 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Calculate the area of the vowel 'E' (figure b) in question 2.",
+        "choices": [
+            "10 sq cm",
+            "12 sq cm",
+            "14 sq cm",
+            "16 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Calculate the area of the vowel 'I' (figure c) in question 2.",
+        "choices": [
+            "4 sq cm",
+            "6 sq cm",
+            "8 sq cm",
+            "10 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Calculate the area of the vowel 'O' (figure d) in question 2.",
+        "choices": [
+            "10 sq cm",
+            "12 sq cm",
+            "14 sq cm",
+            "16 sq cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Calculate the area of the vowel 'U' (figure e) in question 2.",
+        "choices": [
+            "12 sq cm",
+            "14 sq cm",
+            "16 sq cm",
+            "18 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In question 3, do the figures have the same perimeter?",
+        "choices": [
+            "Yes",
+            "No, the triangle has a greater perimeter",
+            "No, the hexagon has a greater perimeter",
+            "No, the square has a greater perimeter"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the total number of filled squares in the image of the leaf?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the total number of half-filled squares in the image of the leaf?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the total number of more than half-filled squares in the image of the leaf?",
+        "choices": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of the shaded figure (leaf) in the image?",
+        "choices": [
+            "14 sq.cm",
+            "15 sq.cm",
+            "16 sq.cm",
+            "17 sq.cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of Sq-4?",
+        "choices": [
+            "14 sq cm",
+            "15 sq cm",
+            "16 sq cm",
+            "17 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the area of unwanted space in the calculation for the area of square T-3?",
+        "choices": [
+            "4 sq cm",
+            "5 sq cm",
+            "6 sq cm",
+            "7 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the area of square T-3?",
+        "choices": [
+            "8 sq cm",
+            "9 sq cm",
+            "10 sq cm",
+            "11 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many squares are shown as drawn straight in the image?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many squares are shown as tilted in the image?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The method used to find the area of tilted squares involves which of the following steps?",
+        "choices": [
+            "Adding the areas of all the squares in the tilted figure",
+            "Subtracting the areas of unwanted space from the area of an enclosing square",
+            "Multiplying the side length of the tilted square by itself",
+            "Dividing the area of the enclosing square by two"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of the field used to grow tomatoes?",
+        "choices": [
+            "12 sq m",
+            "16 sq m",
+            "20 sq m",
+            "24 sq m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of the field used more for potatoes than cauliflowers?",
+        "choices": [
+            "10 sq m",
+            "12 sq m",
+            "14 sq m",
+            "16 sq m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the area of the field that remains unused?",
+        "choices": [
+            "4 sq m",
+            "6 sq m",
+            "8 sq m",
+            "10 sq m"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the total area of Mr. Singh's field?",
+        "choices": [
+            "40 sq m",
+            "42 sq m",
+            "44 sq m",
+            "48 sq m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the rules for calculating the area of irregular figures, how are completely covered squares counted?",
+        "choices": [
+            "As 0",
+            "As 1/2",
+            "As 1",
+            "As 2"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How are squares exactly half-covered counted in calculating the area of irregular figures?",
+        "choices": [
+            "As 0",
+            "As 1/2",
+            "As 1",
+            "They are ignored"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How are squares covered more than half counted?",
+        "choices": [
+            "As 0",
+            "As 1/2",
+            "As 1",
+            "They are ignored"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How are squares covered less than half counted?",
+        "choices": [
+            "As 0",
+            "As 1/2",
+            "As 1",
+            "They are ignored"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In Example 5, how many fully colored squares are there?",
+        "choices": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the total area of the shaded figure in Example 5?",
+        "choices": [
+            "20 sq cm",
+            "21 sq cm",
+            "22 sq cm",
+            "23 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of the green shaded region in Example 4?",
+        "choices": [
+            "12 sq cm",
+            "21 sq cm",
+            "36 sq cm",
+            "28 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the area of the blue shaded region in Example 4?",
+        "choices": [
+            "12 sq cm",
+            "21 sq cm",
+            "36 sq cm",
+            "28 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the area of the yellow shaded region in Example 4?",
+        "choices": [
+            "12 sq cm",
+            "21 sq cm",
+            "36 sq cm",
+            "28 sq cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the area of the purple shaded region in Example 4?",
+        "choices": [
+            "12 sq cm",
+            "21 sq cm",
+            "36 sq cm",
+            "28 sq cm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In question 1, which figure has a greater area?",
+        "choices": [
+            "Carrom board (a)",
+            "Pizza (b)",
+            "Table Tennis bats (c)"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In question 2(a), what is the area of the shaded region, given each square has a side of 2cm?",
+        "choices": [
+            "21 sq cm",
+            "42 sq cm",
+            "84 sq cm",
+            "168 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In question 2(b), what is the area of the shaded region, given each square has a side of 2cm?",
+        "choices": [
+            "14 sq cm",
+            "28 sq cm",
+            "56 sq cm",
+            "112 sq cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In question 2(c), what is the area of the shaded region, given each square has a side of 2cm?",
+        "choices": [
+            "14 sq cm",
+            "28 sq cm",
+            "56 sq cm",
+            "112 sq cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, where was the first recorded use of areas?",
+        "choices": [
+            "Greece",
+            "Babylon",
+            "Egypt",
+            "Rome"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which mathematician discovered the area and perimeter relationship of a circle?",
+        "choices": [
+            "Euclid",
+            "Pythagoras",
+            "Archimedes",
+            "Thales"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following objects from a household is best suited for measuring perimeter using a thread?",
+        "choices": [
+            "The edge of a flower pot",
+            "A bangle",
+            "A shoe",
+            "A greeting card with curved surfaces",
+            "The edge of a flower",
+            "The boundary of a leaf"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Ritesh jogs around a lake with a perimeter of 1 km 200 m.  If he jogs around 5 times, what's the total distance?",
+        "choices": [
+            "5 km 200 m",
+            "6 km",
+            "5 km 1000 m",
+            "6 km 1000 m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A roller coaster ride is 725 m long.  If someone takes 4 rides, what's the total distance traveled?",
+        "choices": [
+            "2900 m",
+            "181.25 m",
+            "729 m",
+            "2800 m"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A roller coaster is 725m long. How many rides are needed to travel 9km 425m?",
+        "choices": [
+            "13",
+            "12",
+            "11",
+            "10"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The space enclosed within a boundary is called:",
+        "choices": [
+            "Perimeter",
+            "Area",
+            "Volume",
+            "Length"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Area is always expressed in terms of:",
+        "choices": [
+            "Meters",
+            "Square units",
+            "Cubic units",
+            "Linear units"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "A larger sized object will have a ______ area.",
+        "choices": [
+            "Smaller",
+            "Greater",
+            "Equal",
+            "None of these"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the formula to calculate the area of a rectangle?",
+        "choices": [
+            "Length + Width",
+            "Length x Width",
+            "2(Length + Width)",
+            "Length / Width"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What unit is commonly used to measure the area of a large land?",
+        "choices": [
+            "Square centimeters",
+            "Square meters",
+            "Square kilometers",
+            "Hectares"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of a square with a side of 5 cm?",
+        "choices": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A rectangle has a length of 7 cm and a perimeter of 22 cm. What is its breadth?",
+        "choices": [
+            "4 cm",
+            "5 cm",
+            "6 cm",
+            "7 cm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Merin wants to put a lace around a square handkerchief of side 11 cm. How much lace does she need?",
+        "choices": [
+            "22 cm",
+            "33 cm",
+            "44 cm",
+            "55 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Piyush's L-shaped hexagonal garden has four sides of 18 m and two sides of 25 m.  What is the total length of the fence?",
+        "choices": [
+            "76 m",
+            "86 m",
+            "96 m",
+            "106 m"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The perimeter of a square is 36 cm. What is the length of one side?",
+        "choices": [
+            "6 cm",
+            "7 cm",
+            "8 cm",
+            "9 cm"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Given 9 squares each with a side of 1 cm, what is the arrangement with the least perimeter?",
+        "choices": [
+            "3x3 square",
+            "Other arrangement with least perimeter",
+            "1x9 rectangle",
+            "Other arrangement"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the method used to measure the perimeter of a curved figure?",
+        "choices": [
+            "Ruler",
+            "String",
+            "Protractor",
+            "Measuring tape"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a perimeter?",
+        "choices": [
+            "The area enclosed by a figure",
+            "The distance around a figure",
+            "The total number of sides",
+            "The length of the longest side"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Find the perimeter of a square of 5 cm.",
+        "choices": [
+            "10 cm",
+            "15 cm",
+            "20 cm",
+            "25 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Find the perimeter of a rectangle having a length of 8 cm and a breadth of 6 cm.",
+        "choices": [
+            "14 cm",
+            "28 cm",
+            "32 cm",
+            "48 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the perimeter of the figure shown with 12 sides of 1 cm each?",
+        "choices": [
+            "6 cm",
+            "12 cm",
+            "24 cm",
+            "36 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Calculate the perimeter of a square of side 6 cm.",
+        "choices": [
+            "12 cm",
+            "18 cm",
+            "24 cm",
+            "36 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of a rectangle with length 5 cm and breadth 3 cm?",
+        "choices": [
+            "8 cm",
+            "10 cm",
+            "16 cm",
+            "15 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A pentagon has all sides equal to 7 cm. What is its perimeter?",
+        "choices": [
+            "14 cm",
+            "21 cm",
+            "28 cm",
+            "35 cm"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the perimeter of a hexagon whose all sides are equal to 4 cm 2 mm?",
+        "choices": [
+            "24 cm",
+            "26.4 cm",
+            "28 cm",
+            "24.2 cm"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The word 'perimeter' comes from which language?",
+        "choices": [
+            "Latin",
+            "French",
+            "Greek",
+            "English"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "'Peri' in the word 'perimeter' means:",
+        "choices": [
+            "measure",
+            "around",
+            "length",
+            "area"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "'Meter' in the word 'perimeter' means:",
+        "choices": [
+            "around",
+            "measure",
+            "length",
+            "width"
+        ],
+        "correctAnswer": 1
     }
 ]

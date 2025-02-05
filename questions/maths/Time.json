@@ -1,397 +1,1444 @@
 [
   {
-    "question": "Which of the following are groups of like fractions?",
-    "choices": [
-      "2/7, 4/7, 6/7, 11/7",
-      "21/23, 23/21, 16/21, 18/21",
-      "13/2, 13/4, 13/5, 13/8",
-      "5/10, 8/10, 3/10, 7/10"
-    ],
-    "correctAnswer": 0
+      "question": "Which activity is of longest duration?",
+      "choices": [
+          "Rock Climbing",
+          "Gardening",
+          "Reading and Games",
+          "Trekking"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Arrange the following fractions in ascending order: 23/25, 5/25, 15/25, 8/25, 12/25",
-    "choices": [
-      "5/25, 8/25, 12/25, 15/25, 23/25",
-      "23/25, 15/25, 12/25, 8/25, 5/25",
-      "5/25, 12/25, 8/25, 15/25, 23/25",
-      "23/25, 15/25, 8/25, 12/25, 5/25"
-    ],
-    "correctAnswer": 0
+      "question": "Which two activities end at 10:45 a.m. and 1:25 p.m.?",
+      "choices": [
+          "Snacks and Lunch",
+          "Snacks and Reading and Games",
+          "Gardening and Lunch",
+          "Rock Climbing and Trekking"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Arrange the following fractions in ascending order: 8/8, 6/8, 4/8, 2/8, 1/8",
-    "choices": [
-      "1/8, 2/8, 4/8, 6/8, 8/8",
-      "8/8, 6/8, 4/8, 2/8, 1/8",
-      "1/8, 4/8, 2/8, 6/8, 8/8",
-      "8/8, 2/8, 4/8, 6/8, 1/8"
-    ],
-    "correctAnswer": 0
+      "question": "Trekking begins _______ minutes after the beginning of Reading and Games.",
+      "choices": [
+          "65",
+          "75",
+          "85",
+          "95"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "Arrange the following fractions in descending order: 9/12, 3/12, 6/12, 1/12, 5/12",
-    "choices": [
-      "9/12, 6/12, 5/12, 3/12, 1/12",
-      "1/12, 3/12, 5/12, 6/12, 9/12",
-      "9/12, 5/12, 6/12, 3/12, 1/12",
-      "1/12, 5/12, 3/12, 6/12, 9/12"
-    ],
-    "correctAnswer": 0
+      "question": "Which activity was just 5 minutes shorter than an hour?",
+      "choices": [
+          "Rock Climbing",
+          "Snacks",
+          "Gardening",
+          "Lunch"
+      ],
+      "correctAnswer": 3
   },
   {
-    "question": "Arrange the following fractions in descending order: 10/45, 18/45, 43/45, 22/45, 34/45",
-    "choices": [
-      "43/45, 34/45, 22/45, 18/45, 10/45",
-      "10/45, 18/45, 22/45, 34/45, 43/45",
-      "43/45, 22/45, 34/45, 18/45, 10/45",
-      "10/45, 34/45, 18/45, 22/45, 43/45"
-    ],
-    "correctAnswer": 0
-  },
-    {
-    "question": "Which fraction is the largest in the set: 2/7, 4/7, 6/7, 11/7?",
-    "choices": [
-      "2/7",
-      "4/7",
-      "6/7",
-      "11/7"
-    ],
-    "correctAnswer": 3
+      "question": "What time does the Rajdhani Express depart from Kanpur Central?",
+      "choices": [
+          "21:37",
+          "21:42",
+          "23:42",
+          "23:45"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Which fraction is the smallest in the set: 21/23, 23/21, 16/21, 18/21?",
-    "choices": [
-      "21/23",
-      "23/21",
-      "16/21",
-      "18/21"
-    ],
-    "correctAnswer": 0
+      "question": "At what time does the Rajdhani Express arrive at Mughal Sarai Jn?",
+      "choices": [
+          "01:45 AM",
+          "01:55 AM",
+          "01:45 PM",
+          "01:55 PM"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "What is the sum of the fractions: 5/10, 8/10, 3/10, 7/10?",
-    "choices": [
-      "23/10",
-      "23/40",
-      "13/10",
-      "20/10"
-    ],
-    "correctAnswer": 0
+      "question": "How long is the Rajdhani Express scheduled to be at Gaya Jn?",
+      "choices": [
+          "3 minutes",
+          "5 minutes",
+          "10 minutes",
+          "15 minutes"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "What is the difference between the largest and smallest fraction in the set: 13/2, 13/4, 13/5, 13/8?",
-    "choices": [
-      "13/8",
-      "13/2",
-      "39/40",
-      "65/8"
-    ],
-    "correctAnswer": 2
+      "question": "What is the arrival time of the Rajdhani Express at Dhanbad Jn?",
+      "choices": [
+          "06:40 AM",
+          "06:45 AM",
+          "06:40 PM",
+          "06:45 PM"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "If you add 2/7, 4/7 and 6/7, what is the result?",
-    "choices": [
-      "12/7",
-      "12/21",
-      "2/7",
-      "10/7"
-    ],
-    "correctAnswer": 0
-  },
-    {
-    "question": "Fill in the box to make equivalent fractions: 1/4 = ?/12",
-    "choices": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correctAnswer": 2
+      "question": "When does the Rajdhani Express reach its destination station?",
+      "choices": [
+          "9:55 AM",
+          "9:55 PM",
+          "10:00 AM",
+          "10:00 PM"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "Fill in the box to make equivalent fractions: 2/5 = ?/10",
-    "choices": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
-    "correctAnswer": 2
+      "question": "In which city does the Rajdhani Express begin its journey?",
+      "choices": [
+          "Howrah",
+          "Dhanbad",
+          "New Delhi",
+          "Kanpur"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Fill in the box to make equivalent fractions: ?/33 = 7/21",
-    "choices": [
-      "7",
-      "11",
-      "13",
-      "15"
-    ],
-    "correctAnswer": 1
+      "question": "Adding 3 hours 20 minutes to 2 hours 40 minutes we get...",
+      "choices": [
+          "5 h",
+          "6 h",
+          "5 h 50 min",
+          "6 h 10 min"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Fill in the box to make equivalent fractions: 6/? = 30/36",
-    "choices": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "correctAnswer": 3
+      "question": "Which of the following is a leap year?",
+      "choices": [
+          "2100",
+          "2200",
+          "2300",
+          "2400"
+      ],
+      "correctAnswer": 3
   },
   {
-    "question": "Write the first five equivalent fractions for 6/12",
-    "choices": [
-      "1/2, 2/4, 3/6, 4/8, 5/10",
-      "1/2, 3/6, 5/10, 7/14, 9/18",
-      "1/2, 2/4, 3/6, 4/8, 5/10",
-      "1/2, 2/4, 3/6, 4/8, 5/10"
-    ],
-    "correctAnswer": 2
+      "question": "Which of the following should not take more than 1 minute to complete?",
+      "choices": [
+          "Studying before the examination",
+          "Counting from 1 to 20",
+          "Brushing your teeth",
+          "Eating your breakfast"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Write the first five equivalent fractions for 3/6",
-    "choices": [
-      "1/2, 2/4, 3/6, 4/8, 5/10",
-      "1/2, 3/6, 5/10, 7/14, 9/18",
-      "1/2, 2/4, 3/6, 4/8, 5/10",
-      "1/2, 2/4, 3/6, 4/8, 5/10"
-
-    ],
-    "correctAnswer": 0
+      "question": "The clock shows the time when Dolly leaves her house in the morning. She returns 8 hours and 45 minutes later. At what time does she return?",
+      "choices": [
+          "7:45 a.m.",
+          "8:00 a.m.",
+          "7:45 p.m.",
+          "8:00 p.m."
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Write the first five equivalent fractions for 7/10",
-    "choices": [
-      "1/2, 2/4, 3/6, 4/8, 5/10",
-      "1/2, 3/6, 5/10, 7/14, 9/18",
-      "14/20, 21/30, 28/40, 35/50, 42/60",
-      "1/2, 2/4, 3/6, 4/8, 5/10"
-    ],
-    "correctAnswer": 2
+      "question": "Give the starting time. (End Time: 6:20 p.m., Elapsed Time: 2 hrs 5 min)",
+      "choices": [
+          "8:15 p.m.",
+          "4:15 a.m.",
+          "4:15 p.m.",
+          "8:15 a.m."
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Are 5/25 and 11/22 equivalent fractions?",
-    "choices": [
-      "Yes",
-      "No"
-    ],
-    "correctAnswer": 0
+      "question": "What would you use to measure the length of recess in your school?",
+      "choices": [
+          "hours",
+          "days",
+          "minutes",
+          "months"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Are 4/40 and 7/70 equivalent fractions?",
-    "choices": [
-      "Yes",
-      "No"
-    ],
-    "correctAnswer": 0
+      "question": "The hours between midnight and noon are termed as p.m.",
+      "choices": [
+          "True",
+          "False"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Are 3/18 and 8/48 equivalent fractions?",
-    "choices": [
-      "Yes",
-      "No"
-    ],
-    "correctAnswer": 0
-  },
-    {
-    "question": "Convert the improper fraction 7/3 into a mixed fraction.",
-    "choices": ["2 1/3", "3 1/7", "1 4/3", "7/3"],
-    "correctAnswer": 0
+      "question": "Arsha's dance class began at 9:55 a.m. The class lasted for 50 min. Which clock shows the time when Arsha's class ended?",
+      "choices": [
+          "10:45",
+          "10:45",
+          "10:45",
+          "10:45"
+      ],
+      "correctAnswer": 3
   },
   {
-    "question": "Convert the improper fraction 17/8 into a mixed fraction.",
-    "choices": ["2 1/8", "8 1/2", "1 9/8", "17/8"],
-    "correctAnswer": 0
+      "question": "The Cricket Match between West Indies and India was going to be on February 27, 2020, but it was postponed by one week. What was the new date for the game?",
+      "choices": [
+          "2 March 2020",
+          "4 March 2020",
+          "3 April 2020",
+          "5 March 2020"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "Convert the improper fraction 32/6 into a mixed fraction.",
-    "choices": ["5 2/6", "6 2/32", "2 16/6", "32/6"],
-    "correctAnswer": 0
+      "question": "Amish feeds a cat from March 6 to March 20. For how many days is he feeding it?",
+      "choices": [
+          "14 days",
+          "15 days",
+          "1 week 7 days",
+          "2 weeks"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Convert the improper fraction 37/5 into a mixed fraction.",
-    "choices": ["7 2/5", "5 2/37", "7 2/7", "37/5"],
-    "correctAnswer": 0
+      "question": "4 hours is the same as",
+      "choices": [
+          "620 minutes",
+          "260 minutes",
+          "300 minutes",
+          "240 minutes"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Convert the improper fraction 89/7 into a mixed fraction.",
-    "choices": ["12 5/7", "7 12/7", "12 7/5", "89/7"],
-    "correctAnswer": 0
+      "question": "2 hours before noon will be",
+      "choices": [
+          "10 p.m.",
+          "10 a.m.",
+          "9 a.m.",
+          "2 p.m."
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Convert the improper fraction 100/8 into a mixed fraction.",
-    "choices": ["12 4/8", "8 4/100", "12 1/2", "100/8"],
-    "correctAnswer": 2
+      "question": "5 minutes 10 seconds is equal to",
+      "choices": [
+          "360 seconds",
+          "300 seconds",
+          "310 seconds",
+          "290 seconds"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Convert the mixed fraction 4 1/3 into an improper fraction.",
-    "choices": ["13/3", "12/3", "7/3", "4 1/3"],
-    "correctAnswer": 0
+      "question": "6:45 p.m. can be written as",
+      "choices": [
+          "15 min past 7",
+          "15 min to 6",
+          "45 min past 6",
+          "45 min to 7"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Convert the mixed fraction 10 1/9 into an improper fraction.",
-    "choices": ["91/9", "11/9", "101/9", "10 1/9"],
-    "correctAnswer": 0
+      "question": "There are ______ hours in 5 days.",
+      "choices": [
+          "120 hours",
+          "100 hours",
+          "300 hours",
+          "210 hours"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Convert the mixed fraction 9 4/5 into an improper fraction.",
-    "choices": ["49/5", "50/5", "13/5", "9 4/5"],
-    "correctAnswer": 0
+      "question": "3 hours after midnight is",
+      "choices": [
+          "00:30 hours",
+          "03:00 hours",
+          "30:00 hours",
+          "03:30 hours"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Convert the mixed fraction 15 3/4 into an improper fraction.",
-    "choices": ["63/4", "18/4", "15 3/4", "63/15"],
-    "correctAnswer": 0
-  },
-    {
-    "question": "Add the following fractions: 5/7 + 4/7",
-    "choices": [
-      "13/13",
-      "12 2/7 + 5/7",
-      "8 2/11 + 5 3/11",
-      "10 5/9 + 5/9"
-    ],
-    "correctAnswer": 0
+      "question": "2 days 10 hours is",
+      "choices": [
+          "34 hours",
+          "50 hours",
+          "58 hours",
+          "130 hours"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "Subtract the following fractions: 11/17 - 3/17",
-    "choices": [
-      "11/17 - 3/17",
-      "5/8 - 3/8",
-      "12 - 1/12",
-      "25/32 - 1/20"
-    ],
-    "correctAnswer": 0
+      "question": "22:10 hours (in 12-hour format)",
+      "choices": [
+          "10:22 a.m.",
+          "10:22 p.m.",
+          "22:10 a.m.",
+          "22:10 p.m."
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Nikunj spent 3/16 of total time in sleeping, 5/16 in playing and 6/16 in studying. What fraction of time has he spent in total till now? How much more time is left with him to spend?",
-    "choices": [
-      "14/16",
-      "12/16",
-      "2/16",
-      "1/16"
-    ],
-    "correctAnswer": 0
+      "question": "7:23 a.m. (in 24-hour format)",
+      "choices": [
+          "07:23 hours",
+          "19:23 hours",
+          "17:23 hours",
+          "07:23 p.m."
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "Natasha bought 12/24 m of a piece of cloth while her friend Charu bought 5/24 m of the same piece of cloth. What is the total length of cloth bought by them altogether?",
-    "choices": [
-      "17/24 m",
-      "16/24 m",
-      "7/24 m",
-      "1/24 m"
-    ],
-    "correctAnswer": 0
+      "question": "1:00 p.m. (in 24-hour format)",
+      "choices": [
+          "01:00 hours",
+          "13:00 hours",
+          "14:00 hours",
+          "21:00 hours"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "If the shopkeeper had only 23/24 m of this cloth piece, then how much cloth is left with him now?",
-    "choices": [
-      "1/24 m",
-      "2/24 m",
-      "3/24 m",
-      "4/24 m"
-    ],
-    "correctAnswer": 0
-  },
-    {
-    "question": "Which of the following is a mixed fraction?",
-    "choices": [
-      "7/4",
-      "3/8",
-      "9/10",
-      "13"
-    ],
-    "correctAnswer": 0
+      "question": "Convert 7 days 13 hours to hours.",
+      "choices": [
+          "176 hours",
+          "193 hours",
+          "187 hours",
+          "163 hours"
+      ],
+      "correctAnswer": 1
   },
   {
-    "question": "Insert appropriate sign 3/8 □ 4/8",
-    "choices": [
-      ">",
-      "<",
-      "=",
-      "Cannot be determined"
-    ],
-    "correctAnswer": 1
+      "question": "Convert 11 hours 43 minutes to minutes.",
+      "choices": [
+          "703 minutes",
+          "683 minutes",
+          "700 minutes",
+          "623 minutes"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "2/5 = □/15",
-    "choices": [
-      "9",
-      "6",
-      "3",
-      "1"
-    ],
-    "correctAnswer": 0
+      "question": "Convert 3 years 5 days to days.",
+      "choices": [
+          "1095 days",
+          "1090 days",
+          "1100 days",
+          "1098 days"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "4/11 + 9/11 = ?",
-    "choices": [
-      "7/11",
-      "1/11",
-      "2 1/11",
-      "7"
-    ],
-    "correctAnswer": 2
+      "question": "Convert 5 hours 2 minutes 12 seconds to seconds.",
+      "choices": [
+          "18132 seconds",
+          "18012 seconds",
+          "18122 seconds",
+          "18130 seconds"
+      ],
+      "correctAnswer": 2
   },
   {
-    "question": "The fraction equivalent to 3/7 is...",
-    "choices": [
-      "4/7",
-      "7/3",
-      "6/14",
-      "15/7"
-    ],
-    "correctAnswer": 2
+      "question": "Add 7 h 15 min and 12 h 43 min.",
+      "choices": [
+          "19 h 58 min",
+          "20 h 58 min",
+          "19 h 55 min",
+          "20 h 00 min"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "One-fourth of a day is...",
-    "choices": [
-      "2 hours",
-      "6 hours",
-      "12 hours",
-      "18 hours"
-    ],
-    "correctAnswer": 2
+      "question": "Add 16 min 39 s, 18 min 22 s, and 9 min 13 s.",
+      "choices": [
+          "44 min 14 s",
+          "43 min 14 s",
+          "44 min 12 s",
+          "43 min 12 s"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "When the numerator is greater than the denominator, it is a/an... fraction.",
-    "choices": [
-      "mixed",
-      "proper",
-      "improper",
-      "irregular"
-    ],
-    "correctAnswer": 2
+      "question": "Add 17 h 41 min and 19 h 12 min.",
+      "choices": [
+          "36 h 53 min",
+          "37 h 53 min",
+          "36 h 50 min",
+          "37 h 50 min"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "Fractions having the same denominators are called... fractions.",
-    "choices": [
-      "unlike",
-      "improper",
-      "like",
-      "proper"
-    ],
-    "correctAnswer": 2
+      "question": "Add 11 h 12 min 13 s and 13 h 12 min 11 s.",
+      "choices": [
+          "24 h 24 min 24 s",
+          "24 h 24 min 22 s",
+          "25 h 24 min 24 s",
+          "25 h 24 min 22 s"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "1/6 of a dozen is...",
-    "choices": [
-      "2",
-      "12",
-      "18",
-      "24"
-    ],
-    "correctAnswer": 0
+      "question": "Subtract 5 h 43 min from 7 h 17 min.",
+      "choices": [
+          "1 h 34 min",
+          "1 h 24 min",
+          "2 h 34 min",
+          "2 h 24 min"
+      ],
+      "correctAnswer": 0
   },
   {
-    "question": "What fraction of consonants are there in the word UMBRELLA?",
-    "choices": [
-      "3/8",
-      "4/8",
-      "5/8",
-      "6/8"
-    ],
-    "correctAnswer": 2
+      "question": "Subtract 18 s from 1 min.",
+      "choices": [
+          "42 s",
+          "40 s",
+          "48 s",
+          "52 s"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Find out if the following years are/were leap years or not: 2004",
+      "choices": [
+          "Yes",
+          "No"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Find out if the following years are/were leap years or not: 1994",
+      "choices": [
+          "Yes",
+          "No"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Find out if the following years are/were leap years or not: 1986",
+      "choices": [
+          "Yes",
+          "No"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Find out if the following years are/were leap years or not: 1900",
+      "choices": [
+          "Yes",
+          "No"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Find out if the following years are/were leap years or not: 2010",
+      "choices": [
+          "Yes",
+          "No"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Ajay's examinations started on 23rd August and finished on 9th September. For how many days did the examinations continue?",
+      "choices": [
+          "16 days",
+          "17 days",
+          "18 days"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Suraj was born on 14th November 2008. He is presently 3 years 1 month 5 days old. What is the current date?",
+      "choices": [
+          "19th December 2011",
+          "19th December 2012",
+          "14th December 2011"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "The London Olympic Games started on 27th July 2012 and ended on 12th August 2012. For how many days did the competition continue?",
+      "choices": [
+          "15 days",
+          "16 days",
+          "17 days"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Rajni's birthday is on 11th March. Her friend Suraj was born on 5th May. How many days separate their birthdays?",
+      "choices": [
+          "55 days",
+          "56 days",
+          "54 days"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Vicky's uncle went abroad on 18th February 2012 for 27 days. When did his uncle return?",
+      "choices": [
+          "16th March 2012",
+          "17th March 2012",
+          "15th March 2012"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many months are there in a year?",
+      "choices": [
+          "10",
+          "11",
+          "12",
+          "13"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many days are there in a normal year?",
+      "choices": [
+          "365",
+          "366",
+          "360",
+          "355"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many days are there in a leap year?",
+      "choices": [
+          "365",
+          "366",
+          "360",
+          "355"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "A leap year occurs every how many years?",
+      "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "In 2023, February has how many days?",
+      "choices": [
+          "28",
+          "29",
+          "30",
+          "31"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In 2023, April has how many days?",
+      "choices": [
+          "28",
+          "29",
+          "30",
+          "31"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "A year is a leap year if it is divisible by ____ but not by 100.",
+      "choices": [
+          "2",
+          "3",
+          "4",
+          "5"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "If a year is divisible by 4 and by 100, it is not a leap year unless it is also divisible by ____.",
+      "choices": [
+          "200",
+          "300",
+          "400",
+          "500"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many days does the Earth actually take to go around the Sun?",
+      "choices": [
+          "365",
+          "365 1/4",
+          "366",
+          "366 1/4"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "To calculate the number of days between two given dates, what should you remember?",
+      "choices": [
+          "The number of weeks in the year",
+          "The number of days present in that particular month",
+          "The number of leap years",
+          "The number of weekends"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Pinki takes 55 min 20 s to cover her books with brown paper. The next day she covered her sister's books in 1 h 10 min 40 s. Whose books took a longer time to cover and by how much?",
+      "choices": [
+          "Pinki's books by 15 min 20 s",
+          "Sister's books by 15 min 20 s",
+          "Pinki's books by 17 min 20 s",
+          "Sister's books by 17 min 20 s"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Gaurav spends 4 h 55 min 20 s studying in school. He also plays for 50 min 10 s. If the total time he spends in school is 6 hours, for how much time is Gaurav free?",
+      "choices": [
+          "1 h 14 min 40 s",
+          "1 h 5 min 40 s",
+          "2 h 14 min 40 s",
+          "2 h 5 min 40 s"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A boat started sailing at 11:40 hours and reached the opposite bank at 14:55 hours. How long did it sail?",
+      "choices": [
+          "3 h 15 min",
+          "2 h 15 min",
+          "4 h 15 min",
+          "5 h 15 min"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "A power breakdown started at 10:00 hours and lasted for 5 h 40 min. When did the power resume?",
+      "choices": [
+          "15:40",
+          "14:40",
+          "16:40",
+          "13:40"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "This question cannot be answered from the provided image.",
+      "choices": [],
+      "correctAnswer": null
+  },
+  {
+      "question": "This question cannot be answered from the provided image.",
+      "choices": [],
+      "correctAnswer": null
+  },
+  {
+      "question": "This question cannot be answered from the provided image.",
+      "choices": [],
+      "correctAnswer": null
+  },
+  {
+      "question": "This question cannot be answered from the provided image.",
+      "choices": [],
+      "correctAnswer": null
+  },
+  {
+      "question": "This question cannot be answered from the provided image.",
+      "choices": [],
+      "correctAnswer": null
+  },
+  {
+      "question": "This question cannot be answered from the provided image.",
+      "choices": [],
+      "correctAnswer": null
+  },
+  {
+      "question": "What should be the time on the fifth watch?",
+      "choices": [
+          "3:05",
+          "4:30",
+          "5:55",
+          "7:20",
+          "8:15"
+      ],
+      "correctAnswer": 4
+  },
+  {
+      "question": "The hour and minute hands of a clock are superimposed (comes one above the other) at 12:00. How many times do they get superimposed in a day?",
+      "choices": [
+          "11",
+          "12",
+          "22",
+          "24"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Add 10 h 10 min 10 s and 14 h 5 min 24 s",
+      "choices": [
+          "24 h 15 min 34 s",
+          "24 h 16 min 34 s",
+          "25 h 15 min 34 s",
+          "25 h 16 min 34 s"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Add 7 min 50 s and 3 min 40 s",
+      "choices": [
+          "10 min 130 s",
+          "11 min 30 s",
+          "11 min 90 s",
+          "10 min 90 s"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Add 5 h 25 min and 8 h 30 min",
+      "choices": [
+          "13 h 55 min",
+          "14 h 55 min",
+          "13 h 50 min",
+          "14 h 50 min"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Subtract 1 h 5 min from 4 h 23 min",
+      "choices": [
+          "3 h 18 min",
+          "2 h 18 min",
+          "3 h 28 min",
+          "2 h 28 min"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Subtract 55 min from 31 h 10 min",
+      "choices": [
+          "30 h 15 min",
+          "30 h 25 min",
+          "29 h 15 min",
+          "29 h 25 min"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Subtract 5 min 50 s from 8 min 40 s",
+      "choices": [
+          "2 min 50 s",
+          "3 min 50 s",
+          "2 min 10 s",
+          "3 min 10 s"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Mrs Dasgupta takes 45 min 23 s to make dal and 50 min 32 s to make chapattis. In how much time is her lunch ready?",
+      "choices": [
+          "1 h 35 min 55 s",
+          "1 h 36 min 55 s",
+          "1 h 35 min 56 s",
+          "1 h 36 min 56 s"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Subtract 3 h 34 min from 5 h 19 min.",
+      "choices": [
+          "1 h 45 min",
+          "2 h 15 min",
+          "1 h 15 min",
+          "2 h 45 min"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 14:20 hours to the 12-hour format.",
+      "choices": [
+          "2:20 PM",
+          "14:20 AM",
+          "2:20 AM",
+          "10:20 PM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 17:57 hours to the 12-hour format.",
+      "choices": [
+          "5:57 AM",
+          "5:57 PM",
+          "17:57 AM",
+          "17:57 PM"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Convert 20:20 hours to the 12-hour format.",
+      "choices": [
+          "8:20 AM",
+          "10:20 PM",
+          "8:20 PM",
+          "20:20 AM"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Convert 06:30 hours to the 12-hour format.",
+      "choices": [
+          "6:30 AM",
+          "6:30 PM",
+          "18:30 AM",
+          "18:30 PM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 22:00 hours to the 12-hour format.",
+      "choices": [
+          "10:00 PM",
+          "10:00 AM",
+          "2:00 PM",
+          "2:00 AM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 09:09 hours to the 12-hour format.",
+      "choices": [
+          "9:09 AM",
+          "9:09 PM",
+          "21:09 AM",
+          "21:09 PM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Sanjeev goes to school at 10:20 hours.  What is this time in 12-hour format?",
+      "choices": [
+          "10:20 AM",
+          "10:20 PM",
+          "22:20 AM",
+          "22:20 PM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Sanjeev returns from school at 15:45 hours. What is this time in 12-hour format?",
+      "choices": [
+          "3:45 AM",
+          "3:45 PM",
+          "15:45 AM",
+          "15:45 PM"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Sanjeev's lunch starts at 12:00 hours. What is this time in 12-hour format?",
+      "choices": [
+          "12:00 PM",
+          "12:00 AM",
+          "0:00 PM",
+          "0:00 AM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Sanjeev's lunch ends at 12:45 hours. What is this time in 12-hour format?",
+      "choices": [
+          "12:45 PM",
+          "12:45 AM",
+          "0:45 PM",
+          "0:45 AM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 2:34 a.m. to the 24-hour format.",
+      "choices": [
+          "02:34",
+          "14:34",
+          "22:34",
+          "12:34"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 5:50 p.m. to the 24-hour format.",
+      "choices": [
+          "05:50",
+          "17:50",
+          "15:50",
+          "23:50"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Convert 9:30 p.m. to the 24-hour format.",
+      "choices": [
+          "09:30",
+          "19:30",
+          "21:30",
+          "23:30"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Convert 11:00 a.m. to the 24-hour format.",
+      "choices": [
+          "11:00",
+          "23:00",
+          "00:00",
+          "13:00"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Convert 12 midnight to the 24-hour format.",
+      "choices": [
+          "12:00",
+          "00:00",
+          "24:00",
+          "12:00 am"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "Convert 4:34 p.m. to the 24-hour format.",
+      "choices": [
+          "04:34",
+          "16:34",
+          "14:34",
+          "20:34"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is 1:00 p.m. in 24-hour format?",
+      "choices": [
+          "01:00",
+          "13:00",
+          "12:00",
+          "24:00"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is 7:19 p.m. in 24-hour format?",
+      "choices": [
+          "07:19",
+          "19:19",
+          "17:19",
+          "23:19"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is 11:59 p.m. in 24-hour format?",
+      "choices": [
+          "11:59",
+          "23:59",
+          "12:59",
+          "00:59"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What is 00:05 hours in 12-hour format?",
+      "choices": [
+          "00:05 a.m.",
+          "12:05 p.m.",
+          "12:05 a.m.",
+          "00:05 p.m."
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What time does clock a) show?",
+      "choices": [
+          "9:57",
+          "7:24",
+          "3:17",
+          "11:11"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What time does clock b) show?",
+      "choices": [
+          "9:57",
+          "7:24",
+          "3:17",
+          "11:11"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What time does clock c) show?",
+      "choices": [
+          "9:57",
+          "7:24",
+          "3:17",
+          "11:11"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What time does clock d) show?",
+      "choices": [
+          "9:57",
+          "7:24",
+          "3:17",
+          "11:11"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What time does clock e) show?",
+      "choices": [
+          "12 minutes past 4",
+          "8 minutes to 8",
+          "18 minutes to 6",
+          "1 minute to 1"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What time does clock f) show?",
+      "choices": [
+          "12 minutes past 4",
+          "8 minutes to 8",
+          "18 minutes to 6",
+          "1 minute to 1"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What time does clock g) show?",
+      "choices": [
+          "12 minutes past 4",
+          "8 minutes to 8",
+          "18 minutes to 6",
+          "1 minute to 1"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What time does clock h) show?",
+      "choices": [
+          "12 minutes past 4",
+          "8 minutes to 8",
+          "18 minutes to 6",
+          "1 minute to 1"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "In the 24-hour format, how is 12 midnight denoted?",
+      "choices": [
+          "00:00 hours",
+          "12:00 hours",
+          "24:00 hours",
+          "12:00 a.m."
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "In the 24-hour format, are a.m. and p.m. used?",
+      "choices": [
+          "Yes",
+          "No"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What time is shown on clock a)?",
+      "choices": [
+          "3:34",
+          "8:08",
+          "10:52",
+          "6:29"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What time is shown on clock b)?",
+      "choices": [
+          "3:34",
+          "8:08",
+          "10:52",
+          "6:29"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What time is shown on clock c)?",
+      "choices": [
+          "3:34",
+          "8:08",
+          "10:52",
+          "6:29"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What time is shown on clock d)?",
+      "choices": [
+          "3:34",
+          "8:08",
+          "10:52",
+          "6:29"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "What time is shown on clock e)?",
+      "choices": [
+          "7:41",
+          "1:17",
+          "5:43",
+          "9:23"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What time is shown on clock f)?",
+      "choices": [
+          "7:41",
+          "1:17",
+          "5:43",
+          "9:23"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What time is shown on clock g)?",
+      "choices": [
+          "7:41",
+          "1:17",
+          "5:43",
+          "9:23"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What time is shown on clock h)?",
+      "choices": [
+          "7:41",
+          "1:17",
+          "5:43",
+          "9:23"
+      ],
+      "correctAnswer": 3
+  },
+  {
+      "question": "Match the clock showing 2:24 to its corresponding time.",
+      "choices": [
+          "4:24",
+          "6:47",
+          "8:12",
+          "11:53"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Match the clock showing 7:39 to its corresponding time.",
+      "choices": [
+          "4:24",
+          "6:47",
+          "7:39",
+          "10:01"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What time is it when the sun is shown in the image?",
+      "choices": [
+          "12 midnight",
+          "12 noon",
+          "6 AM",
+          "6 PM"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What time is it when the moon is shown sleeping in the image?",
+      "choices": [
+          "12 midnight",
+          "12 noon",
+          "6 AM",
+          "6 PM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "According to the image, what is one activity usually done in the A.M.?",
+      "choices": [
+          "Sleeping",
+          "Lunch",
+          "Breakfast",
+          "Playing with my brother"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "According to the image, what is one activity usually done in the P.M.?",
+      "choices": [
+          "Breakfast",
+          "Brushing",
+          "Sleeping",
+          "Bathing"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many markings are on a clock's dial?",
+      "choices": [
+          "10",
+          "11",
+          "12",
+          "24"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What is the difference in minutes between two consecutive markings on a clock's dial?",
+      "choices": [
+          "2",
+          "5",
+          "10",
+          "12"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If the minute hand touches the marking 10, how many minutes have passed?",
+      "choices": [
+          "10",
+          "50",
+          "55",
+          "60"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "If the minute hand touches the marking 11, how many minutes have passed?",
+      "choices": [
+          "11",
+          "50",
+          "55",
+          "60"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many small divisions are there between markings 10 and 11 on a clock?",
+      "choices": [
+          "3",
+          "4",
+          "5",
+          "6"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What minute is represented by the third small mark between the 10 and 11 markings?",
+      "choices": [
+          "51",
+          "52",
+          "53",
+          "54"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "What time will the clock in 3a show after 1 hour and 10 minutes?",
+      "choices": [
+          "2:10",
+          "1:10",
+          "2:50",
+          "1:50"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "What time will the digital clock in 3b show after 1 hour and 10 minutes?",
+      "choices": [
+          "08:40",
+          "07:40",
+          "08:10",
+          "09:40"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What time will the clock in 3c show after 1 hour and 10 minutes?",
+      "choices": [
+          "3:10",
+          "2:10",
+          "3:50",
+          "2:50"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Draw a clock showing 'Quarter past 3'. What time does it show?",
+      "choices": [
+          "3:15",
+          "2:45",
+          "3:45",
+          "2:15"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Draw a clock showing '10 minutes to 8'. What time does it show?",
+      "choices": [
+          "7:50",
+          "8:10",
+          "7:10",
+          "8:50"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Draw a clock showing '20 minutes past 9'. What time does it show?",
+      "choices": [
+          "9:20",
+          "8:40",
+          "9:40",
+          "10:20"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Draw a clock showing '7:25'. What time does it show?",
+      "choices": [
+          "7:25",
+          "6:35",
+          "7:35",
+          "6:25"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Draw a clock showing '6 o'clock'. What time does it show?",
+      "choices": [
+          "6:00",
+          "12:00",
+          "18:00",
+          "0:00"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "Draw a clock showing 'Half past 4'. What time does it show?",
+      "choices": [
+          "4:30",
+          "3:30",
+          "5:30",
+          "4:00"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "What is the time shown on the clock at the same position of the hour hand as 1:00 AM, but in PM?",
+      "choices": [
+          "1:00 PM",
+          "7:00 PM",
+          "1:00 AM",
+          "7:00 AM"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "5 hours 10 minutes  290 minutes",
+      "choices": [
+          "<",
+          ">",
+          "="
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "7 weeks  49 days",
+      "choices": [
+          "<",
+          ">",
+          "="
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "1 day 2 hours  26 hours",
+      "choices": [
+          "<",
+          ">",
+          "="
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "6 hours 45 minutes  10 minutes less than 7 hours",
+      "choices": [
+          "<",
+          ">",
+          "="
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "3/4 year  8 months",
+      "choices": [
+          "<",
+          ">",
+          "="
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "Sanjay plays for 40 minutes every day. How much time does he spend playing in a week?",
+      "choices": [
+          "280 minutes",
+          "40 minutes",
+          "200 minutes"
+      ],
+      "correctAnswer": 0
+  },
+  {
+      "question": "How many minutes are there in 2 hours?",
+      "choices": [
+          "60 minutes",
+          "120 minutes",
+          "180 minutes"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many hours are there in a day?",
+      "choices": [
+          "12 hours",
+          "24 hours",
+          "36 hours"
+      ],
+      "correctAnswer": 1
+  },
+  {
+      "question": "How many days are there in a week?",
+      "choices": [
+          "5 days",
+          "6 days",
+          "7 days"
+      ],
+      "correctAnswer": 2
+  },
+  {
+      "question": "How many months are there in a year?",
+      "choices": [
+          "10 months",
+          "11 months",
+          "12 months"
+      ],
+      "correctAnswer": 2
   }
 ]
