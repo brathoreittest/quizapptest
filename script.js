@@ -1,9 +1,12 @@
 // Chapters for each subject
 const chapters = {
     maths: ['Fractions', 'Measurement', 'Perimeter and Area', 'Time', 'Data Handling', 'Introduction to Decimals'],
-    science: ['Air, Water, Weather', 'The Solar System', 'Animal Reproduction','Teeth and Digestion'],
+    science: ['Animals Living Surviving','Air, Water, Weather', 'The Solar System', 'Animal Reproduction','Teeth and Digestion'],
     social: ['Our Water Resources', 'Our Soil Resources', 'Our Forest & Wildlife', 'Our Rights & Duties', 'Our Human Resources', 'Our Mineral Resources','The Southern Plateaus'],
-    computers: ['Programming', 'Database', 'Networking', 'Web Development']
+    computers: ['Programming', 'Database', 'Networking', 'Web Development'],
+    english: ['Programming', 'Database', 'Networking', 'Web Development'],
+    hindi: ['Programming', 'Database', 'Networking', 'Web Development'],
+    gkvalue: ['Programming', 'Database', 'Networking', 'Web Development']
 };
 
 // Global variables for the quiz
