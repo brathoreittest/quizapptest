@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header with Navigation Bar -->
+    <header>
+        <h1>Quiz App</h1>
+        <nav>
+            <ul class="menu">
+                <li class="dropdown">
+                    <a href="#">Maths</a>
+                    <ul class="submenu" id="maths-chapters"></ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#">Science</a>
+                    <ul class="submenu" id="science-chapters"></ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#">Social Studies</a>
+                    <ul class="submenu" id="social-chapters"></ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#">Computers</a>
+                    <ul class="submenu" id="computers-chapters"></ul>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Section for Chapter Selection -->
+    <section class="chapter-container">
+        <h2>Select a Chapter</h2>
+        <div class="chapter-buttons"></div>
+    </section>
+
+    <!-- Question Container -->
+    <section class="question-container" style="display: none;">
+        <h2 id="question"></h2>
+        <ul id="choices"></ul>
+        <p id="feedback"></p>
+        <button id="next-btn" style="display: none;">Next</button>
+    </section>
+
+    <!-- Result Display -->
+    <section id="result"></section>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
