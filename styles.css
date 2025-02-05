@@ -1,85 +1,151 @@
-/* Basic Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
+/* Basic styles for the body */
 body {
     font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
 }
 
-/* Header Styling */
+/* Header with navigation */
 header {
-    background: #007bff;
+    background-color: #333;
     color: white;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
 }
 
-/* Navigation Bar */
-nav {
-    background: #0056b3;
+h1 {
+    margin: 0;
 }
 
-.menu {
+/* Menu styles */
+nav ul.menu {
     list-style: none;
+    padding: 0;
+    margin: 0;
     display: flex;
     justify-content: center;
-    padding: 0;
 }
 
-.menu li {
+nav ul.menu li {
     position: relative;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
 }
 
-.menu > li > a {
-    display: block;
-    padding: 15px 20px;
+nav ul.menu li a {
     color: white;
     text-decoration: none;
-    transition: background 0.3s;
+    font-weight: bold;
 }
 
-.menu > li > a:hover {
-    background: #003f7f;
+/* Dropdown styles */
+nav ul.menu li:hover .submenu {
+    display: block;
 }
 
-/* Submenu (Hidden by Default) */
-.submenu {
-    list-style: none;
+nav ul.menu li .submenu {
+    display: none;
     position: absolute;
     top: 100%;
     left: 0;
-    background: #ffffff;
-    width: 200px;
-    border-radius: 5px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    display: none;
-    z-index: 1000;
+    background-color: #333;
+    width: 180px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
-.submenu li {
-    border-bottom: 1px solid #ddd;
-}
-
-.submenu li:last-child {
-    border-bottom: none;
-}
-
-.submenu li a {
-    display: block;
+nav ul.menu li .submenu li {
     padding: 10px;
-    color: #333;
-    text-decoration: none;
-    transition: background 0.3s;
+    background-color: #333;
+    color: white;
+    cursor: pointer;
 }
 
-.submenu li a:hover {
-    background: #f0f0f0;
+nav ul.menu li .submenu li:hover {
+    background-color: #575757;
 }
 
-/* Show submenu on hover */
-.menu li:hover .submenu {
-    display: block;
+/* Section styles */
+.chapter-container, .question-container, #result {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Chapter buttons in chapter-container */
+.chapter-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.chapter-buttons button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.chapter-buttons button:hover {
+    background-color: #575757;
+}
+
+/* Question container styles */
+.question-container {
+    display: none;
+}
+
+#choices {
+    list-style: none;
+    padding: 0;
+}
+
+#choices li {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#choices li:hover {
+    background-color: #ddd;
+}
+
+#feedback {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#next-btn {
+    display: none;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#next-btn:hover {
+    background-color: #575757;
+}
+
+/* Result section styles */
+#result {
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
 }
