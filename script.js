@@ -36,7 +36,7 @@ const loadQuestions = (subject, chapter) => {
     fetch(`questions/${subject}/${chapter}.json`)
         .then(response => response.json())
         .then(data => {
-            questions = shuffleArray(data).slice(0, 5); // Shuffle and select 30 questions
+            questions = shuffleArray(data).slice(0, 20); // Shuffle and select 30 questions
             currentQuestionIndex = 0;
             correctAnswers = 0;
             wrongAttempts = 0;
