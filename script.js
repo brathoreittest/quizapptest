@@ -1,8 +1,8 @@
 // Chapters for each subject
 const chapters = {
-    maths: ['Fractions','Money', 'Measurement', 'Perimeter and Area', 'Time', 'Data Handling', 'Introduction to Decimals'],
-    science: ['The Environment','Animals Living Surviving','Air, Water, Weather', 'The Solar System', 'Animal Reproduction','Teeth and Digestion'],
-    social: ['Our Water Resources', 'Our Soil Resources', 'Our Forest & Wildlife', 'Our Rights & Duties', 'Our Human Resources', 'Our Mineral Resources','The Southern Plateaus'],
+    maths: ['Fractions', 'Money', 'Measurement', 'Perimeter and Area', 'Time', 'Data Handling', 'Introduction to Decimals'],
+    science: ['The Environment', 'Animals Living Surviving', 'Air, Water, Weather', 'The Solar System', 'Animal Reproduction', 'Teeth and Digestion'],
+    social: ['Our Water Resources', 'Our Soil Resources', 'Our Forest & Wildlife', 'Our Rights & Duties', 'Our Human Resources', 'Our Mineral Resources', 'The Southern Plateaus'],
     computers: ['Programming', 'Database', 'Networking', 'Web Development'],
     english: ['Programming', 'Database', 'Networking', 'Web Development'],
     hindi: ['Programming', 'Database', 'Networking', 'Web Development'],
@@ -12,20 +12,20 @@ const chapters = {
 // Global variables for the quiz
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
+let wrongAttempts = 0; // Track total wrong attempts
 let questions = [];
+let questionAttempts = {}; // Track wrong attempts per question
 
 // Function to populate chapters for each subject
 function populateChapters() {
-    // Iterate through each subject
     for (const subject in chapters) {
         const chapterList = chapters[subject];
         const subjectElement = document.getElementById(`${subject}-chapters`);
-        
-        // Create list items for each chapter in the subject
+
         chapterList.forEach(chapter => {
             const listItem = document.createElement('li');
             listItem.textContent = chapter;
-            listItem.addEventListener('click', () => loadQuestions(subject, chapter));  // Add click event for chapter
+            listItem.addEventListener('click', () => loadQuestions(subject, chapter)); // Load questions on click
             subjectElement.appendChild(listItem);
         });
     }
@@ -33,21 +33,22 @@ function populateChapters() {
 
 // Load questions from the specific chapter's JSON file
 const loadQuestions = (subject, chapter) => {
-    fetch(`questions/${subject}/${chapter}.json`)  // Load the appropriate JSON file
+    fetch(`questions/${subject}/${chapter}.json`)
         .then(response => response.json())
         .then(data => {
-            // Randomly shuffle questions and select 30
-            questions = shuffleArray(data).slice(0, 30);
+            questions = shuffleArray(data).slice(0, 5); // Shuffle and select 30 questions
             currentQuestionIndex = 0;
             correctAnswers = 0;
-            showQuestion();  // Display the first question
-            document.querySelector('.chapter-container').style.display = 'none';  // Hide chapter selection
-            document.querySelector('.question-container').style.display = 'block';  // Show question container
+            wrongAttempts = 0;
+            questionAttempts = {}; // Reset wrong attempts tracking
+            showQuestion();
+            document.querySelector('.chapter-container').style.display = 'none';
+            document.querySelector('.question-container').style.display = 'block';
         })
         .catch(error => console.error('Error loading questions:', error));
 };
 
-// Function to shuffle an array (Fisher-Yates Shuffle)
+// Shuffle an array (Fisher-Yates Shuffle)
 const shuffleArray = (array) => {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -59,35 +60,42 @@ const shuffleArray = (array) => {
 // Display the current question
 const showQuestion = () => {
     const question = questions[currentQuestionIndex];
-    // Add the question number
     document.getElementById('question').textContent = `Question ${currentQuestionIndex + 1}: ${question.question}`;
     const choicesList = document.getElementById('choices');
-    choicesList.innerHTML = '';  // Clear previous choices
+    choicesList.innerHTML = '';
 
-    // Add choices as clickable list items
     question.choices.forEach((choice, index) => {
         const li = document.createElement('li');
         li.textContent = choice;
         li.addEventListener('click', () => checkAnswer(index));
         choicesList.appendChild(li);
     });
+
+    document.getElementById('feedback').textContent = ''; // Clear previous feedback
+    document.getElementById('next-btn').style.display = 'none'; // Hide "Next" button
 };
 
 // Check if the selected answer is correct
 const checkAnswer = (selectedIndex) => {
     const question = questions[currentQuestionIndex];
     const feedback = document.getElementById('feedback');
-    
+
+    if (!questionAttempts[currentQuestionIndex]) {
+        questionAttempts[currentQuestionIndex] = 0; // Initialize tracking for this question
+    }
+
     if (selectedIndex === question.correctAnswer) {
         correctAnswers++;
         feedback.textContent = 'Correct!';
         feedback.style.color = 'green';
     } else {
+        questionAttempts[currentQuestionIndex]++; // Increment wrong attempts
+        wrongAttempts++;
         feedback.textContent = 'Incorrect!';
         feedback.style.color = 'red';
     }
 
-    document.getElementById('next-btn').style.display = 'block';  // Show "Next" button
+    document.getElementById('next-btn').style.display = 'block'; // Show "Next" button
 };
 
 // Show the next question or end the quiz
@@ -96,8 +104,6 @@ const showNextQuestion = () => {
 
     if (currentQuestionIndex < questions.length) {
         showQuestion();
-        document.getElementById('next-btn').style.display = 'none';  // Hide "Next" button
-        document.getElementById('feedback').textContent = '';  // Clear feedback
     } else {
         showResult();
     }
@@ -106,9 +112,9 @@ const showNextQuestion = () => {
 // Display the result after completing the quiz
 const showResult = () => {
     const result = document.getElementById('result');
-    result.innerHTML = `Quiz Complete!<br>Correct Answers: ${correctAnswers} / ${questions.length}`;
-    result.style.display = 'block';  // Show result
-    document.querySelector('.question-container').style.display = 'none';  // Hide question container
+    result.innerHTML = `Quiz Complete!<br>Correct Answers: ${correctAnswers} / ${questions.length}<br>Wrong Attempts: ${wrongAttempts}`;
+    result.style.display = 'block';
+    document.querySelector('.question-container').style.display = 'none';
 };
 
 // "Next" button functionality
