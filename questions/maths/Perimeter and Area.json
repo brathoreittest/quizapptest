@@ -40,14 +40,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "Rishabh was trying to find out the length of the side with the question mark in the figure alongside. He decided that the question mark side is 7 m. He was:",
-        "choices": [
-            "Correct",
-            "Incorrect"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "Which of the following units cannot be used to measure the perimeter of a square?",
         "choices": [
             "cm",
@@ -66,16 +58,6 @@
             "19 cm"
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "Which of the two (a rectangle having a length of 15 cm and a perimeter equal to the square drawn in question (a), and the square drawn in question (a)) has a greater area?",
-        "choices": [
-            "The rectangle",
-            "The square",
-            "Both have equal areas",
-            "Cannot be determined"
-        ],
-        "correctAnswer": 1
     },
     {
         "question": "Aastha wants to pack a present in a box (length 26 cm, thickness 15 cm). She has 1 m of ribbon. Will it be enough to wrap around the gift once?",
@@ -124,16 +106,6 @@
             "12 cm",
             "48 cm",
             "14 cm"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "Calculate the area of the figure a) in question 1.",
-        "choices": [
-            "16 sq cm",
-            "20 sq cm",
-            "24 sq cm",
-            "28 sq cm"
         ],
         "correctAnswer": 1
     },
