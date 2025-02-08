@@ -314,19 +314,19 @@
       "correctAnswer": 0
   },
   {
-      "question": "Nikunj spent 3/16 of total time in sleeping, 5/16 in playing and 6/16 in studying. What fraction of time has he spent in total till now? How much more time is left with him to spend?",
-      "choices": [],
-      "correctAnswer": -1
+    "question": "Nikunj spent 3/16 of total time in sleeping, 5/16 in playing and 6/16 in studying. What fraction of time has he spent in total till now? How much more time is left with him to spend?",
+    "choices": ["14/16 spent, 2/16 left", "12/16 spent, 4/16 left", "15/16 spent, 1/16 left", "10/16 spent, 6/16 left"],
+    "correctAnswer": 2
   },
   {
-      "question": "Natasha bought 12/24 m of a piece of cloth while her friend Charu bought 5/24 m of the same piece of cloth. What is the total length of cloth bought by them altogether?",
-      "choices": [],
-      "correctAnswer": -1
+    "question": "Natasha bought 12/24 m of a piece of cloth while her friend Charu bought 5/24 m of the same piece of cloth. What is the total length of cloth bought by them altogether?",
+    "choices": ["15/24 m", "17/24 m", "12/24 m", "18/24 m"],
+    "correctAnswer": 0
   },
   {
-      "question": "If the shopkeeper had only 23/24 m of this cloth piece, then how much cloth is left with him now?",
-      "choices": [],
-      "correctAnswer": -1
+    "question": "If the shopkeeper had only 23/24 m of this cloth piece, then how much cloth is left with him now?",
+    "choices": ["8/24 m", "10/24 m", "5/24 m", "7/24 m"],
+    "correctAnswer": 2
   },
   {
       "question": "Which of the following is a mixed fraction?",
@@ -396,7 +396,7 @@
           "improper",
           "irregular"
       ],
-      "correctAnswer": 2
+      "correctAnswer": 1
   },
   {
       "question": "Fractions having the same denominators are called... fractions.",
