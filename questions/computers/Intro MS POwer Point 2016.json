@@ -1,0 +1,1200 @@
+[
+    {
+        "question": "What is displayed by WordArt?",
+        "choices": [
+            "Very small images of all slides",
+            "Text attractive and effective",
+            "Name of the presentation",
+            "Text to a slide"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a Text Box used for?",
+        "choices": [
+            "Display images",
+            "Make the text attractive and effective",
+            "Name of the presentation",
+            "Add text to a slide"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does a Slide tab display?",
+        "choices": [
+            "Name of the presentation",
+            "To add text to slide",
+            "The current slide",
+            "Very small images of all slides"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the Title bar used to do?",
+        "choices": [
+            "Add text to a slide",
+            "Edit the presentation",
+            "Display current slide",
+            "Make text effective"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Rearrange the letters 'Lides'",
+        "choices": [
+            "Diles",
+            "Lines",
+            "Slides",
+            "Silde"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Rearrange the letters 'Rtasamitt'",
+        "choices": [
+            "Ratsamitt",
+            "Smartart",
+            "Tarsamitt",
+            "Marstait"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is not mentioned as a topic for a PowerPoint presentation?",
+        "choices": [
+            "Food",
+            "Weather",
+            "Asian Countries",
+            "Transportation"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Rearrange the letters 'Bcaksaeg'",
+        "choices": [
+            "Bacskaeg",
+            "Backstage",
+            "Bcksage",
+            "Basckage"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Rearrange the letters 'Fneseptiontat'",
+        "choices": [
+            "Presentattion",
+            "Presentation",
+            "Prentation",
+            "Prsentation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you also do to save the presentation?",
+        "choices": [
+            "Save it in the documents folder",
+            "Save it on a USB drive",
+            "Save it with your name on the desktop",
+            "Save it with a common name"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following displays the name of a presentation?",
+        "choices": [
+            "Title bar",
+            "Status bar",
+            "Task bar",
+            "Quick access tool bar"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Placeholder can be entered in the text by ______ inside it.",
+        "choices": [
+            "Click",
+            "Double-click",
+            "Drag",
+            "None of these"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which one of these options cannot be added to a presentation?",
+        "choices": [
+            "Sounds",
+            "Colour",
+            "Images",
+            "Drawings"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "______ is used to write notes about the current slide for our reference.",
+        "choices": [
+            "Notes Pane",
+            "Slide tab",
+            "Ribbon",
+            "Ruler"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "______ displays the most commonly used commands.",
+        "choices": [
+            "Save",
+            "Save As",
+            "Placeholders",
+            "Task pane"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "When we open a blank presentation we can see ______ on it.",
+        "choices": [
+            "Save",
+            "Save As",
+            "Placeholders",
+            "Task pane"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "We use ______ command to create a copy of a presentation while keeping the original.",
+        "choices": [
+            "Save",
+            "Save As",
+            "Placeholders",
+            "Task pane"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "______ help to switch between normal view, a slide sorter view, a reading view, and a slide show view.",
+        "choices": [
+            "Save",
+            "Save As",
+            "Placeholders",
+            "View Buttons"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "When we create or edit a presentation, we use the ______ command to save our changes.",
+        "choices": [
+            "Save",
+            "Save As",
+            "Placeholders",
+            "Task pane"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "PowerPoint allows various text alignments to organize our data.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Google Slides is an app that allows you to:",
+        "choices": [
+            "Create and edit presentations",
+            "Collaborate with others",
+            "All of the above",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Google Slides can be used on:",
+        "choices": [
+            "Android phone",
+            "Tablet",
+            "Both Android phone and tablet",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "With Google Slides, you can share presentations and work on the same presentation:",
+        "choices": [
+            "At different times",
+            "At the same time",
+            "Never",
+            "Sometimes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Can Google Slides function offline?",
+        "choices": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Only with a premium subscription"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What happens to your work in Google Slides?",
+        "choices": [
+            "It is saved manually",
+            "It is saved automatically when you type",
+            "It is lost when you close the app",
+            "It is only saved online"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of files can be opened, edited, and saved using Google Slides?",
+        "choices": [
+            "Text files",
+            "Office files",
+            "Audio files",
+            "Video files"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Presentation graphics software helps in creating:",
+        "choices": [
+            "Slide shows",
+            "Diagrams",
+            "Charts",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does Formatting Toolbar consist of?",
+        "choices": [
+            "Text boxes",
+            "Common formatting commands",
+            "Shapes",
+            "Images"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a theme in a presentation?",
+        "choices": [
+            "A predefined combination of colours, fonts and effects",
+            "A single background image",
+            "A type of slide layout",
+            "A collection of animations"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are Placeholders?",
+        "choices": [
+            "Dotted rectangular boxes where we can type our text",
+            "The title of the slide",
+            "The images on the slide",
+            "The animations on the slide"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, how many ways are there to close a PowerPoint presentation?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first step mentioned for exiting MS PowerPoint 2016?",
+        "choices": [
+            "Click the Office button",
+            "Click the Close button",
+            "Press CTRL+W",
+            "Select 'Exit' from the File menu"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After clicking the Office button, what option should you choose to close the presentation?",
+        "choices": [
+            "Save",
+            "Open",
+            "Close",
+            "Account"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the keyboard shortcut mentioned in the text to close a PowerPoint presentation?",
+        "choices": [
+            "CTRL+S",
+            "CTRL+O",
+            "CTRL+W",
+            "CTRL+X"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which button needs to be clicked in Step 2?",
+        "choices": [
+            "Home",
+            "Open",
+            "Account",
+            "Share"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To easily find files, which icon should you click?",
+        "choices": [
+            "Folders",
+            "Presentations",
+            "Pin",
+            "Name"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the third step for exiting MS PowerPoint 2016?",
+        "choices": [
+            "Click the Office Button",
+            "Click the Close Button",
+            "Use the keyboard shortcut CTRL+W",
+            "Select the account settings"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The text mentions creating a PDF and sharing link via?",
+        "choices": [
+            "Chrome",
+            "Outlook",
+            "Desktop",
+            "OneDrive"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is listed under Other Locations?",
+        "choices": [
+            "New",
+            "Recent",
+            "This PC",
+            "Home"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the images which of the following can you do?",
+        "choices": [
+            "Save an image",
+            "Create a new document",
+            "Create a PDF",
+            "Adjust the screen brightness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To delete a slide, you need to _______ on the slide and select 'Delete Slide'.",
+        "choices": [
+            "Left Click",
+            "Double Click",
+            "Right Click",
+            "Middle Click"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which key on the keyboard can be used to start a presentation in full-screen mode?",
+        "choices": [
+            "F1",
+            "F5",
+            "Esc",
+            "Tab"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where is the 'Start from beginning' command located?",
+        "choices": [
+            "File Menu",
+            "Quick Access Toolbar",
+            "View Tab",
+            "Insert Tab"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What command can you select at the bottom of the PowerPoint window to begin a presentation?",
+        "choices": [
+            "Start Presentation",
+            "Slide Show view",
+            "Present Now",
+            "Full Screen"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which tab do you go to to access more slide show options on the Ribbon?",
+        "choices": [
+            "Animations",
+            "Transitions",
+            "Slide Show",
+            "Review"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In PowerPoint, what is the name of the area at the top of the window that houses tabs with commands?",
+        "choices": [
+            "Toolbar",
+            "Ribbon",
+            "Menu bar",
+            "Quick Access Bar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is an option found under the Slide Show tab?",
+        "choices": [
+            "Cut",
+            "Duplicate Slide",
+            "Set Up Slide Show",
+            "Photo Album"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What options can be controlled under the Slide Show tab?",
+        "choices": [
+            "Play Narrations",
+            "Use Timings",
+            "Show Media Controls",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "To access advanced presentation options, go to the ______ tab.",
+        "choices": [
+            "Animations",
+            "Transitions",
+            "Slide Show",
+            "Record"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which key can be used to begin your presentation?",
+        "choices": [
+            "F2",
+            "F3",
+            "F4",
+            "F5"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What are the two ways Powerpoint offers to save a file?",
+        "choices": [
+            "Save and Open",
+            "Save and Save As",
+            "Save As and Open",
+            "Save and New"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When do you need to choose a different name and/or location for the copied version of a file?",
+        "choices": [
+            "When using Save",
+            "When creating a new file",
+            "When using Save As",
+            "When opening an existing file"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where can you find the Save command in PowerPoint?",
+        "choices": [
+            "On the ribbon",
+            "On the Quick Access Toolbar",
+            "In the File menu",
+            "In the View menu"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If you're saving the file for the first time, which panel will appear?",
+        "choices": [
+            "The Save panel",
+            "The Save As panel",
+            "The New Presentation panel",
+            "The Open panel"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where do you need to choose the location to save the file?",
+        "choices": [
+            "In the Save panel",
+            "In the Save As panel",
+            "In the File menu",
+            "In the Quick Access Toolbar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the next step after entering a file name?",
+        "choices": [
+            "Click Open",
+            "Click Save",
+            "Click New",
+            "Click Browse"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the keyboard shortcut to save a presentation?",
+        "choices": [
+            "CTRL+O",
+            "CTRL+N",
+            "CTRL+S",
+            "CTRL+A"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which option in the Save As panel allows you to save the file to a cloud location?",
+        "choices": [
+            "This PC",
+            "OneDrive",
+            "Add a Place",
+            "Browse"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the Save As window, what is displayed in the 'File name' text box?",
+        "choices": [
+            "PowerPoint Presentation",
+            "New Microsoft PowerPoint Presentation",
+            "Document1",
+            "Presentation1"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which tab is NOT shown in the image of the ribbon in the 'Saving a Presentation' section?",
+        "choices": [
+            "Insert",
+            "Design",
+            "Transitions",
+            "View"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What tab contains the 'New Slide' command?",
+        "choices": [
+            "Insert",
+            "Design",
+            "Home",
+            "View"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The New Wellness Program will be implemented in which month?",
+        "choices": [
+            "December",
+            "February",
+            "January",
+            "March"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of slide can you insert by clicking the bottom half of the 'New Slide' commands?",
+        "choices": [
+            "Title Slide",
+            "Blank Slide",
+            "Title and Content",
+            "Section Header"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What slide layout contains both a title and content section?",
+        "choices": [
+            "Title Slide",
+            "Blank",
+            "Title and Content",
+            "Content with Caption"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a slide layout option?",
+        "choices": [
+            "Title Only",
+            "Blank",
+            "Title and Content",
+            "Duplicate Selected Slides"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following companies is mentioned in the wellness program?",
+        "choices": [
+            "BioEnergy Inc.",
+            "Geb BioFuels",
+            "Global Fuels",
+            "Green Energy"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where can you find the 'Duplicate Selected Slides' option?",
+        "choices": [
+            "Under the Insert tab",
+            "When you click on 'New Slide'",
+            "In the 'Design' tab",
+            "Under the 'Review' tab"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which tab in MS Power Point has an Acrobat option?",
+        "choices": [
+            "Home",
+            "Review",
+            "View",
+            "Help"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the third option under the 'New Slide' options?",
+        "choices": [
+            "Title and Content",
+            "Section Header",
+            "Two Content",
+            "Comparison"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the 'New Slide' options, what is directly below 'Title and Content'?",
+        "choices": [
+            "Blank",
+            "Title Only",
+            "Section Header",
+            "Content with Caption"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which tab do you need to select to insert a picture?",
+        "choices": [
+            "File",
+            "Home",
+            "Insert",
+            "Design"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "After selecting the Insert tab, which command do you click to insert a picture?",
+        "choices": [
+            "New Slide",
+            "Table",
+            "Pictures",
+            "Shapes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In which group can you find the Pictures command?",
+        "choices": [
+            "Slides",
+            "Tables",
+            "Images",
+            "Illustrations"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What appears after selecting the Pictures command?",
+        "choices": [
+            "A new slide",
+            "A table",
+            "A dialog box",
+            "A text box"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What action should you take after the dialog box appears?",
+        "choices": [
+            "Close the dialog box",
+            "Locate and select the desired image file",
+            "Click the 'Cancel' button",
+            "Select all files"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After locating the image, what button should you click in the dialog box?",
+        "choices": [
+            "Cancel",
+            "Tools",
+            "Insert",
+            "All Pictures"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where can you find the Pictures command?",
+        "choices": [
+            "Links group",
+            "Comments group",
+            "Illustrations group",
+            "Images group"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What happens after you click the text box in Step 3?",
+        "choices": [
+            "Nothing",
+            "It disappears",
+            "You can begin typing",
+            "It changes color"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the folder shown on the picture from where the image is being selected?",
+        "choices": [
+            "Downloads",
+            "Documents",
+            "Pictures",
+            "Videos"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following buttons is available on the 'Insert Picture' dialog box?",
+        "choices": [
+            "OK",
+            "Cancel",
+            "Exit",
+            "Submit"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a theme in the context of slide presentations?",
+        "choices": [
+            "A single font style.",
+            "A predefined combination of colours, fonts, and effects.",
+            "Only the background colour of the slide.",
+            "A type of animation effect."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which tab should you select to apply a theme in PowerPoint?",
+        "choices": [
+            "Home",
+            "Insert",
+            "Design",
+            "View"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What represents a theme in the Themes group?",
+        "choices": [
+            "A single colour",
+            "A shape",
+            "Each Image",
+            "A text style"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was MS PowerPoint first known as?",
+        "choices": [
+            "Illustrator",
+            "Presenter",
+            "Publisher",
+            "Word"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When was MS PowerPoint first offered for Macintosh?",
+        "choices": [
+            "1985",
+            "1990",
+            "1989",
+            "1995"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where can text be inserted in a slide?",
+        "choices": [
+            "Only in text boxes",
+            "Only in placeholders",
+            "In placeholders and text boxes",
+            "Only in the notes section"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first step to insert a text box?",
+        "choices": [
+            "Select the Home tab",
+            "Select the Text Box command from the Insert tab",
+            "Click and drag on the slide",
+            "Select the Design tab"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happens to text boxes when the theme is changed?",
+        "choices": [
+            "They disappear",
+            "They always stay in the same place",
+            "They change position",
+            "They change size"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To insert a text box, which command should you select from the Insert tab?",
+        "choices": [
+            "Shapes",
+            "Header & Footer",
+            "Text Box",
+            "WordArt"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "After selecting the Text Box command, what is the next step?",
+        "choices": [
+            "Type the text",
+            "Change the font",
+            "Click and drag to draw the text box on the slide",
+            "Choose a colour"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The keyboard shortcut to open a new presentation is:",
+        "choices": [
+            "Ctrl+O",
+            "Ctrl+S",
+            "Ctrl+N",
+            "Ctrl+W"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In step 1, which tab should be selected to go to Backstage view?",
+        "choices": [
+            "Home",
+            "Insert",
+            "File",
+            "Design"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In step 2, after selecting 'New', what should you click to create a new presentation?",
+        "choices": [
+            "Welcome to PowerPoint",
+            "Blank Presentation",
+            "Floral Flourish",
+            "Geometric Color Block"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What command does Ctrl+N execute?",
+        "choices": [
+            "Save a presentation",
+            "Open an existing presentation",
+            "Create a new presentation",
+            "Close a presentation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What command does Ctrl+O execute?",
+        "choices": [
+            "Open an existing presentation",
+            "Save a presentation",
+            "Create a new presentation",
+            "Undo an action"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What command does Ctrl+S execute?",
+        "choices": [
+            "Close a presentation",
+            "Save a presentation",
+            "Open an existing presentation",
+            "Create a new presentation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which shortcut key opens the Save As dialog box?",
+        "choices": [
+            "Ctrl+W",
+            "Ctrl+Q",
+            "F12 or Alt+F2",
+            "Ctrl+Z"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which shortcut key closes a presentation?",
+        "choices": [
+            "Ctrl+W or Ctrl+F4",
+            "Ctrl+Q",
+            "Ctrl+Z",
+            "Alt+H"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which command does Ctrl+Z execute?",
+        "choices": [
+            "Save and close a presentation.",
+            "Undo an action",
+            "Go to the Home tab.",
+            "Open the Insert tab."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which shortcut key goes to the Home tab?",
+        "choices": [
+            "Alt+N",
+            "Alt+H",
+            "Ctrl+N",
+            "Ctrl+O"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which step is NOT part of starting MS PowerPoint 2016?",
+        "choices": [
+            "Click on the start button",
+            "Click on all programs",
+            "Click on Microsoft Office",
+            "Click on Microsoft Excel"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The MS PowerPoint window screen is also called:",
+        "choices": [
+            "Presentation View",
+            "Backstage View",
+            "Outline View",
+            "Normal View"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which toolbar is made up of common windows commands?",
+        "choices": [
+            "Quick Access Toolbar",
+            "Formatting Toolbar",
+            "Standard Toolbar",
+            "Title Bar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT part of view buttons?",
+        "choices": [
+            "Normal view",
+            "Slide sorter view",
+            "Reading view",
+            "Backstage view"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The Title Bar is located at the:",
+        "choices": [
+            "Bottom",
+            "Top",
+            "Left",
+            "Right"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which tab is used to view the text of the presentation and edit it?",
+        "choices": [
+            "View Buttons",
+            "Title Bar",
+            "Outline Tab",
+            "Standard Toolbar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the Title Bar display?",
+        "choices": [
+            "Application and file name",
+            "Common window commands",
+            "Common formatting commands",
+            "View buttons"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Quick Access Toolbar is located at the:",
+        "choices": [
+            "Bottom",
+            "Top",
+            "Middle",
+            "Side"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the last step to start MS PowerPoint 2016?",
+        "choices": [
+            "Click on the start button",
+            "Click on all programs",
+            "Click on Microsoft Office",
+            "Click on Microsoft Power Point 2016"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following formatting command is present in Formatting Toolbar?",
+        "choices": [
+            "Save",
+            "Print",
+            "Bold",
+            "New"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the default file extension for MS Power Point?",
+        "choices": [
+            ".docx",
+            ".xlsx",
+            ".pptx",
+            ".txt"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "PowerPoint is an application software that facilitates presentations by supporting:",
+        "choices": [
+            "text",
+            "graphics",
+            "pictures",
+            "all of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What can presentation include?",
+        "choices": [
+            "animation",
+            "narration",
+            "images",
+            "all of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is NOT a topic included in this chapter?",
+        "choices": [
+            "Creating a new presentation",
+            "Saving a program",
+            "Printing a document",
+            "Inserting a new slide"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is Power Point primarily used for?",
+        "choices": [
+            "Word processing",
+            "Creating presentations",
+            "Spreadsheet calculations",
+            "Web design"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which software allows us to create dynamic slide presentations?",
+        "choices": [
+            "MS Word",
+            "MS Excel",
+            "MS Power Point",
+            "MS Access"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Presentation graphics software helps people make slideshows of:",
+        "choices": [
+            "charts",
+            "diagrams",
+            "text and graphics",
+            "all of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following are included in Power Point 2016?",
+        "choices": [
+            "Ribbon",
+            "Quick Access Toolbar",
+            "Backstage view",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Exiting MS Power Point 2016 is a:",
+        "choices": [
+            "Type of software",
+            "Topic in this chapter",
+            "A way to save files",
+            "An example of presentation graphics software"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is MS Power Point 2016 similar to?",
+        "choices": [
+            "Power Point 2013 and Power Point 2010.",
+            "MS Word 2016",
+            "MS Excel 2016",
+            "All of the above"
+        ],
+        "correctAnswer": 0
+    }
+]

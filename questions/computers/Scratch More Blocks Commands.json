@@ -1,0 +1,1204 @@
+[
+    {
+        "question": "What is the function of the 'switch costume to penguin2' block?",
+        "choices": [
+            "Runs a script when clicking on the green flag",
+            "Adjusts the volume of the sprite",
+            "Adjusts the appearance of the Sprite by switching to distinct costumes",
+            "Moves the sprite forward"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the 'when green flag clicked' block do?",
+        "choices": [
+            "Stops all scripts",
+            "Runs Script below when clicking on the green flag",
+            "Moves the sprite backward",
+            "Changes the color of the sprite"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which block helps you fix the position of a sprite?",
+        "choices": [
+            "Sound",
+            "Motion",
+            "Control",
+            "Event"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which block helps you add music to a project?",
+        "choices": [
+            "Motion",
+            "Sound",
+            "Control",
+            "Event"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The blocks used to control the sound functions of a sprite are known as _____ blocks.",
+        "choices": [
+            "Motion",
+            "Sound",
+            "Control",
+            "Event"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Blocks come in the form of _____ pieces.",
+        "choices": [
+            "Triangle",
+            "Square",
+            "Puzzle",
+            "Circle"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The Events block is represented in brown color. (True or False)",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Scratch and LOGO are exactly same. (True or False)",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To create a script, click on any block menu from the block palette. (True or False)",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Motion blocks are green in color. (True or False)",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To make a sprite hop on a trampoline, which block needs to run continuously?",
+        "choices": [
+            "Motion",
+            "Forever",
+            "Sound",
+            "Event"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To view a sprite that is off screen or hidden, you should:",
+        "choices": [
+            "Shift+click on its thumbnail in the sprite list.",
+            "Right-click on the sprite.",
+            "Double-click the sprite.",
+            "Drag the sprite to the center."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How do you transform a costume into a separate sprite?",
+        "choices": [
+            "Right-click (Mac Ctrl+click) and pick \"transform to sprite\"",
+            "Left-click on the costume.",
+            "Drag the costume to the stage.",
+            "Delete the sprite and make it again"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To rotate a sprite, you should drag which line on the sprite's thumbnail?",
+        "choices": [
+            "The green line",
+            "The blue line",
+            "The red line",
+            "The yellow line"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To create a sprite that looks like part of the landscape you should:",
+        "choices": [
+            "Right-click (Mac Ctrl+click) the stage to capture a portion of the picture on the stage.",
+            "Draw the sprite directly on the stage.",
+            "Import an image.",
+            "Create a new sprite."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the shortcut to \"point in direction 90\"?",
+        "choices": [
+            "Double-click on the sprite thumbnail in the top centre of the panel.",
+            "Right-click on the sprite.",
+            "Left-click on the sprite.",
+            "Press the 'D' key."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How do you reorder the thumbnails in the sprite list?",
+        "choices": [
+            "Drag to reorder thumbnails in the sprite list",
+            "Right click and select 'sort'",
+            "Reorder the sprites by name",
+            "You cannot reorder the sprites"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is a method to delete a sprite?",
+        "choices": [
+            "Using the Scissors method (or Right-click and select \"Delete\")",
+            "Drag the sprite off the stage.",
+            "Press the 'Delete' key",
+            "Right-click and select 'remove'"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To make several copies of the sprite you should:",
+        "choices": [
+            "Press Shift+click the Copy tool.",
+            "Drag the sprite multiple times",
+            "Select the sprite and press Ctrl+C then Ctrl+V",
+            "Clone the sprite"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In Scratch, blocks come in the form of:",
+        "choices": [
+            "Puzzle pieces",
+            "Lego bricks",
+            "Dominoes",
+            "Tetris blocks"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The Event block is portrayed in what color?",
+        "choices": [
+            "Brown",
+            "Blue",
+            "Green",
+            "Red"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which category in Scratch contains the 'move' block?",
+        "choices": [
+            "Looks",
+            "Sound",
+            "Motion",
+            "Events"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which category in Scratch contains the 'repeat' block?",
+        "choices": [
+            "Motion",
+            "Control",
+            "Sensing",
+            "Operators"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which category is used to control the appearance of the Sprite?",
+        "choices": [
+            "Motion",
+            "Looks",
+            "Sound",
+            "Data"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which block is used to move the Sprite back and forth without getting stuck?",
+        "choices": [
+            "Move 10 steps",
+            "Turn 15 degrees",
+            "If on edge, bounce",
+            "Glide 1 secs"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which block is used to point Sprite to mouse position?",
+        "choices": [
+            "move 10 steps",
+            "Turn 15 degrees",
+            "point towards mouse-pointer",
+            "Glide 1 secs"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which block is used to go to specified coordinates?",
+        "choices": [
+            "move 10 steps",
+            "Turn 15 degrees",
+            "go to xi -138 \u03b3\u03b9 -58",
+            "Glide 1 secs"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the Scratch editor, where can you find the available blocks?",
+        "choices": [
+            "Costumes tab",
+            "Scripts area",
+            "Blocks palette",
+            "Sounds tab"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What file extension indicates this is a scratch file?",
+        "choices": [
+            ".doc",
+            ".ppt",
+            ".sb3",
+            ".pdf"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does ROBOGARDEN Guru teach students?",
+        "choices": [
+            "How to paint",
+            "Coding from scratch",
+            "How to play chess",
+            "How to drive"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, ROBOGARDEN Guru will teach students different coding concepts, subjects of what?",
+        "choices": [
+            "Physics",
+            "STEAM",
+            "Chemistry",
+            "Maths"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To open a saved project, what is the first step?",
+        "choices": [
+            "Click on Edit",
+            "Click on File",
+            "Click on Open",
+            "Click on Save"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After clicking on File, what is the next step to open a saved project?",
+        "choices": [
+            "Click on New",
+            "Click on Save",
+            "Click on Open",
+            "Click on Share"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you do after selecting the file location and file name?",
+        "choices": [
+            "Click on Cancel",
+            "Click on New Folder",
+            "Click on Open",
+            "Click on Organize"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which option is not visible in the 'Open Project' window?",
+        "choices": [
+            "Desktop",
+            "Downloads",
+            "OneDrive",
+            "New Project"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the image, when was 'Custom Office Templates' last modified?",
+        "choices": [
+            "8/8/2023 1:26 PM",
+            "11/25/2023 11:43 PM",
+            "11/25/2023 5:12 PM",
+            "7/17/2023 2:29 PM"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type is the 'Adobe' file?",
+        "choices": [
+            "Application",
+            "File",
+            "File folder",
+            "Document"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In Scratch, which block starts the code?",
+        "choices": [
+            "clear",
+            "set pen size to 10",
+            "move 10 steps",
+            "when clicked"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the 'Open Project' window, what is the file type shown in the dropdown?",
+        "choices": [
+            "All files (*.*)",
+            "Scratch Projects",
+            "Text Files",
+            "Document Files"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which option is available under the 'File' menu in Scratch?",
+        "choices": [
+            "Share to website",
+            "Sensing",
+            "Operators",
+            "Motion"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In the sample Scratch code, what happens if the sprite touches the edge?",
+        "choices": [
+            "It stops moving",
+            "It turns 15 degrees",
+            "It changes pen color",
+            "It bounces"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which menu option is used to save a project in Scratch?",
+        "choices": [
+            "New",
+            "Open",
+            "Save as",
+            "Quit"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which color category contains the 'move' block in Scratch?",
+        "choices": [
+            "Looks",
+            "Motion",
+            "Sound",
+            "Events"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which color category contains the 'when clicked' block in Scratch?",
+        "choices": [
+            "Looks",
+            "Motion",
+            "Sound",
+            "Events"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does the 'forever' block do in Scratch?",
+        "choices": [
+            "Repeats the blocks inside it indefinitely",
+            "Only runs the blocks inside it once",
+            "Moves the sprite forever",
+            "Sets the pen color forever"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which block makes the sprite change direction when it touches the edge?",
+        "choices": [
+            "turn 15 degrees",
+            "move 10 steps",
+            "if on edge, bounce",
+            "change x by 10"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the 'set pen size to 10' block do?",
+        "choices": [
+            "Changes the sprite size to 10",
+            "Sets the pen size to 10",
+            "Moves the sprite 10 steps",
+            "Sets the screen size to 10"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the script, how many steps does the sprite move each time?",
+        "choices": [
+            "10",
+            "15",
+            "27",
+            "30"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In the script, by how much does the pen color change each time?",
+        "choices": [
+            "10",
+            "15",
+            "27",
+            "30"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The file browser is set to which location?",
+        "choices": [
+            "Downloads",
+            "Documents",
+            "Desktop",
+            "OneDrive"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What file types are visible in the 'Save Project' window?",
+        "choices": [
+            "File folder",
+            "Presentation",
+            "Both A and B",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What happens when the green flag is clicked?",
+        "choices": [
+            "Scale of pen is set to 10.",
+            "The colour of the pen is set to blue.",
+            "All graphics on pen will be cleared.",
+            "Sprite moves and switches."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The 'forever' block creates what type of structure?",
+        "choices": [
+            "Conditional",
+            "Loop",
+            "Variable",
+            "Function"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the pen size set to in the code?",
+        "choices": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many degrees does the sprite turn?",
+        "choices": [
+            "5 degrees",
+            "10 degrees",
+            "15 degrees",
+            "20 degrees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Motion blocks are used to control what aspect of a sprite?",
+        "choices": [
+            "Appearance",
+            "Sound",
+            "Movement",
+            "Variables"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What color are the motion blocks?",
+        "choices": [
+            "Pink",
+            "Purple",
+            "Medium Blue",
+            "Orange"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Looks blocks control the ______ of a sprite.",
+        "choices": [
+            "Movement",
+            "Appearance",
+            "Sound",
+            "Variables"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What color are the looks blocks?",
+        "choices": [
+            "Pink",
+            "Purple",
+            "Medium Blue",
+            "Orange"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Sound blocks are used to control the ______ functions of a sprite.",
+        "choices": [
+            "Movement",
+            "Appearance",
+            "Sound",
+            "Variables"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first step in saving a project?",
+        "choices": [
+            "Click on Save",
+            "Click on Save As",
+            "Click on File",
+            "Click on Edit"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which command clears all traces on the pen?",
+        "choices": [
+            "Stamp",
+            "Clear",
+            "Pen Up",
+            "Pen Down"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the Stamp command do?",
+        "choices": [
+            "Clears all traces on pen",
+            "Stamps the image of the sprite on scene",
+            "Lifts the pen up",
+            "Puts the pen down"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When does the pen not draw when moving the sprite?",
+        "choices": [
+            "When using the Pen Down command",
+            "When using the Stamp command",
+            "When using the Pen Up command",
+            "When using the Clear command"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the Pen Down command do?",
+        "choices": [
+            "Clears the screen",
+            "Makes the pen draw again",
+            "Stamps the sprite",
+            "Lifts the pen up"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The 'Set Pen Color' block is used for...",
+        "choices": [
+            "Adjusting line thickness",
+            "Clearing the screen",
+            "Setting or changing pen color",
+            "Stamping the sprite"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The 'Set Pen Shade' block is used for...",
+        "choices": [
+            "Setting or altering the color shade of the chosen pen",
+            "Setting the pen size",
+            "Moving the sprite",
+            "Changing the background color"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of the 'Set Pen Size' block?",
+        "choices": [
+            "Setting or adjusting line thickness",
+            "Changing the sprite's size",
+            "Changing the pen color",
+            "Clearing the screen"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which menu contains the Pen blocks?",
+        "choices": [
+            "Motion",
+            "Looks",
+            "Sound",
+            "Pen"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following blocks can be found in the 'Pen' category?",
+        "choices": [
+            "Motion",
+            "Looks",
+            "Clear",
+            "Events"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the image, where were most pen commands originally inspired from?",
+        "choices": [
+            "Scratch",
+            "Python",
+            "LOGO!",
+            "Java"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which control block makes a portion of the script run repeatedly a certain number of times?",
+        "choices": [
+            "If-Then-Else",
+            "Repeat",
+            "Wait Seconds",
+            "Forever"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which control block causes the sprite to wait or pause?",
+        "choices": [
+            "Forever",
+            "Wait Seconds",
+            "Repeat",
+            "If-Then-Else"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The 'Forever' control block causes a part of the script to run...",
+        "choices": [
+            "Once",
+            "Repeatedly a fixed number of times",
+            "Continuously until the red stop button is clicked",
+            "Only if a condition is met"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which block control is the sprite paused until it becomes accurate to the specified state?",
+        "choices": [
+            "Wait until",
+            "Repeat Until",
+            "forever",
+            "if then"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the 'Repeat Until' block do?",
+        "choices": [
+            "Runs a script continuously.",
+            "Repeatedly makes a part of the script run until a specified condition is met.",
+            "Waits a specified number of seconds.",
+            "Performs one task if a condition is met."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the example, when will the program run?",
+        "choices": [
+            "Only then will the programme run when the green flag is turned on.",
+            "When the sprite touches the edge.",
+            "When the mouse pointer touches the sprite.",
+            "The sprite says ouch"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the example, what will the sprite say in the beginning?",
+        "choices": [
+            "Hello World",
+            "Ouch",
+            "Touch me if you can!",
+            "Move 10 Steps"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the 'Forever If-Then-Else' example, how many seconds will the sprite say 'Touch me if you can!' for?",
+        "choices": [
+            "10",
+            "2",
+            "27",
+            "13"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the 'Forever If-Then-Else' example, what happens when the mouse-pointer touches the sprite?",
+        "choices": [
+            "The sprite moves 10 steps.",
+            "The sprite says 'Ouch!'",
+            "The sprite turns 90 degrees.",
+            "The sprite changes x by 27."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the 'Forever If-Then-Else' example, how much will the sprite turn when the mouse-pointer touches it?",
+        "choices": [
+            "10 degrees",
+            "27 degrees",
+            "90 degrees",
+            "13 degrees"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What backdrop should be used for the Scratch project?",
+        "choices": [
+            "Beach",
+            "City",
+            "Spotlight",
+            "Forest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What sprite should be used for the Scratch project?",
+        "choices": [
+            "Cat",
+            "Dog",
+            "Cassy Da",
+            "Ball"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The 'move' blocks are from which menu?",
+        "choices": [
+            "Looks",
+            "Sound",
+            "Motion",
+            "Events"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The 'next costume' blocks are from which menu?",
+        "choices": [
+            "Looks",
+            "Sound",
+            "Motion",
+            "Events"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "How many degrees does the sprite turn in the given script?",
+        "choices": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many seconds does the sprite say 'Yeah Yeah Yeah' for?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many steps does the sprite move in one 'move' block?",
+        "choices": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the sprite say after 'Its the time disco'?",
+        "choices": [
+            "Hello",
+            "Good Bye",
+            "Oh its a lot of fun",
+            "Dance time"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What command is used to change the sprite's appearance?",
+        "choices": [
+            "move",
+            "turn",
+            "next costume",
+            "say"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which menu contains the blue blocks mentioned in Step 1?",
+        "choices": [
+            "Looks",
+            "Motion",
+            "Events",
+            "Sound"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which step should you follow first when deleting a block from the script?",
+        "choices": [
+            "Left click on the block.",
+            "Right click on the block.",
+            "Drag the block away.",
+            "Double click on the block."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which step should you follow after right clicking on the block when deleting a block from the script?",
+        "choices": [
+            "Click on duplicate",
+            "Click on help",
+            "Click on delete",
+            "Click on add comment"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are blocks used to control how the blocks in a sprite will start to run called?",
+        "choices": [
+            "Motion blocks",
+            "Control blocks",
+            "Event blocks",
+            "Looks blocks"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Event blocks are rendered in which colour?",
+        "choices": [
+            "Blue",
+            "Brown",
+            "Green",
+            "Purple"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following options is included in the Event block menu?",
+        "choices": [
+            "Duplicate",
+            "Show",
+            "Hide",
+            "Play Sound"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What happens when you click on the green flag?",
+        "choices": [
+            "Just runs the script while clicking on the green flag button.",
+            "Only runs the script when a given key is pressed.",
+            "Just runs the script when clicking on the sprite you picked.",
+            "Only runs the script when it switches backdrop to the one listed."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What happens when a given key is pressed?",
+        "choices": [
+            "Just runs the script while clicking on the green flag button.",
+            "Only runs the script when a given key is pressed.",
+            "Just runs the script when clicking on the sprite you picked.",
+            "Only runs the script when it switches backdrop to the one listed."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happens when this sprite is clicked?",
+        "choices": [
+            "Just runs the script while clicking on the green flag button.",
+            "Only runs the script when a given key is pressed.",
+            "Just runs the script when clicking on the sprite you picked.",
+            "Only runs the script when it switches backdrop to the one listed."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What happens when backdrop switches to the one listed?",
+        "choices": [
+            "Just runs the script while clicking on the green flag button.",
+            "Only runs the script when a given key is pressed.",
+            "Just runs the script when clicking on the sprite you picked.",
+            "Only runs the script when it switches backdrop to the one listed."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What happens when the volume, timer or video movement reaches a given amount?",
+        "choices": [
+            "Only runs the script when the volume, timer or video movement reaches a given amount.",
+            "Just runs the script when a particular broadcast message is sent to the sprite.",
+            "Send a broadcast message",
+            "Broadcast and wait"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What color are the Motion blocks?",
+        "choices": [
+            "Purple",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What color are the Looks blocks?",
+        "choices": [
+            "Blue",
+            "Purple",
+            "Green",
+            "Yellow"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many languages is Scratch translated into?",
+        "choices": [
+            "50+",
+            "60+",
+            "70+",
+            "80+"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Step 1, where should you click from to create a script?",
+        "choices": [
+            "Script area",
+            "Stage",
+            "Sprite List",
+            "Block Palette"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which block is used to change the X coordinate?",
+        "choices": [
+            "set x to",
+            "change y by",
+            "change x by",
+            "set y to"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which block is used to move the sprite?",
+        "choices": [
+            "turn 15 degrees",
+            "move 10 steps",
+            "point in direction 90",
+            "go to mouse pointer"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which category is the 'move' block found in?",
+        "choices": [
+            "Looks",
+            "Sound",
+            "Events",
+            "Motion"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which block is used to set the direction of the sprite to 90 degrees?",
+        "choices": [
+            "turn 15 degrees",
+            "point in direction 90",
+            "point towards mouse-pointer",
+            "turn 15 degrees"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following blocks makes the sprite move to a specific location over a set amount of time?",
+        "choices": [
+            "go to mouse-pointer",
+            "go to xi() yi()",
+            "glide() secs to xi() yi()",
+            "move 10 steps"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which block makes the sprite bounce if it touches the edge?",
+        "choices": [
+            "set y to 0",
+            "change y by 10",
+            "if on edge, bounce",
+            "set x to 0"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name of the area where the sprite is displayed?",
+        "choices": [
+            "Block Menu",
+            "State Area",
+            "Coding Area",
+            "Script Area"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the name of the area where you create scripts?",
+        "choices": [
+            "State Area",
+            "Block Menu",
+            "Coding Area",
+            "Sprite Area"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are the three main tabs in the Block Palette?",
+        "choices": [
+            "Motion, Looks, Sound",
+            "Scripts, Costumes, Sounds",
+            "Events, Control, Sensing",
+            "Pen, Data, More Blocks"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which button is used to start the project?",
+        "choices": [
+            "Stop Button",
+            "Go Button",
+            "Menu Bar",
+            "State Area"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which button is used to stop the project?",
+        "choices": [
+            "Go Button",
+            "Stop Button",
+            "Menu Bar",
+            "State Area"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What do the blocks in Scratch look like?",
+        "choices": [
+            "Geometric shapes",
+            "Puzzle pieces",
+            "Images",
+            "Text boxes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many separate block classes are included in the Blocks Palette?",
+        "choices": [
+            "Three",
+            "Five",
+            "Ten",
+            "Twelve"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What section does the 'move 10 steps' block belong to?",
+        "choices": [
+            "Looks",
+            "Sound",
+            "Motion",
+            "Events"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What section does the 'turn 15 degrees' block belong to?",
+        "choices": [
+            "Looks",
+            "Sound",
+            "Motion",
+            "Events"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What section does the 'point in direction 90' block belong to?",
+        "choices": [
+            "Looks",
+            "Sound",
+            "Motion",
+            "Events"
+        ],
+        "correctAnswer": 2
+    }
+]
