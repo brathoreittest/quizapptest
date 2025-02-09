@@ -100,52 +100,12 @@
       "correctAnswer": 0
   },
   {
-      "question": "Which of the following is an example of 'Total Physical Appearance'?",
-      "choices": [
-          "Oval",
-          "Tall",
-          "Curly",
-          "Blue"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "Which of the following is NOT a category in 'Specific Physical Appearance'?",
-      "choices": [
-          "Face",
-          "Hair",
-          "Eyes",
-          "Clothes"
-      ],
-      "correctAnswer": 3
-  },
-  {
-      "question": "What is 'oval' an example of in the context of describing a person?",
-      "choices": [
-          "Hair",
-          "Clothes",
-          "Face",
-          "Personality"
-      ],
-      "correctAnswer": 2
-  },
-  {
       "question": "Which of the following describes the qualities of 'Clothes'?",
       "choices": [
           "Optimistic",
           "Handsome",
           "Round",
           "Long"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "Which of the following is a 'Personality or Character' trait?",
-      "choices": [
-          "Casual",
-          "Smart",
-          "Small",
-          "Chubby"
       ],
       "correctAnswer": 1
   },
@@ -600,26 +560,6 @@
       "correctAnswer": 1
   },
   {
-      "question": "Which of the following is an adjective from the 'F' section?",
-      "choices": [
-          "Annoyed",
-          "Confident",
-          "Energetic",
-          "Jealous"
-      ],
-      "correctAnswer": 0
-  },
-  {
-      "question": "Which word corresponds to 'R'?",
-      "choices": [
-          "Thoughtful",
-          "Enthusiastic",
-          "Delightful",
-          "Helpful"
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "Which of the following is a synonym for 'large' in size?",
       "choices": [
           "Petite",
@@ -630,26 +570,6 @@
       "correctAnswer": 2
   },
   {
-      "question": "Which adjective falls under the 'P' section?",
-      "choices": [
-          "Lonely",
-          "Kind",
-          "Helpful",
-          "Jealous"
-      ],
-      "correctAnswer": 2
-  },
-  {
-      "question": "Under the 'S' section, which word is listed?",
-      "choices": [
-          "Mammoth",
-          "Immense",
-          "Thoughtless",
-          "Helpful"
-      ],
-      "correctAnswer": 1
-  },
-  {
       "question": "What letter is 'Helpful'?",
       "choices": [
           "A",
@@ -658,46 +578,6 @@
           "E"
       ],
       "correctAnswer": 2
-  },
-  {
-      "question": "From the 'G' list, which adjective is present?",
-      "choices": [
-          "Foolish",
-          "Lazy",
-          "Firm",
-          "Still"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "Which adjective starts with 'E'?",
-      "choices": [
-          "Adorable",
-          "Cruel",
-          "Helpful",
-          "Pretty"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "What kind of adjective is 'Thoughtful'?",
-      "choices": [
-          "S",
-          "G",
-          "P",
-          "N"
-      ],
-      "correctAnswer": 0
-  },
-  {
-      "question": "Which of the following is an adjective from the 'N' section?",
-      "choices": [
-          "Noisy",
-          "Nervous",
-          "Noble",
-          "Nice"
-      ],
-      "correctAnswer": 1
   },
   {
       "question": "______ bag is yours?",

@@ -8,16 +8,6 @@
       "correctAnswer": 1
   },
   {
-      "question": "Which decimal number does the grid represent?",
-      "choices": [
-          "0.06",
-          "0.60",
-          "0.66",
-          "0.56"
-      ],
-      "correctAnswer": 2
-  },
-  {
       "question": "Write the given fraction 135/100 in decimals.",
       "choices": [
           "10.35",
@@ -26,16 +16,6 @@
           "13.5"
       ],
       "correctAnswer": 2
-  },
-  {
-      "question": "If the average rainfall per day is 5 mm, how many days was the rainfall above average?",
-      "choices": [
-          "2",
-          "3",
-          "4",
-          "5"
-      ],
-      "correctAnswer": 1
   },
   {
       "question": "90 + 6 + 4/10 + 2/1000 = ?",
@@ -114,16 +94,6 @@
           "0.30",
           "3.0",
           "0.03"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "How do you write 0.29 in words?",
-      "choices": [
-          "twenty-nine",
-          "twenty-nine hundredths",
-          "twenty-nine tenths",
-          "twenty-nine thousandths"
       ],
       "correctAnswer": 1
   },
@@ -258,76 +228,6 @@
       "correctAnswer": 0
   },
   {
-      "question": "What is the difference between the maximum temperatures of Delhi and Kolkata?",
-      "choices": [
-          "4.8",
-          "4.6",
-          "5.8",
-          "5.6"
-      ],
-      "correctAnswer": 0
-  },
-  {
-      "question": "What is the difference between the minimum temperatures of Mumbai and Chennai?",
-      "choices": [
-          "6.7",
-          "7.7",
-          "5.7",
-          "8.7"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "Which city has the highest difference between its maximum and minimum temperatures?",
-      "choices": [
-          "New Delhi",
-          "Kolkata",
-          "Mumbai",
-          "Chennai"
-      ],
-      "correctAnswer": 0
-  },
-  {
-      "question": "What is Ajay's total throw?",
-      "choices": [
-          "135.7 m",
-          "135.3 m",
-          "136.7 m",
-          "136.3 m"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "What is Suraj's total throw?",
-      "choices": [
-          "134.3 m",
-          "144.3 m",
-          "135.3 m",
-          "145.3 m"
-      ],
-      "correctAnswer": 1
-  },
-  {
-      "question": "What is Vijay's total throw?",
-      "choices": [
-          "138.3 m",
-          "137.3 m",
-          "139.3 m",
-          "136.3 m"
-      ],
-      "correctAnswer": 0
-  },
-  {
-      "question": "Who is the winner of the contest?",
-      "choices": [
-          "Ajay",
-          "Suraj",
-          "Vijay",
-          "Tie"
-      ],
-      "correctAnswer": 2
-  },
-  {
       "question": "Convert 265 meters to kilometers.",
       "choices": [
           "0.265 km",
@@ -376,16 +276,6 @@
           "240.272"
       ],
       "correctAnswer": 0
-  },
-  {
-      "question": "In the addition problem shown, why are the numbers written with zeros added to the right?",
-      "choices": [
-          "To make the calculation easier",
-          "To align the decimal points",
-          "It's not necessary, the result would be the same without them",
-          "To make the numbers larger"
-      ],
-      "correctAnswer": 1
   },
   {
       "question": "What is 104.3 written as a like decimal to three decimal places?",

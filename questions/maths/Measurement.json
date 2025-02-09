@@ -434,57 +434,7 @@
     ],
     "correctAnswer": 0
   },
-    {
-    "question": "Which two rolls of wool add up to a total length of exactly 40 m?",
-    "choices": ["17m 16cm and 22m 84cm", "19m 8cm and 15m 39cm", "17m 16cm and 19m 8cm", "22m 84cm and 15m 39cm"],
-    "correctAnswer": 0
-  },
   {
-    "question": "What is the difference of length between the red roll and blue roll?",
-    "choices": ["3m 76cm", "2m 76cm", "4m 76cm", "1m 76cm"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "How much longer is the green roll than the yellow roll?",
-    "choices": ["3m 72cm", "4m 72cm", "2m 72cm", "1m 72cm"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the total length of the 4 rolls of wool?",
-    "choices": ["74m 117cm", "75m 117cm", "73m 117cm", "76m 117cm"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "Arrange the rolls of wool in ascending order.",
-    "choices": ["15m 39cm, 17m 16cm, 19m 8cm, 22m 84cm", "15m 39cm, 19m 8cm, 17m 16cm, 22m 84cm", "22m 84cm, 19m 8cm, 17m 16cm, 15m 39cm", "17m 16cm, 15m 39cm, 19m 8cm, 22m 84cm"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "If a pullover requires 25m of yellow wool, find the length of wool that will still be required for knitting the pullover.",
-    "choices": ["0m", "10m", "20m", "5m"],
-    "correctAnswer": 1
-  },
-    {
-    "question": "What is the total distance travelled by the police car on Monday and Tuesday?",
-    "choices":["26km 360m", "26km 358m", "27km 360m", "27km 358m"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the total distance travelled by the police car on Wednesday and Thursday?",
-    "choices":["24km 185m", "24km 183m", "25km 185m", "25km 183m"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the total distance travelled by the police car during the week?",
-    "choices":["87km 122m", "87km 222m", "86km 122m", "86km 222m"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "What is the difference in distance travelled between Saturday and Monday?",
-    "choices":["1km 15m", "1km 25m", "1km 195m", "1km 190m"],
-    "correctAnswer": 2
-  },
-    {
     "question": "Add the following lengths: 7 km 321 m 632 cm, 43109 m 63 cm, and 5043 m 4 cm.",
     "choices": [
       "11829639 cm",
