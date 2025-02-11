@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Which of the following is NOT mentioned as a type of material available for education on the internet?",
+        "choices": [
+            "E-books",
+            "Reference books",
+            "Expert's views",
+            "Printed textbooks"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following is an example of communication using the internet?",
+        "choices": [
+            "Playing video games",
+            "Sending emails",
+            "Reading e-books",
+            "Online Shopping"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following games is mentioned as a popular internet game?",
+        "choices": [
+            "Chess",
+            "Candy Crush",
+            "Monopoly",
+            "Scrabble"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Online shopping is a form of:",
+        "choices": [
+            "Electronic commerce",
+            "Traditional commerce",
+            "Gaming",
+            "Social networking"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these is mentioned as a popular shopping website?",
+        "choices": [
+            "Google.com",
+            "Amazon.com",
+            "Facebook.com",
+            "Wikipedia.org"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is mentioned as the most important use of the internet nowadays?",
+        "choices": [
+            "Communication",
+            "Education",
+            "Financial transactions",
+            "Gaming"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Major banks use the internet for",
+        "choices": [
+            "Physical Transactions",
+            "Financial Transactions",
+            "Social Transactions",
+            "Both A & B"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Domain name .edu represents which institution?",
+        "choices": [
+            "Government website",
+            "Commercial Website",
+            "Educational Institution",
+            "Organizational website"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Domain name .org represents which institution?",
+        "choices": [
+            "Government website",
+            "Commercial Website",
+            "Educational Institution",
+            "Organizational website"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Domain name .com represents which institution?",
+        "choices": [
+            "Government website",
+            "Commercial Website",
+            "Educational Institution",
+            "Organizational website"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is bookmarking a web page useful for?",
+        "choices": [
+            "Changing the appearance of the webpage",
+            "Future reference and saving time typing the address",
+            "Deleting the webpage",
+            "Sending the webpage to a friend"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a search engine?",
+        "choices": [
+            "A tool to change website appearances",
+            "A tool for writing emails",
+            "A web tool that allows users to search for information",
+            "A device for reading books online"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT mentioned as a common search engine?",
+        "choices": [
+            "Google",
+            "Yahoo",
+            "Microsoft Binge",
+            "Facebook"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the first step to search on the internet according to the text?",
+        "choices": [
+            "Type the words into a search engine.",
+            "Open the web browser.",
+            "Ask a friend for help.",
+            "Download a search engine."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you type in the quick search option?",
+        "choices": [
+            "Random words",
+            "Words that will help you get our information.",
+            "The website address",
+            "Numbers"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the 'Edit favorite' window, where is the bookmark saved?",
+        "choices": [
+            "Desktop",
+            "Favorites bar",
+            "Downloads folder",
+            "Documents"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the name written in 'Name' column in the 'Edit favorite' window?",
+        "choices": [
+            "Facebook",
+            "Yahoo",
+            "Google",
+            "Youtube"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do you need to open before searching on the internet?",
+        "choices": [
+            "Web browser",
+            "Microsoft Edge",
+            "Google",
+            "VK Global"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the name of the Google search button displayed on the screen?",
+        "choices": [
+            "Done",
+            "Remove",
+            "Google Search",
+            "Favourite Search"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do you click after typing the words that will help you get our information?",
+        "choices": [
+            "Done",
+            "Google Search",
+            "Sign in",
+            "Remove"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What button is used if your webpage doesn't load properly?",
+        "choices": [
+            "Stop Button",
+            "Refresh Button",
+            "Back Button",
+            "Forward Button"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What action does the 'Refresh Button' perform?",
+        "choices": [
+            "Stops the webpage from loading",
+            "Closes the browser window",
+            "Refreshes or reloads the page",
+            "Opens a new tab"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the purpose of the 'Stop Button'?",
+        "choices": [
+            "To refresh the webpage",
+            "To stop the loading of the webpage",
+            "To go back to the previous page",
+            "To open a new window"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "When should you use the 'Stop Button'?",
+        "choices": [
+            "When the webpage is fully loaded",
+            "When you want to bookmark the page",
+            "While the webpage is loading and you want to stop it",
+            "When you want to open a new tab"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where is the refresh button located?",
+        "choices": [
+            "Next to the address bar",
+            "At the bottom of the browser",
+            "In the settings menu",
+            "In the history section"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What happens when you click the stop button?",
+        "choices": [
+            "The webpage continues loading",
+            "The browser closes immediately",
+            "The loading of the webpage stops",
+            "The webpage refreshes"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where is the stop button usually located in a web browser?",
+        "choices": [
+            "At the bottom right corner of the window",
+            "On the toolbar, near the address bar",
+            "In the file menu",
+            "In the settings menu"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which browser is displayed in the image?",
+        "choices": [
+            "Chrome",
+            "Safari",
+            "Microsoft Edge",
+            "Firefox"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the image, what date does the article about Dev Diwali 2023 mention?",
+        "choices": [
+            "October 2023",
+            "November 2023",
+            "December 2023",
+            "January 2024"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of news articles appear on the page in the image?",
+        "choices": [
+            "Weather forecasts only",
+            "Sports scores only",
+            "A variety of news including sports, money, gaming, and weather",
+            "Shopping deals only"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the image, what is the date that is mentioned in the news title?",
+        "choices": [
+            "2022",
+            "2024",
+            "2023",
+            "2025"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The image mentions a holiday that includes 'Cyber'. What is it?",
+        "choices": [
+            "Christmas",
+            "Cyber Monday",
+            "New Year's Day",
+            "Thanksgiving"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What sport event is mentioned in the image?",
+        "choices": [
+            "Football",
+            "Tennis",
+            "Cricket",
+            "Basketball"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What city is mentioned in the news headline about Dev Deepawali?",
+        "choices": [
+            "Delhi",
+            "Mumbai",
+            "Varanasi",
+            "Kolkata"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The forward button helps to go in which direction?",
+        "choices": [
+            "Backward",
+            "Forward",
+            "Upward",
+            "Downward"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What challenge is mentioned on one of the news panels?",
+        "choices": [
+            "Be Healthy in Our Challenge",
+            "Be Happier in Our Challenge",
+            "Be Smarter in Our Challenge",
+            "Be TopTier in Our Challenge"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which state's tunnel collapse is mentioned in the 'Top Stories'?",
+        "choices": [
+            "Himachal Pradesh",
+            "Uttarakhand",
+            "Jammu and Kashmir",
+            "Sikkim"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The image shows a weather forecast displaying a temperature of?",
+        "choices": [
+            "30\u00b0",
+            "15\u00b0",
+            "25\u00b0",
+            "20\u00b0"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The webpage on the bottom helps you to go where?",
+        "choices": [
+            "To the first webpage you visited.",
+            "To the last webpage you just visited.",
+            "To the home page.",
+            "To the next webpage you will visit."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which festival related to Lord Vishnu and Lord Shiva is mentioned in the image?",
+        "choices": [
+            "Diwali",
+            "Holi",
+            "Vaikuntha Chaturdashi",
+            "Raksha Bandhan"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of websites is '.com' used for?",
+        "choices": [
+            "Educational",
+            "Government",
+            "Commercial",
+            "Non-profit"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of websites is '.edu' used for?",
+        "choices": [
+            "Commercial",
+            "Educational",
+            "Government",
+            "Organization"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of websites is '.gov' used for?",
+        "choices": [
+            "Educational",
+            "Commercial",
+            "Government",
+            "Personal"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the keyboard shortcut 'F5' do?",
+        "choices": [
+            "Stop",
+            "Back",
+            "Refresh",
+            "Forward"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the keyboard shortcut 'Ctrl + F5' do?",
+        "choices": [
+            "Refresh and reset the browser cache for the current page.",
+            "Go back a page",
+            "Return to homepage",
+            "Scroll to top of page"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the keyboard shortcut 'Alt + Left Arrow' do?",
+        "choices": [
+            "Forward",
+            "Back",
+            "Stop",
+            "Refresh"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the keyboard shortcut 'Alt + Right Arrow' do?",
+        "choices": [
+            "Back",
+            "Forward",
+            "Stop",
+            "Refresh"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the keyboard shortcut 'Alt + Home' do?",
+        "choices": [
+            "Scroll to bottom of page",
+            "Return to Homepage",
+            "Scroll down",
+            "Select the address bar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the keyboard shortcut 'Escape' do?",
+        "choices": [
+            "Stop",
+            "Forward",
+            "Refresh",
+            "Back"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the keyboard shortcut 'F11' do?",
+        "choices": [
+            "Scroll to top of page",
+            "Scroll to bottom of page",
+            "Fullscreen mode, exit fullscreen mode",
+            "Return to Homepage"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a device that can provide internet access?",
+        "choices": [
+            "Tablets",
+            "Laptop computers",
+            "Mobile phones",
+            "Printers"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What are the two key types of internet service?",
+        "choices": [
+            "Dial-up and Broadband",
+            "Fixed internet and Mobile internet",
+            "Satellite and Fiber Optic",
+            "Wireless and Wired"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Fixed internet is fixed to a specific location like a:",
+        "choices": [
+            "Mobile phone",
+            "Laptop",
+            "Modem",
+            "Tablet"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first step to access the net?",
+        "choices": [
+            "Type in the search bar",
+            "Open a website",
+            "Click on the web browser's icon",
+            "Connect to the internet"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the text field in a web browser that identifies the user's location on the web called?",
+        "choices": [
+            "Status bar",
+            "Address bar",
+            "Menu bar",
+            "Toolbar"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In Google Chrome, the address bar is called the:",
+        "choices": [
+            "Location bar",
+            "URL bar",
+            "Omni box",
+            "Address box"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The address bar is also known as a:",
+        "choices": [
+            "Status bar",
+            "Menu bar",
+            "URL bar",
+            "Task bar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are the three parts of a web address?",
+        "choices": [
+            "Protocol, IP Address, Domain",
+            "www, nameofthewebsite, .com",
+            "Username, Password, Domain",
+            "Server, IP Address, Filename"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does '.org' domain stand for?",
+        "choices": [
+            "Network provider",
+            "Organization",
+            "Commercial",
+            "Government"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does '.net' domain stand for?",
+        "choices": [
+            "Organization",
+            "Commercial",
+            "Network provider",
+            "Government"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the first page that opens up when you browse a website?",
+        "choices": [
+            "Search Engine",
+            "Hyperlink",
+            "Home Page",
+            "Landing Page"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "A home page may also serve as a ________ to attract visitors.",
+        "choices": [
+            "Web search engine",
+            "Landing page",
+            "Search Engine",
+            "Hyperlink"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a software program that searches documents and files for keywords?",
+        "choices": [
+            "Hyperlink",
+            "Homepage",
+            "Search Engine",
+            "Website"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is an example of a Search Engine?",
+        "choices": [
+            "Amazon.com",
+            "Google.com",
+            "Facebook.com",
+            "Wikipedia.org"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is used if you want to click to jump to a new document?",
+        "choices": [
+            "Search engine",
+            "Homepage",
+            "Hyperlink",
+            "Website"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where are hyperlinks commonly found?",
+        "choices": [
+            "Some Web pages",
+            "Mostly all Web pages",
+            "Home page",
+            "Search engine"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What color are text hyperlinks typically?",
+        "choices": [
+            "Red",
+            "Green",
+            "Blue",
+            "Black"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To access the internet, what two things are needed?",
+        "choices": [
+            "A device capable of connecting to the internet and access to social media",
+            "A device capable of connecting to the internet and access to search engine",
+            "A device capable of connecting to the internet and a website",
+            "A device capable of connecting to the internet and access to an internet service"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of these is most commonly used to get online?",
+        "choices": [
+            "Smartwatches",
+            "Desktop computer",
+            "Headphones",
+            "Mobile phones"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is an example of an online shopping site?",
+        "choices": [
+            "Google",
+            "Bing",
+            "Yahoo",
+            "Amazon"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is a website?",
+        "choices": [
+            "A single HTML document",
+            "A collection of related web pages providing information about a topic",
+            "Just multimedia content",
+            "A group of documents without a domain name"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does a website typically contain?",
+        "choices": [
+            "Only text",
+            "Only images",
+            "Multimedia content",
+            "Only hyperlinks"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where is a website published?",
+        "choices": [
+            "On a single computer",
+            "On at least one web server",
+            "On a local network",
+            "Nowhere, it is private"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who can make a website available online?",
+        "choices": [
+            "Only companies",
+            "Only individuals",
+            "Only governments",
+            "An individual, company, educational institution, government, or organization"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of these is an example of a website?",
+        "choices": [
+            "www.notepad.exe",
+            "www.google.com",
+            "C:\\MyDocuments\\index.html",
+            "A Microsoft Word file"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is a web page?",
+        "choices": [
+            "A collection of websites",
+            "An individual HTML document",
+            "A server hosting websites",
+            "A type of web browser"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In what language are web pages written?",
+        "choices": [
+            "Java",
+            "Python",
+            "HTML",
+            "C++"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How are web pages translated?",
+        "choices": [
+            "By the web server",
+            "By the user manually",
+            "By the Web browser",
+            "By a search engine"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does HTML stand for?",
+        "choices": [
+            "Hyper Transfer Markup Language",
+            "Hypertext Transfer Language",
+            "Hypertext Markup Language",
+            "High-Text Marking Language"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a website example?",
+        "choices": [
+            "www.google.com",
+            "www.yahoo.com",
+            "www.facebook.com",
+            "All are website examples"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does IETF stand for?",
+        "choices": [
+            "Internet Engineering Task Force",
+            "International Engineering Task Force",
+            "Internet Enterprise Task Force",
+            "International Enterprise Task Force"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "IAB makes rules for all the activities across the",
+        "choices": [
+            "Countries",
+            "World",
+            "Internet",
+            "Universe"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the full form of Modem?",
+        "choices": [
+            "Modulator-Demodulator",
+            "Modern-Demodulator",
+            "Modulator-Decoder",
+            "Modern-Decoder"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A modem is a network device that modulates and demodulates:",
+        "choices": [
+            "Digital carrier signals",
+            "Analog carrier signals",
+            "Complex carrier signals",
+            "Simple carrier signals"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many types of Modems are there?",
+        "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the first website created?",
+        "choices": [
+            "google.com",
+            "facebook.com",
+            "info.cern.ch",
+            "amazon.com"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is a web browser primarily used for?",
+        "choices": [
+            "Creating websites",
+            "Displaying and accessing websites",
+            "Sending emails",
+            "Playing games"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Web pages are translated into human-readable content using what protocol?",
+        "choices": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "TCP"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does WWW stand for?",
+        "choices": [
+            "World Wide Web",
+            "Wide World Web",
+            "Web World Wide",
+            "Web Wide World"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are documents and other web resources identified by in WWW?",
+        "choices": [
+            "URLs",
+            "IP Addresses",
+            "MAC Addresses",
+            "File Names"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the word 'Internet' stand for?",
+        "choices": [
+            "International Network",
+            "Interconnected Network",
+            "Internal Network",
+            "Integrated Network"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is needed to connect to the Internet?",
+        "choices": [
+            "A computer system and a phone line",
+            "A web browser",
+            "An Internet Service Provider (ISP)",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "When did the development of the Internet begin?",
+        "choices": [
+            "Late 1970s",
+            "Early 1960s",
+            "Late 1960s",
+            "Early 1970s"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the name of the project that started the development of the Internet?",
+        "choices": [
+            "INTERNET",
+            "ISP",
+            "IRTF",
+            "ARPANET"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "When did ARPANET transmit its first message?",
+        "choices": [
+            "October 29, 1979",
+            "October 29, 1969",
+            "October 29, 1989",
+            "October 29, 1999"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What significant event happened to the Internet in 1993?",
+        "choices": [
+            "It was shut down",
+            "It witnessed one of its most significant expansions",
+            "It became only accessible to governments",
+            "It was renamed"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one way that computers can send and receive information on the Internet?",
+        "choices": [
+            "Through satellites",
+            "Through dedicated routers and servers",
+            "Through radio waves",
+            "Through carrier pigeons"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of information can be sent over the Internet?",
+        "choices": [
+            "Text",
+            "Graphics",
+            "Voice and Video",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What does IRTF stand for?",
+        "choices": [
+            "International Research Task Force",
+            "Internet Research Test Force",
+            "Internet Research Task Force",
+            "Internal Research Test Force"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the IRTF responsible for?",
+        "choices": [
+            "Regulating Internet service providers",
+            "Making new research and advancement in the field of Internet",
+            "Controlling website content",
+            "Providing phone lines for Internet"
+        ],
+        "correctAnswer": 1
+    }
+]

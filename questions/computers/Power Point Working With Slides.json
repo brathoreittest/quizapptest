@@ -1,0 +1,502 @@
+[
+    {
+        "question": "In PowerPoint, where can you find different view options?",
+        "choices": [
+            "File Tab",
+            "View Tab",
+            "Insert Tab",
+            "Design Tab"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where can you find the most frequently used views in PowerPoint?",
+        "choices": [
+            "Title bar",
+            "Menu bar",
+            "Task bar at the bottom right of the slide window",
+            "Ribbon"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the shortcut key to open the Design tab?",
+        "choices": [
+            "Alt+A",
+            "Alt+G",
+            "Alt+K",
+            "Alt+S"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the shortcut key to go to the Transitions tab?",
+        "choices": [
+            "Alt+A",
+            "Alt+G",
+            "Alt+K",
+            "Alt+S"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which shortcut key opens the Animations tab?",
+        "choices": [
+            "Alt+A",
+            "Alt+G",
+            "Alt+K",
+            "Alt+S"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the shortcut key to go to the Slide Show tab?",
+        "choices": [
+            "Alt+A",
+            "Alt+G",
+            "Alt+K",
+            "Alt+S"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which shortcut key opens the View tab?",
+        "choices": [
+            "Alt+R",
+            "Alt+W",
+            "Alt+X",
+            "Alt+Y"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which shortcut key opens the Help tab?",
+        "choices": [
+            "Alt+R",
+            "Alt+W",
+            "Alt+X",
+            "Alt+Y"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the function of Ctrl+Tab in PowerPoint?",
+        "choices": [
+            "Open a new presentation",
+            "Close the current presentation",
+            "Switch between open presentations",
+            "Save the current presentation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the summary, where can font management be accessed?",
+        "choices": [
+            "View Tab",
+            "Insert Tab",
+            "Home Tab in the font group",
+            "Animations Tab"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To change a single bullet or number, where should you place the cursor?",
+        "choices": [
+            "At the end of the bullet",
+            "At the start of the line that you want to change",
+            "Anywhere in the document",
+            "After selecting the text"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After clicking Home, what should you click next to change Bullets and Numbering?",
+        "choices": [
+            "A text box",
+            "An arrow",
+            "A color",
+            "A shape"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Background of a slide can be modified with:",
+        "choices": [
+            "Only Colour",
+            "Only Texture",
+            "Only Fill Pattern",
+            "Colour, Fill Pattern, or a Texture"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "To add gradient color to the slide background, after right clicking the slide, which option is selected?",
+        "choices": [
+            "Format Background > Solid fill",
+            "Format Background > Picture fill",
+            "Format Background > Gradient fill",
+            "Format Background > Pattern fill"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When customizing the slide background with gradients, after using preset gradients, which step to follow?",
+        "choices": [
+            "Do Step 1",
+            "Do Step 4",
+            "Do Step 5",
+            "Do Step 2"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To use the preset colour, type and direction gradients, which option should be selected?",
+        "choices": [
+            "Preset Patterns",
+            "Preset Textures",
+            "Preset gradients",
+            "Preset Solids"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To apply a solid color to the slide background, what is the first step?",
+        "choices": [
+            "Click the slide that you want to add a background color to",
+            "Go to the Design Tab",
+            "Click Fill",
+            "Move the Transparency slider"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "To select multiple slides to apply solid color, what key should be pressed and held while clicking other slides?",
+        "choices": [
+            "ALT",
+            "SHIFT",
+            "CTRL",
+            "TAB"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "On the Design tab, in which group will you find 'Background Styles'?",
+        "choices": [
+            "Colors group",
+            "Font group",
+            "Background group",
+            "Effects group"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To change the background transparency, what needs to be moved?",
+        "choices": [
+            "Color wheel",
+            "Transparency slider",
+            "Background Style",
+            "Fill Style"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which step involves selecting the text you want to change?",
+        "choices": [
+            "Step 1",
+            "Step 2",
+            "Step 3",
+            "Step 4"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which alignment option aligns text to the left margin?",
+        "choices": [
+            "Align Text Right",
+            "Center",
+            "Align Text Left",
+            "Justify"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which alignment option aligns text at an equal distance from the left and right margins?",
+        "choices": [
+            "Align Text Left",
+            "Align Text Right",
+            "Center",
+            "Justify"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which alignment option aligns text equally on both sides to the right and left margins?",
+        "choices": [
+            "Align Text Left",
+            "Align Text Right",
+            "Center",
+            "Justify"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Approximately how many PowerPoint presentations are given each day?",
+        "choices": [
+            "35 million",
+            "500 million",
+            "1 billion",
+            "10 million"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are bullets and numbered lists used for?",
+        "choices": [
+            "To add color",
+            "To help and organize the text",
+            "To create tables",
+            "To insert images"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Where do you select the lines of text when adding bullets or numbering?",
+        "choices": [
+            "In a text placeholder or table",
+            "On the Home tab",
+            "In the Paragraph group",
+            "In the View tab"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "In which tab do you click on 'Bullets' or 'Numbering'?",
+        "choices": [
+            "Insert",
+            "View",
+            "Home",
+            "Animations"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In the Paragraph group, what do you click to create a bulleted list?",
+        "choices": [
+            "Styles",
+            "Shape effects",
+            "Bullets",
+            "Find"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is part of the 'Project Scope' shown in the image?",
+        "choices": [
+            "Not just more of the same",
+            "Create POP",
+            "Shape outline",
+            "Quick Styles"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the function of the element labeled as '1'?",
+        "choices": [
+            "Font Size",
+            "Font Style",
+            "Character Spacing",
+            "Font Color"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which element allows you to choose a font size?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which element can increase or decrease the font size?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which element lets you select the font color?",
+        "choices": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the elements allows changing the text casing?",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The area labeled '6' is for?",
+        "choices": [
+            "Font size",
+            "Character spacing",
+            "Strikethrough",
+            "Font Style"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What formatting options are controlled by element '5'?",
+        "choices": [
+            "Bold, Italic, Underline",
+            "Superscript, Subscript",
+            "Font color",
+            "Clear all formatting"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What can be achieved using the element labeled '8'?",
+        "choices": [
+            "Character Spacing",
+            "Clear All Formatting",
+            "Strikethrough",
+            "Superscript and Subscript"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Element '9' controls what formatting function?",
+        "choices": [
+            "Bold, Italic and Underline",
+            "Superscript and Subscript",
+            "Strikethrough",
+            "Clear All Formatting"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the function of element '10'?",
+        "choices": [
+            "Increase Font Size",
+            "Decrease Font Size",
+            "Clear All Formatting",
+            "Font Style"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is NOT a topic included in this chapter?",
+        "choices": [
+            "Managing fonts",
+            "Aligning Text",
+            "Changing the background",
+            "Creating animations"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "In PowerPoint presentation, a slide is a container for elements like:",
+        "choices": [
+            "Shapes",
+            "Images",
+            "Text box",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The slides may inherit the formatting and layout properties from its:",
+        "choices": [
+            "'Master' slides",
+            "'Layout' slides",
+            "Both of above",
+            "None of above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is contained in the ribbon?",
+        "choices": [
+            "File",
+            "Home",
+            "View",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The most frequently used features are contained in the ____ tab",
+        "choices": [
+            "File",
+            "Insert",
+            "Home",
+            "View"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "To minimize the Ribbon, we need to Right Click any where on the Ribbon and then Click:",
+        "choices": [
+            "Minimize",
+            "Maximize",
+            "Restore",
+            "Close"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the shortcut to minimize the Ribbon?",
+        "choices": [
+            "CTRL+F1",
+            "CTRL+F2",
+            "CTRL+F3",
+            "CTRL+F4"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which year version of PowerPoint is covered in this chapter?",
+        "choices": [
+            "2010",
+            "2013",
+            "2016",
+            "2019"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following ribbon tabs is listed in the text?",
+        "choices": [
+            "Format",
+            "Design",
+            "Formulas",
+            "Animations"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following topics is NOT mentioned in the 'Topics included' section?",
+        "choices": [
+            "Managing fonts",
+            "Adding bullets and numbers",
+            "Working with tables",
+            "Overview of Power Point views"
+        ],
+        "correctAnswer": 2
+    }
+]
