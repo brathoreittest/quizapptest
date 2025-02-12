@@ -1,0 +1,1032 @@
+[
+    {
+        "question": "According to the text, how many parts does a true apology have?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the first part of a true apology?",
+        "choices": [
+            "It's my fault",
+            "What can I do to make it right?",
+            "I'm sorry",
+            "Just think about it"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is most often missed in an apology?",
+        "choices": [
+            "The first part",
+            "The second part",
+            "The third part",
+            "The hardest part"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, the first to forgive is the...",
+        "choices": [
+            "bravest",
+            "happiest",
+            "noblest",
+            "smartest"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, the first to apologize is the...",
+        "choices": [
+            "bravest",
+            "happiest",
+            "noblest",
+            "smartest"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Who said \"To err is human, to forgive is divine.\"",
+        "choices": [
+            "Alexander Pope",
+            "Dr. Martin Luther King Jr.",
+            "Unknown",
+            "Neither Pope or MLK"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What does the text encourage readers to do after reading about true apologies?",
+        "choices": [
+            "Stay the same",
+            "Improve their ways of apologizing",
+            "Focus on others faults",
+            "Forget about it"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, the first to move forward is the...",
+        "choices": [
+            "bravest",
+            "happiest",
+            "noblest",
+            "smartest"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to Martin Luther King Jr., forgiveness is not an...",
+        "choices": [
+            "an occasional act",
+            "a constant attitude",
+            "easy thing to do",
+            "act of kindness"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to Martin Luther King Jr., forgiveness is a...",
+        "choices": [
+            "an occasional act",
+            "a constant attitude",
+            "easy thing to do",
+            "act of kindness"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the prayer ask God to forgive?",
+        "choices": [
+            "Only our actions",
+            "Only our thoughts",
+            "All the things we have done, said, and thoughts",
+            "Only the things that harm others"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the prayer ask God to help us with?",
+        "choices": [
+            "To be rich",
+            "To be famous",
+            "To be truly sorry in our hearts",
+            "To have a good life"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the prayer hope we may change?",
+        "choices": [
+            "The world",
+            "Our religion",
+            "The way that we live",
+            "Nothing"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What age was the boy who asked about friendship?",
+        "choices": [
+            "Six",
+            "Seven",
+            "Eight",
+            "Nine"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the boy say friendship was like?",
+        "choices": [
+            "Sharing toys",
+            "Stealing chocolates and still keeping them in the same place",
+            "Never fighting",
+            "Always agreeing"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the boy do with his chocolates when they were stolen?",
+        "choices": [
+            "Ate them immediately",
+            "Hid them somewhere else",
+            "Kept them in the same place",
+            "Threw them away"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is true friendship the foundation of?",
+        "choices": [
+            "Wealth",
+            "Power",
+            "Forgiveness",
+            "Success"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the passage, what might the first boy move towards after being forgiven?",
+        "choices": [
+            "Self-forgiveness (confession)",
+            "Self-punishment",
+            "Revenge",
+            "Nothing"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What must we learn to do if we really want to love?",
+        "choices": [
+            "Hate",
+            "Forgive",
+            "Ignore",
+            "Judge"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the implied meaning of the quote \"Forgive us Lord\"",
+        "choices": [
+            "We want to be forgiven",
+            "We want to hate you",
+            "We do not care about sins",
+            "We are perfect"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, when do our parents and teachers forgive us?",
+        "choices": [
+            "When we are perfect",
+            "When we make mistakes",
+            "When we are always right",
+            "When we are always wrong"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the first activity you should think about?",
+        "choices": [
+            "What did you eat today?",
+            "A mistake you may have committed",
+            "How to be a better friend",
+            "What you want to do"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, where you may have committed the mistake?",
+        "choices": [
+            "At home",
+            "At school",
+            "At home or school",
+            "None of the above"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you make in class?",
+        "choices": [
+            "A joke",
+            "A confession box",
+            "A friend",
+            "A mess"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What should you narrate in class?",
+        "choices": [
+            "A song",
+            "A joke",
+            "The incident",
+            "A lie"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the gift according to the text?",
+        "choices": [
+            "Hate",
+            "Forgiveness",
+            "Anger",
+            "Guilt"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To whom you give forgiveness?",
+        "choices": [
+            "To the teacher",
+            "To yourself",
+            "To your parents",
+            "To your friends"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What were the last words of Jesus Christ when he was crucified?",
+        "choices": [
+            "I thirst.",
+            "Father, into your hands I commit my spirit.",
+            "Forgive them for they don't know what they are doing.",
+            "It is finished."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Confessing our mistakes makes us:",
+        "choices": [
+            "More stressed",
+            "Lighter and stress free",
+            "Ashamed",
+            "Angry"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In Christianity, what is the place called where people confess their mistakes?",
+        "choices": [
+            "Prayer room",
+            "Church",
+            "Confession box",
+            "Chapel"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who do people confess their mistakes to in the confession box?",
+        "choices": [
+            "Themselves",
+            "Friends",
+            "The Father (priest)",
+            "Family"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The confession of wrong deeds is the beginning of:",
+        "choices": [
+            "More wrong deeds",
+            "Good works",
+            "Sorrow",
+            "Regret"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Prayer is a confession of one's own:",
+        "choices": [
+            "Strength and happiness",
+            "Unworthiness and weakness",
+            "Goodness and kindness",
+            "Wealth and power"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who should we learn to forgive?",
+        "choices": [
+            "Our enemies",
+            "God",
+            "Our friends who hurt us",
+            "The Father (priest)"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Who wanted to forgive even his killers?",
+        "choices": [
+            "The Father (priest)",
+            "Moses",
+            "God",
+            "Jesus Christ"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Can we not forgive our friends who hurt us?",
+        "choices": [
+            "No",
+            "Of course, we should forgive them",
+            "Sometimes",
+            "Maybe"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the meaning of 'To err is human, to forgive is divine'?",
+        "choices": [
+            "The man forgiving the sins of others is raised to the level of the God.",
+            "The person who commits mistakes is a sinner, he should not be forgiven.",
+            "Forgiving someone is easy for the God but difficult for us."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the meaning of 'Forgiveness is a gift, you give to yourself'?",
+        "choices": [
+            "If you forgive someone, you become superior.",
+            "By forgiving others you can become great in others' eyes.",
+            "If you forgive someone, you get inner satisfaction."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Your classmate borrows your notebook and loses it. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "You are disrespecting your parents because they have not bought the toy you wanted. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Your cousin forgets to invite you to his/her birthday party. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your friend shouts at you for something you didn't do. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "You were excused three times earlier for damaging the school furniture. Still, you repeated the same. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Your brother refuses to help you to do your homework. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your favourite milk mug was broken by your maid while washing. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "You have the habit of submitting your home task late after being forgiven by the teacher many a time earlier. Is this forgiving or unforgiving?",
+        "choices": [
+            "Forgiving",
+            "Unforgiving",
+            "Neutral"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'forgiveness' mean according to the text?",
+        "choices": [
+            "Holding onto the past",
+            "Letting go of the past",
+            "Ignoring the past",
+            "Rewriting the past"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what has the potential to make the world a better place?",
+        "choices": [
+            "A touch, a smile, a kind word",
+            "A patient ear, an honest compliment",
+            "The smallest act of caring",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "When you get three stars or more based on whether you forgive?",
+        "choices": [
+            "You are forgiving and have started realizing your mistakes",
+            "You should try harder",
+            "You should feel sorry",
+            "You have failed"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "When you get two stars or less based on whether you forgive?",
+        "choices": [
+            "You are forgiving and have started realizing your mistakes",
+            "You should try harder",
+            "You should feel sorry",
+            "You have failed"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, why do we often misbehave with our parents?",
+        "choices": [
+            "To make them angry",
+            "To get our wishes fulfilled",
+            "To disobey them",
+            "To show them who is boss"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After reading the story, what should you do?",
+        "choices": [
+            "Argue with your parents",
+            "Ignore your mistakes",
+            "Write a letter to your parents seeking apology",
+            "Complain about the story"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, what ends all ill-feelings?",
+        "choices": [
+            "Arguments",
+            "Revenge",
+            "Forgiveness",
+            "Silence"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Forgiving someone or asking for forgiveness is not considered:",
+        "choices": [
+            "Courageous",
+            "Generous",
+            "Shameful",
+            "Important"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What two qualities does a person need to both forgive and ask for forgiveness?",
+        "choices": [
+            "Anger and Revenge",
+            "Courage and Generosity",
+            "Shame and Pride",
+            "Bitterness and Disappointment"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What kind of place will the world be if people forgive others readily?",
+        "choices": [
+            "A sadder place",
+            "A lonelier place",
+            "A happier and peaceful place",
+            "A more chaotic place"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should be written in the letter addressed to the parents?",
+        "choices": [
+            "Appreciation",
+            "Apology",
+            "Demand",
+            "Celebration"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what does forgiveness help you get over?",
+        "choices": [
+            "Joy",
+            "Bitterness",
+            "Excitement",
+            "Satisfaction"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the letter about, according to the heading?",
+        "choices": [
+            "Gratitude",
+            "Celebration",
+            "Apology",
+            "Invitation"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the story about?",
+        "choices": [
+            "Happiness",
+            "Misconduct",
+            "Celebrations",
+            "Friendship"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the name of the young boy in the story?",
+        "choices": [
+            "David",
+            "Devansh",
+            "Daniel",
+            "Derrick"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Initially, how did Devansh behave towards his school?",
+        "choices": [
+            "Responsible and regular",
+            "Ill-mannered, irresponsible & irregular",
+            "Punctual and obedient",
+            "Enthusiastic and dedicated"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Devansh start doing when he fell into bad company?",
+        "choices": [
+            "Attending all classes",
+            "Bunking his classes",
+            "Helping his parents",
+            "Being more responsible"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why did Devansh's parents decide to send him to a hostel?",
+        "choices": [
+            "Because they didn't love him",
+            "So that he could learn discipline and improve his habits",
+            "Because they were too busy",
+            "To punish him"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "After going to boarding school, what did Devansh realize?",
+        "choices": [
+            "That his parents were always wrong",
+            "That his parents were there to help and guide him",
+            "That he should never return home",
+            "That he hated boarding school"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How did Devansh apologize to his parents?",
+        "choices": [
+            "By sending them a gift",
+            "By writing them a letter",
+            "By calling them",
+            "By ignoring them"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the reaction of Devansh's parents when they received his letter?",
+        "choices": [
+            "They were angry",
+            "They had tears in their eyes",
+            "They ignored him",
+            "They laughed"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the 'Learning Point', what is the role of parents when we make mistakes?",
+        "choices": [
+            "They always punish us",
+            "They always try to rectify our mistakes",
+            "They ignore us",
+            "They never forgive us"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The text states that parents are like?",
+        "choices": [
+            "Kings",
+            "God",
+            "Superheroes",
+            "Friends"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the passage tell us about parents?",
+        "choices": [
+            "Parents are teachers, guides, leaders, protectors and providers for their children",
+            "Parents are not responsible for their children's action.",
+            "Parents should not interfere with their children's lives.",
+            "Parents should not make mistakes."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, what should you do when someone does something wrong to you?",
+        "choices": [
+            "Ignore it",
+            "Tell everyone about it",
+            "Recall the experience and put a pebble in a box",
+            "Get revenge"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The box with pebbles becomes heavier because:",
+        "choices": [
+            "The pebbles are heavy",
+            "Negative feelings weigh us down",
+            "The box is made of heavy material",
+            "The teacher keeps adding more pebbles"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, we feel happier and lighter when we:",
+        "choices": [
+            "Hold onto grudges",
+            "Get revenge",
+            "Forgive and forget",
+            "Ignore people"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these qualities would help you to forgive others, according to the text?",
+        "choices": [
+            "Violence",
+            "Arrogance",
+            "Love",
+            "Intolerance"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these qualities would NOT help you to forgive others, according to the text?",
+        "choices": [
+            "Kindness",
+            "Helpfulness",
+            "Compassion",
+            "Jealousy"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is one of the first qualities we should have to forgive?",
+        "choices": [
+            "Jealousy",
+            "Trust",
+            "Arrogance",
+            "Intolerance"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the feeling that does NOT let us forgive someone?",
+        "choices": [
+            "Selflessness",
+            "Kindness",
+            "Violence",
+            "Helpfulness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "If we have violence, can we forgive?",
+        "choices": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Maybe"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If we have love, can we forgive?",
+        "choices": [
+            "Yes",
+            "No",
+            "Sometimes",
+            "Maybe"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, negative feelings and grudges are like?",
+        "choices": [
+            "Flowers",
+            "Sunshine",
+            "Pebbles",
+            "Rain"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Anu & Rohit were playing football in the school playground. They got into a fight for the ball & now they are angry with each other. Now they should",
+        "choices": [
+            "say sorry to each other.",
+            "stop talking to each other.",
+            "forgive each other and start playing.",
+            "make a complaint to the teacher."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "You accidently spilled water in your friend's lunch box. Now you will",
+        "choices": [
+            "tell him that it was his mistake.",
+            "say sorry and leave the seat.",
+            "share your lunch with him.",
+            "tell him that he should have been careful."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Your cousin has said something wrong to you as you spoiled his T-shirt while doing painting. Now you will",
+        "choices": [
+            "complain to your mother.",
+            "say sorry and tell him to calm down.",
+            "give your new T-shirt to him.",
+            "tell him that he had disturbed you."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "You went on a picnic where your classmate lost your water bottle. You will",
+        "choices": [
+            "smile and say it's ok for this time but take care next time.",
+            "tell him to search for the bottle everywhere.",
+            "take away his water bottle.",
+            "ask him to buy a new bottle for you."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "You studied a lot but still you got C grade. What will you say to your mom?",
+        "choices": [
+            "Teacher has not checked the paper properly.",
+            "Sorry, I will practise harder and be more careful now onwards.",
+            "The paper was too difficult and everyone got lower grades.",
+            "Mother, you haven't given me enough time,"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "One of your friends calls you with a funny name. You will",
+        "choices": [
+            "make fun of his name as well.",
+            "inform his/her parents.",
+            "forgive him/her.",
+            "fight with him/her."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where was Leonardo Da Vinci painting The Last Supper?",
+        "choices": [
+            "Paris, France",
+            "Rome, Italy",
+            "Milan, Italy",
+            "Florence, Italy"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Leonardo Da Vinci tell his friend after their argument?",
+        "choices": [
+            "To leave and never show his face again",
+            "To apologize immediately",
+            "To help him with the painting",
+            "To stay and discuss the issue"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Why couldn't Leonardo paint the face of Jesus after the argument?",
+        "choices": [
+            "He ran out of paint",
+            "He was too tired",
+            "He could not give the right expressions to the face",
+            "The model did not appear"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was depriving Leonardo Da Vinci of his peace of mind?",
+        "choices": [
+            "His frustration",
+            "His anger",
+            "His tiredness",
+            "His friends"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did Leonardo Da Vinci go in search of?",
+        "choices": [
+            "New brushes",
+            "His friend to ask for forgiveness",
+            "Inspiration",
+            "A new painting"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the 'Learning Point', what takes away our peace of mind?",
+        "choices": [
+            "Happiness and joy",
+            "Anger and resentment",
+            "Love and care",
+            "Friendship"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the 'Learning Point', what does anger prevents us from doing?",
+        "choices": [
+            "To eat our food",
+            "To drive a car",
+            "To work in the garden",
+            "To concentrate on our work"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the text, what do people often hesitate to do?",
+        "choices": [
+            "To accept their mistakes and ask for forgiveness",
+            "To go for picnic",
+            "To study for the test",
+            "To share their problems"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the chapter number?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is forgiveness a synonym of?",
+        "choices": [
+            "Kindness",
+            "Godliness",
+            "Humility",
+            "Strength"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is NOT mentioned in the 'Values Focus'?",
+        "choices": [
+            "Patience",
+            "Love",
+            "Honesty",
+            "Humility"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, forgiving someone is one of the most ________ values to nurture.",
+        "choices": [
+            "Easiest",
+            "Important",
+            "Difficult",
+            "Common"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The person who forgives is stronger and _________",
+        "choices": [
+            "Wealthier",
+            "Happier",
+            "Older",
+            "More Intelligent"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Who are the great saints mentioned?",
+        "choices": [
+            "Kabir, Guru Nanak, Jesus Christ and Lord Buddha",
+            "Kabir, Guru Nanak and Jesus Christ",
+            "Guru Nanak, Jesus Christ and Lord Buddha",
+            "Kabir, Jesus Christ and Lord Buddha"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Great saints resorted to anger and _____________",
+        "choices": [
+            "Peace",
+            "Revenge",
+            "Truth",
+            "Love"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "To err is human; to forgive is _____________",
+        "choices": [
+            "Evil",
+            "Bad",
+            "Divine",
+            "Unkind"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Anger is the opposite of what values?",
+        "choices": [
+            "Patience, Love and Humility",
+            "Peace and Love",
+            "Self-control",
+            "Peace, Love and Courage"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following words describes the one who forgives someone?",
+        "choices": [
+            "Weak",
+            "Strong",
+            "Evil",
+            "Bad"
+        ],
+        "correctAnswer": 1
+    }
+]

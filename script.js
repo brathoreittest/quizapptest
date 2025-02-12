@@ -6,7 +6,7 @@ const chapters = {
     computers: ['Scratch More Blocks Commands', 'Intro MS POwer Point 2016', 'Browsing the Internet', 'Power Point Working With Slides'],
     english: ['Adjectives', 'Adverbs', 'Pronouns', 'Homophones and Homonyms', 'Conjunctions', 'Prepositions'],
     hindi: ['Programming', 'Database', 'Networking', 'Web Development'],
-    gkvalue: ['Programming', 'Database', 'Networking', 'Web Development']
+    gkvalue: ['Success', 'Forgiveness', 'Celebrating Relations']
 };
 
 // Global variables for the quiz

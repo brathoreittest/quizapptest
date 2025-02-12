@@ -1,0 +1,1337 @@
+[
+    {
+        "question": "What is your main goal as a monitor of the class?",
+        "choices": [
+            "Bullying the classmates",
+            "Flattering the teacher",
+            "To be the monitor of the class",
+            "Letting down other students"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a sub-goal of a class monitor?",
+        "choices": [
+            "Bullying the classmates",
+            "Flattering the teacher",
+            "Following the instructions of the teacher properly",
+            "Letting down other students"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following is a positive attribute for a class monitor?",
+        "choices": [
+            "Bullying the classmates",
+            "Flattering the teacher",
+            "Displaying a 'Can Do' attitude",
+            "Letting down other students"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the best way to give suggestions to the teacher?",
+        "choices": [
+            "For conducting different activities",
+            "Flattering the teacher",
+            "Bullying the classmates",
+            "Letting down other students"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What should a class monitor do with homework?",
+        "choices": [
+            "Completing the class work and home work in time",
+            "Flattering the teacher",
+            "Bullying the classmates",
+            "Letting down other students"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What should a class monitor do with the cleanliness of the class?",
+        "choices": [
+            "Helping to maintain cleanliness in the class",
+            "Flattering the teacher",
+            "Bullying the classmates",
+            "Letting down other students"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to Malcolm S. Forbes, what is the key to success?",
+        "choices": [
+            "Failure",
+            "Hard work",
+            "Failure is success if we learn from it",
+            "Sincerity"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Dr. TP Chia, what is the price for a meaningful happy life?",
+        "choices": [
+            "Failure",
+            "Hard work",
+            "Failure is success if we learn from it",
+            "Sincerity"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to Thomas Jefferson, what is the first chapter in the book of wisdom?",
+        "choices": [
+            "Failure",
+            "Hard work",
+            "Honesty",
+            "Sincerity"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to Mencius, what is the way to heaven?",
+        "choices": [
+            "Failure",
+            "Hard work",
+            "Honesty",
+            "Sincerity"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "On what date does the text begin?",
+        "choices": [
+            "January 2nd",
+            "December 31st",
+            "January 1st",
+            "February 1st"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the author have a lot of?",
+        "choices": [
+            "Clothes",
+            "Pets",
+            "Money",
+            "Friends"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is one of the six actions the author is taking to reach their goals?",
+        "choices": [
+            "Eat more snacks",
+            "Study less",
+            "Study a lot",
+            "Play more games"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is one 'New' thing the author wants to do this year?",
+        "choices": [
+            "Play",
+            "Sleep",
+            "Study",
+            "Eat"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is one 'Crazy' thing the author wants to try?",
+        "choices": [
+            "Sleep more",
+            "Fly my cycle",
+            "Study hard",
+            "Eat healthy"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What the author do everyday to support himself",
+        "choices": [
+            "School",
+            "Play",
+            "Sleep",
+            "Study"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What the author do everyday to support himself, another answer",
+        "choices": [
+            "Change my clothes",
+            "Play",
+            "Sleep",
+            "Study"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What the author eat to support himself",
+        "choices": [
+            "Eat much",
+            "Eat my lunch",
+            "Play",
+            "Sleep"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one of the six actions the author is taking to reach their goals? (2)",
+        "choices": [
+            "Drink more water",
+            "Study",
+            "Play",
+            "Sleep"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one of the six actions the author is taking to reach their goals? (3)",
+        "choices": [
+            "Eat more water",
+            "Play less",
+            "Play",
+            "Sleep"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What helps you reach your destination?",
+        "choices": [
+            "Luck",
+            "Knowledge",
+            "Wealth",
+            "Strength"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What was the ancient Indian sage teaching his disciples?",
+        "choices": [
+            "The art of singing",
+            "The art of archery",
+            "The art of dancing",
+            "The art of storytelling"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the sage put as the target?",
+        "choices": [
+            "A fruit",
+            "A wooden bird",
+            "An apple",
+            "A tree"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What did the first disciple see when asked to describe the target?",
+        "choices": [
+            "Only the eye of the bird",
+            "The sky",
+            "Trees, branches, leaves, the sky, the bird, and its eye.",
+            "Only the bird"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did the second disciple see when asked to describe the target?",
+        "choices": [
+            "Only the bird",
+            "The leaves",
+            "Only the eye of the bird",
+            "The sky"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, what is a skill that can be learnt?",
+        "choices": [
+            "Flying",
+            "Focus",
+            "Singing",
+            "Drawing"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Would you board a train or a plane without knowing where it is going?",
+        "choices": [
+            "Yes",
+            "No",
+            "Maybe",
+            "Sometimes"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "If you don't know where you want to go, any road will take you...",
+        "choices": [
+            "Nowhere",
+            "Somewhere",
+            "Anywhere",
+            "To the destination"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What really matters in what direction are we...",
+        "choices": [
+            "Jumping",
+            "Moving",
+            "Walking",
+            "Running"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what goes waste without aim?",
+        "choices": [
+            "Effort and courage",
+            "Money",
+            "Time",
+            "Dreams"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, what happens if you fail to plan?",
+        "choices": [
+            "You will definitely celebrate your achievement.",
+            "You are planning to fail.",
+            "You will live a happy life.",
+            "You will become wiser."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, What kind of goals should be set?",
+        "choices": [
+            "RISER goals",
+            "WISER goals",
+            "SMART goals",
+            "AMART goals"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the 'S' in SMART goals stand for?",
+        "choices": [
+            "Simple",
+            "Specific",
+            "Successful",
+            "Significant"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the 'M' in SMART goals stand for?",
+        "choices": [
+            "Memorable",
+            "Manageable",
+            "Measurable",
+            "Motivating"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the 'A' in SMART goals stand for?",
+        "choices": [
+            "Active",
+            "Achievable",
+            "Authentic",
+            "Attainable"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does the 'R' in SMART goals stand for?",
+        "choices": [
+            "Realistic",
+            "Rewarding",
+            "Relevant",
+            "Reliable"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the 'T' in SMART goals stand for?",
+        "choices": [
+            "Timeless",
+            "Time Bound",
+            "Tangible",
+            "Truthful"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what do you need to do if you want to lose 10kg in six weeks?",
+        "choices": [
+            "Sitting idle.",
+            "Eating in correct portion and exercise 5 times a week.",
+            "Do whatever.",
+            "Nothing."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what should you do to measure your success?",
+        "choices": [
+            "Ask questions such as How much? How many?",
+            "Is it attainable?",
+            "Set a time duration.",
+            "Sitting idle."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, when you want to accomplish your goal?",
+        "choices": [
+            "Never set a time duration.",
+            "Set a time duration.",
+            "Impossible.",
+            "Sometimes."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Your brother wants you to help him in his studies but you want to watch a movie. You will......",
+        "choices": [
+            "help my brother in studies so I",
+            "Can watch movie later"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your little sister is crying. Your room is in a mess. Will you clean up the room first or will you try to make your sister calm? Why?",
+        "choices": [
+            "I will try to make my sister",
+            "calm"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your mother wants you to serve food to the guests but you are busy doing your homework as it is to be submitted the next day. You will........",
+        "choices": [
+            "help my mother to serve",
+            "food"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your father has come tired from the office but you want to go out for dinner. You will.....",
+        "choices": [
+            "Serve a glass of water to",
+            "my father first"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, what is one of the most sincere forms of RESPECT?",
+        "choices": [
+            "Begging",
+            "Imposing",
+            "Listening to what ANOTHER has to say.",
+            "Giving to Yourself"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, what is the first way to show respect if you expect respect from others?",
+        "choices": [
+            "Respect Others",
+            "Respect Yourself",
+            "Beg for respect",
+            "Impose respect"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, Respect is _________ nor begged.",
+        "choices": [
+            "imposed",
+            "taken",
+            "earned",
+            "not to be given"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, Respect is offered and _________.",
+        "choices": [
+            "begged",
+            "offered",
+            "earned",
+            "imposed"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the box, which of these is a quality?",
+        "choices": [
+            "Focused",
+            "Always",
+            "Sincerity",
+            "Scale"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "From the box provided, which of the following qualities is listed?",
+        "choices": [
+            "Organized",
+            "Focused",
+            "Truthful",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following qualities is listed under 'I AM NEVER'?",
+        "choices": [
+            "Focused",
+            "Genuine",
+            "Honest",
+            "Organized"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what should you color for every 'I AM ALWAYS' entry?",
+        "choices": [
+            "A box on the sincerity scale",
+            "The 'I AM ALWAYS' text",
+            "The qualities in the box",
+            "A box on the 'I AM NEVER' scale"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the sincerity scale used for?",
+        "choices": [
+            "Measuring the length of the coloured band",
+            "Showing the sincerity scale with your favourite colour",
+            "A measure of your sincerity",
+            "Inculcating these qualities in yourself in the next few months"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the given box, which of the following qualities is present?",
+        "choices": [
+            "Truthful",
+            "Focused",
+            "Honest",
+            "All of the above"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the image, which of the following can be put in 'I AM NEVER' section?",
+        "choices": [
+            "Humble",
+            "Focused",
+            "Truthful",
+            "Helpful"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the purpose of coloring a box on the sincerity scale?",
+        "choices": [
+            "To show your favorite color.",
+            "To indicate the length of the band.",
+            "To mark the entry in 'I AM ALWAYS'.",
+            "To indicate the degree of sincerity for the listed quality."
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the box in the image, what qualities are related to being good and kind?",
+        "choices": [
+            "Focused, Punctual, Truthful",
+            "Honest, Righteous, Helpful",
+            "Cooperative, Organized, Genuine",
+            "Loyal, Humble, Kind"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the provided text, what is the length of the colored band a measure of?",
+        "choices": [
+            "Your favorite color",
+            "Your sincerity",
+            "Your length of months",
+            "Qualities in yourself"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The spirits built two palaces, one of truth and one of ____.",
+        "choices": [
+            "joy",
+            "happiness",
+            "lies",
+            "peace"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What happened to the palace of lies when lies were discovered?",
+        "choices": [
+            "It grew stronger.",
+            "It became bigger.",
+            "It was crushed and disappeared.",
+            "It turned into gold."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The lying spirits were described as...",
+        "choices": [
+            "Kind and generous",
+            "Tricky and deceitful",
+            "Helpful and honest",
+            "Brave and courageous"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The bricks for the palace of lies were created when...",
+        "choices": [
+            "A child told the truth",
+            "A child told a lie",
+            "Spirits worked hard",
+            "The palace became spectacular"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "In the end, the palace of lies...",
+        "choices": [
+            "Fell into pieces",
+            "Became stronger",
+            "Turned into gold",
+            "Was protected by the spirits"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following values could have helped the Palace of Lies withstand?",
+        "choices": [
+            "Insincerity",
+            "Disloyalty",
+            "Honesty",
+            "Falseness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following values could have helped the Palace of Lies withstand?",
+        "choices": [
+            "Insincerity",
+            "Disloyalty",
+            "Truth",
+            "Falseness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following values could have helped the Palace of Lies withstand?",
+        "choices": [
+            "Insincerity",
+            "Disloyalty",
+            "Determination",
+            "Falseness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following values could have helped the Palace of Lies withstand?",
+        "choices": [
+            "Insincerity",
+            "Disloyalty",
+            "Faith",
+            "Falseness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following values could have helped the Palace of Lies withstand?",
+        "choices": [
+            "Insincerity",
+            "Disloyalty",
+            "Sincerity",
+            "Falseness"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What word is unscrambled from 'EB'?",
+        "choices": [
+            "AB",
+            "BE",
+            "AE",
+            "BA"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What word is unscrambled from 'ESNHOT'?",
+        "choices": [
+            "HONEST",
+            "SHONET",
+            "SHONTE",
+            "TONESH"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What word is unscrambled from 'NAD'?",
+        "choices": [
+            "DAN",
+            "ADN",
+            "AND",
+            "NDA"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What word is unscrambled from 'LAPNEND'?",
+        "choices": [
+            "PLANDED",
+            "PLANNED",
+            "PLANEND",
+            "LAPNEDN"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What word is unscrambled from 'NI'?",
+        "choices": [
+            "IN",
+            "NO",
+            "ON",
+            "AI"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What word is unscrambled from 'OYUR'?",
+        "choices": [
+            "RUOY",
+            "YOUR",
+            "YURO",
+            "OURY"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What word is unscrambled from 'LFEI'?",
+        "choices": [
+            "LIFE",
+            "FILE",
+            "ELFI",
+            "IFEL"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What word is unscrambled from 'OS'?",
+        "choices": [
+            "SO",
+            "SO",
+            "OS",
+            "SA"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What word is unscrambled from 'HATT'?",
+        "choices": [
+            "TTHA",
+            "HTTA",
+            "THAT",
+            "ATTH"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What word is unscrambled from 'OUY'?",
+        "choices": [
+            "YUO",
+            "YOU",
+            "UYO",
+            "OYU"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what did the Roof say?",
+        "choices": [
+            "Be Cool",
+            "Every minute is precious",
+            "Aim High",
+            "Reflect before you act."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the message from the Door?",
+        "choices": [
+            "See the world",
+            "Push hard to achieve your goal",
+            "Be up to date",
+            "Be Cool"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, the Clock said?",
+        "choices": [
+            "Every minute is precious",
+            "Be Cool",
+            "See the world",
+            "Reflect before you act"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, the Mirror said?",
+        "choices": [
+            "Be Cool",
+            "Every minute is precious",
+            "Aim High",
+            "Reflect before you act"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the 'Chances of Success' chart, what is the percentage of success if you say 'I can'?",
+        "choices": [
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the 'Chances of Success' chart, what is the percentage of success if you say 'I might'?",
+        "choices": [
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the 'Chances of Success' chart, what is the percentage of success if you say 'I am'?",
+        "choices": [
+            "70%",
+            "80%",
+            "90%",
+            "100%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the 'Chances of Success' chart, what is the percentage of success if you say 'I don't know how'?",
+        "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the 'Chances of Success' chart, what is the percentage of success if you say 'I won't'?",
+        "choices": [
+            "0%",
+            "10%",
+            "20%",
+            "30%"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the 'Chances of Success' chart, what is the percentage of success if you say 'I think I can'?",
+        "choices": [
+            "50%",
+            "60%",
+            "70%",
+            "80%"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "You have been trying to pass Maths Olympiad for the last two years but unable to do so. You will",
+        "choices": [
+            "keep trying until you pass it.",
+            "give up and will resolve not to try again.",
+            "discourage others also not to try for it ever."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Your friend has scored better grades than you. You will",
+        "choices": [
+            "be jealous of him.",
+            "try harder to get better grades than your friend.",
+            "not compare yourself with him and keep on putting in your best efforts."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "You have stage phobia (fear). As a part of Formative Assessment, you have to deliver a speech in the morning assembly. You will",
+        "choices": [
+            "talk to your teacher about your stage fear and show your inability.",
+            "request your teacher to change the task for you.",
+            "determine to give your best and try to get the best grades."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "All the students were assigned a home task by the teacher. Everybody did it but due to some reasons you couldn't complete it. You will",
+        "choices": [
+            "give excuses of not completing it.",
+            "share your real problem with the teacher and promise to complete it before the day gets over.",
+            "copy it from one of your classmates and submit it."
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "You want to improve your handwriting. Inspite of attending calligraphy classes, it has not improved. You will",
+        "choices": [
+            "continue practising.",
+            "give up the attempt.",
+            "discourage other students not to attend calligraphy classes."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "You were the monitor of the class but this designation has been given to a new student of the class. You would",
+        "choices": [
+            "get angry.",
+            "not talk to the new monitor.",
+            "help him/her out in doing his/her tasks."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "After your dance performance on the stage, you find some friends of yours making fun of your dance. You will",
+        "choices": [
+            "ignore them and keep on doing your best.",
+            "resolve not to dance again.",
+            "shout at them suggesting to take care of their life instead of others."
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What should you not worry about?",
+        "choices": [
+            "What people say behind your back",
+            "Finding faults with your life",
+            "Fixing your own life",
+            "Building a palace"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What do some people do instead of fixing their own lives?",
+        "choices": [
+            "Building palaces",
+            "Finding faults with your life",
+            "Helping others",
+            "Giving advice"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Why should you not worry about the delay of your success?",
+        "choices": [
+            "Because everyone is successful at the same time.",
+            "Because success is guaranteed.",
+            "Because the construction of a palace takes more time than an ordinary building.",
+            "Because it doesn't matter."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you put into even your small acts?",
+        "choices": [
+            "Money and time",
+            "Heart, mind, and soul",
+            "Effort and hard work",
+            "Pride and ego"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the secret to success?",
+        "choices": [
+            "Working hard",
+            "Being lucky",
+            "Putting your heart, mind and soul into even your small acts",
+            "Having connections"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is success related to?",
+        "choices": [
+            "Being rich",
+            "Having fame",
+            "Liking yourself",
+            "Being the best"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word appears to the left side of the figure?",
+        "choices": [
+            "Succeed",
+            "Achieve",
+            "Explore",
+            "Desire"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word appears to the right side of the figure?",
+        "choices": [
+            "Achieve",
+            "Passion",
+            "Desire",
+            "Learn"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word appears on top?",
+        "choices": [
+            "Succeed",
+            "Achieve",
+            "Explore",
+            "Desire"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which word appears on the bottom?",
+        "choices": [
+            "Succeed",
+            "Achieve",
+            "Passion",
+            "Learn"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the best medicine to kill the disease called failure?",
+        "choices": [
+            "Confidence",
+            "Hard-work",
+            "Confidence and Hard-work",
+            "Determination"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, what will confidence and hard-work make you?",
+        "choices": [
+            "A failure",
+            "A doctor",
+            "A successful person",
+            "A teacher"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Dr. A.P.J. Abdul Kalam was the ____ President of India.",
+        "choices": [
+            "10th",
+            "11th",
+            "12th",
+            "13th"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Dr. A.P.J. Abdul Kalam was known as 'THE ____ MAN'.",
+        "choices": [
+            "Space",
+            "Rocket",
+            "Missile",
+            "Science"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the text, dreams cannot be fulfilled without what?",
+        "choices": [
+            "Money",
+            "Power",
+            "Honesty, hard work, and determination",
+            "Luck"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What should you accept and get ready for, according to the text?",
+        "choices": [
+            "The success",
+            "The wealth",
+            "The fame",
+            "The pain and get ready for success"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What did Dr. A.P.J. Abdul Kalam study especially?",
+        "choices": [
+            "Science",
+            "English",
+            "Mathematics",
+            "History"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What did Dr. A.P.J. Abdul Kalam do at a young age?",
+        "choices": [
+            "Went to school",
+            "Started a company",
+            "Supported his father",
+            "Became President"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How can you be the master of your own destiny?",
+        "choices": [
+            "It's very difficult",
+            "It's very easy.... try out",
+            "It's impossible",
+            "It's a secret"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Every painful story has a ____ ending.",
+        "choices": [
+            "Sad",
+            "Successful",
+            "Unfortunate",
+            "Unexpected"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following is a key element of success, according to the word puzzle?",
+        "choices": [
+            "Creativity",
+            "Analysis",
+            "Imagination",
+            "Innovation"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the word puzzle, is 'VISION' a key element of success?",
+        "choices": [
+            "Yes",
+            "No",
+            "Maybe",
+            "It depends"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these word is NOT one of the key elements of success?",
+        "choices": [
+            "Teamwork",
+            "Objectives",
+            "Happiness",
+            "Solution"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which word is mentioned with 'OBSERVE, UNDERSTAND, CONNECT'?",
+        "choices": [
+            "Dream",
+            "Act",
+            "Play",
+            "Eat"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word from the provided options ends with -CTION?",
+        "choices": [
+            "Reflection",
+            "Inspiration",
+            "Determination",
+            "Evaluation"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which is NOT one of the words listed with vision?",
+        "choices": [
+            "Objectives",
+            "Strategy",
+            "Education",
+            "Happiness"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the first word in the left side of the column?",
+        "choices": [
+            "Analyze",
+            "Discussion",
+            "Analysis",
+            "Process"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How many word is in the top right of the side of the column?",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which word begins with the letter P as one of the Key elements of success?",
+        "choices": [
+            "Persevere",
+            "Process",
+            "Problem",
+            "Purpose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is next to the word 'TEAMWORK' in Key elements of success?",
+        "choices": [
+            "Vision",
+            "Solution",
+            "Objectives",
+            "Discussion"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following is NOT mentioned as a value focus in the text?",
+        "choices": [
+            "Goal Setting",
+            "Determination",
+            "Dedication",
+            "Creativity"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "According to the text, what should one do with challenges?",
+        "choices": [
+            "Avoid them",
+            "Embrace them",
+            "Ignore them",
+            "Postpone them"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what goes together with excuses?",
+        "choices": [
+            "Ambition",
+            "Failure",
+            "Success",
+            "Vision"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what is at the base of the pyramid?",
+        "choices": [
+            "Execution",
+            "Determination",
+            "Vision",
+            "Ambition"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what can you never be if you don't get hurt?",
+        "choices": [
+            "Successful",
+            "Brave",
+            "Smart",
+            "Lucky"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what should one concentrate towards?",
+        "choices": [
+            "The obstacles",
+            "The goal",
+            "The success",
+            "The excuses"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does 'U' stand for in 'SUCCESS'?",
+        "choices": [
+            "Understand",
+            "Unite",
+            "Underestimate",
+            "Upgrade"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, what is 'Execution' above of?",
+        "choices": [
+            "Vision",
+            "Determination",
+            "Ambition",
+            "Success"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the text, what can you never be if you don't encounter?",
+        "choices": [
+            "Failure",
+            "Excuses",
+            "Honesty",
+            "Success"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "According to the text, what is 'Ambition' below of?",
+        "choices": [
+            "Execution",
+            "Vision",
+            "Determination",
+            "Success"
+        ],
+        "correctAnswer": 1
+    }
+]
