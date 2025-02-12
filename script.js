@@ -5,7 +5,7 @@ const chapters = {
     social: ['Our Water Resources', 'Our Soil Resources', 'Our Forest & Wildlife', 'Our Rights & Duties', 'Our Human Resources', 'Our Mineral Resources', 'The Southern Plateaus'],
     computers: ['Scratch More Blocks Commands', 'Intro MS POwer Point 2016', 'Browsing the Internet', 'Power Point Working With Slides'],
     english: ['Adjectives', 'Adverbs', 'Pronouns', 'Homophones and Homonyms', 'Conjunctions', 'Prepositions'],
-    hindi: ['Programming', 'Database', 'Networking', 'Web Development'],
+    hindi: ['हवा चली', 'मेहनत का फल', 'गुब्बारे की  आत्मकथा', 'हीरा  और कोयला','पयाावरण  प्रदूषण'],
     gkvalue: ['Success', 'Forgiveness', 'Celebrating Relations']
 };
 
