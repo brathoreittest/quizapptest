@@ -93,7 +93,7 @@ nav ul.menu li .submenu li:hover {
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .chapter-buttons button:hover {
@@ -103,6 +103,7 @@ nav ul.menu li .submenu li:hover {
 /* Question container styles */
 .question-container {
     display: none;
+    font-size: 18px;
 }
 
 #choices {
@@ -115,6 +116,7 @@ nav ul.menu li .submenu li:hover {
     padding: 10px;
     background-color: #f1f1f1;
     border-radius: 5px;
+    font-size: 24px;
     cursor: pointer;
 }
 
