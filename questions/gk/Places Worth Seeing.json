@@ -1,0 +1,102 @@
+[
+    {
+        "question": "The biggest and most famous monument in Paris is...",
+        "choices": [
+            "Stonehenge",
+            "Colosseum",
+            "Eiffel Tower",
+            "Statue of Liberty"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which monument was the gift of the French Government to the US?",
+        "choices": [
+            "Statue of Liberty",
+            "Eiffel Tower",
+            "The Vatican",
+            "Great Sphinx"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "A massive monument on the Salisbury Plain in southern England is...",
+        "choices": [
+            "The Vatican",
+            "Stonehenge",
+            "Colosseum",
+            "Great Sphinx"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "One of the amazing wonders of ancient Egyptian architecture adjoining the Pyramids of Giza is...",
+        "choices": [
+            "Colosseum",
+            "Eiffel Tower",
+            "Great Sphinx",
+            "Stonehenge"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The largest and the most famous of the Roman amphitheaters is...",
+        "choices": [
+            "Stonehenge",
+            "Colosseum",
+            "Eiffel Tower",
+            "Statue of Liberty"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these is a group of buildings in Rome comprising the official residence of the Pope?",
+        "choices": [
+            "Stonehenge",
+            "The Vatican",
+            "Eiffel Tower",
+            "Statue of Liberty"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Stonehenge is thought to have been constructed from...",
+        "choices": [
+            "3000 BCE to 2000 BCE",
+            "2000 BCE to 1000 BCE",
+            "1000 BCE to 100 BCE",
+            "100 BCE to 100 CE"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Stonehenge may have been used as an...",
+        "choices": [
+            "Astronomical observatory",
+            "Royal Palace",
+            "Military fortress",
+            "Grain storage"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Stonehenge measures...",
+        "choices": [
+            "Solar movements only",
+            "Lunar movements only",
+            "Solar and lunar movements",
+            "Water movements"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Where is Colosseum?",
+        "choices": [
+            "Paris",
+            "Rome",
+            "England",
+            "Egypt"
+        ],
+        "correctAnswer": 1
+    }
+]

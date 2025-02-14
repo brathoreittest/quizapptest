@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What are we determining in the pictures?",
+        "choices": [
+            "Colors of the sky",
+            "Good habits and manners",
+            "Different types of animals",
+            "Favorite kinds of toys"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does a tick (\u2714) indicate?",
+        "choices": [
+            "A mistake",
+            "Kind/helpful act",
+            "Something unimportant",
+            "Something unrelated"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What does a cross (X) indicate?",
+        "choices": [
+            "A mistake",
+            "Kind/helpful act",
+            "An irrelevant act",
+            "An action to be ignored"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What are we specifically looking for in the pictures?",
+        "choices": [
+            "Any action",
+            "Kind/helpful acts",
+            "Mean actions",
+            "Angry people"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is one of the topics covered in the book?",
+        "choices": [
+            "World history",
+            "Good habits",
+            "Astronomy",
+            "Ancient civilizations"
+        ],
+        "correctAnswer": 1
+    }
+]

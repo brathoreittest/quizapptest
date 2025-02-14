@@ -6,7 +6,8 @@ const chapters = {
     computers: ['Scratch More Blocks Commands', 'Intro MS POwer Point 2016', 'Browsing the Internet', 'Power Point Working With Slides'],
     english: ['Adjectives', 'Adverbs', 'Pronouns', 'Homophones and Homonyms', 'Conjunctions', 'Prepositions'],
     hindi: ['हवा चली', 'मेहनत का फल', 'गुब्बारे की  आत्मकथा', 'हीरा  और कोयला','पयाावरण  प्रदूषण'],
-    gkvalue: ['Success', 'Forgiveness', 'Celebrating Relations']
+    valueeducation: ['Success', 'Forgiveness', 'Celebrating Relations'],
+    gk: ['Fastest Finger First', 'Flowering Beauties', 'Medicinal Plants', 'Match Them Up', 'Quiz Time', 'India in the Lead', 'Famous Musicians of India','Places Worth Seeing','Our Body and Us','Endangered Animals Of India','Sports Time','Sportspersons - Sobriquets and Achievements','Games Mania','Good Habits and Manners','Famous Indian Films and Directors'],
 };
 
 // Global variables for the quiz

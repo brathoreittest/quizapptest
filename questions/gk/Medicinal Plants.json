@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Which plant is used for soothing and relaxing muscles?",
+        "choices": [
+            "Aloe Vera",
+            "Peppermint",
+            "Ashwagandha",
+            "Bael"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of the following herbs is known for curing constipation?",
+        "choices": [
+            "Peppermint",
+            "Aloe Vera",
+            "Bael",
+            "Ashwagandha"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which plant is known for boosting immune system?",
+        "choices": [
+            "Aloe Vera",
+            "Peppermint",
+            "Ashwagandha",
+            "Bael"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What plant does Rima need for diarrhea",
+        "choices": [
+            "Aloe Vera",
+            "Peppermint",
+            "Ashwagandha",
+            "Bael"
+        ],
+        "correctAnswer": 3
+    }
+]

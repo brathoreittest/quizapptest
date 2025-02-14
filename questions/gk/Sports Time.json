@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Which of these terms is associated with football?",
+        "choices": [
+            "Googly",
+            "Scoop",
+            "Free kick",
+            "Birdie"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of these terms is associated with cricket?",
+        "choices": [
+            "Googly",
+            "Jab",
+            "Scoop",
+            "Free kick"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of these terms is associated with hockey?",
+        "choices": [
+            "Googly",
+            "Scoop",
+            "Free kick",
+            "Birdie"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which of these terms is associated with golf?",
+        "choices": [
+            "Googly",
+            "Scoop",
+            "Free kick",
+            "Birdie"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of these terms is associated with boxing?",
+        "choices": [
+            "Googly",
+            "Jab",
+            "Scoop",
+            "Free kick"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What happens to a football player if they get a red card?",
+        "choices": [
+            "They get a warning.",
+            "They get a yellow card.",
+            "They have to leave the ground immediately.",
+            "They get a penalty."
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following terms is used in golf?",
+        "choices": [
+            "Scoop",
+            "Penalty Corner",
+            "Birdie",
+            "Throw-in"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which sport uses the term 'Penalty Stroke'?",
+        "choices": [
+            "Cricket",
+            "Football",
+            "Hockey",
+            "Boxing"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In which sport can a player get a 'Free kick'?",
+        "choices": [
+            "Golf",
+            "Football",
+            "Boxing",
+            "Cricket"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which sport uses the term 'Jab'?",
+        "choices": [
+            "Football",
+            "Hockey",
+            "Boxing",
+            "Cricket"
+        ],
+        "correctAnswer": 2
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "question": "Which one of the two grows faster?",
+        "choices": [
+            "Fingernail",
+            "Toenail"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Whose heart beats faster?",
+        "choices": [
+            "Man's",
+            "Woman's"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which one of these three body parts remain the same size after birth - nose, ears, eyes?",
+        "choices": [
+            "Eyes",
+            "Ears"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The strongest muscle in our body is the",
+        "choices": [
+            "Nose",
+            "Masseter muscle"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which one of the following activities clears dirt from the nose?",
+        "choices": [
+            "Coughing",
+            "Sneezing"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The longest bone in the human body is the",
+        "choices": [
+            "Femur",
+            "Fibula"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which one of the two activities brings more oxygen to the lungs?",
+        "choices": [
+            "Yawning",
+            "Sneezing"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The organ that transports oxygen into our bloodstream",
+        "choices": [
+            "Lungs",
+            "Kidneys"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The largest organ of the human body is",
+        "choices": [
+            "Stomach",
+            "Skin"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "How many sets of teeth do humans have in their entire life?",
+        "choices": [
+            "One",
+            "Two"
+        ],
+        "correctAnswer": 1
+    }
+]

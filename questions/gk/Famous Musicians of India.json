@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the title of the page?",
+        "choices": [
+            "Famous Inventors of India",
+            "Famous Musicians of India",
+            "Famous Artists of India",
+            "Famous Dancers of India"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "According to the 'Did you know?' section, who invented the sitar?",
+        "choices": [
+            "Tansen",
+            "Ravi Shankar",
+            "Amir Khusro",
+            "Zakir Hussain"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What does the page ask you to do with the musicians and instruments?",
+        "choices": [
+            "Color them",
+            "Draw lines to match them",
+            "Write their names",
+            "Sing about them"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the title of the book where the page comes from?",
+        "choices": [
+            "Our City",
+            "Our Country",
+            "Our World",
+            "Our Motherland"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the number on the top left of the page?",
+        "choices": [
+            "24",
+            "20",
+            "21",
+            "22"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of instrument is listed as A?",
+        "choices": [
+            "Sarod",
+            "Tabla",
+            "Flute",
+            "Sitar"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What type of instrument is listed as B?",
+        "choices": [
+            "Sarod",
+            "Santoor",
+            "Flute",
+            "Tabla"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What type of instrument is listed as C?",
+        "choices": [
+            "Sarod",
+            "Santoor",
+            "Flute",
+            "Tabla"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What type of instrument is listed as D?",
+        "choices": [
+            "Sarod",
+            "Santoor",
+            "Flute",
+            "Tabla"
+        ],
+        "correctAnswer": 3
+    }
+]

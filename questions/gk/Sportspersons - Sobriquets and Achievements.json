@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is P.T. Usha's nickname?",
+        "choices": [
+            "Rawalpindi Express",
+            "Payyoli Express",
+            "Master Blaster",
+            "Bengal Tiger"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is Shoab Akhtar's nickname?",
+        "choices": [
+            "Flying Sikh",
+            "Plastic Girl",
+            "Rawalpindi Express",
+            "Haryana Hurricane"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is Sachin Tendulkar's nickname?",
+        "choices": [
+            "Master Blaster",
+            "Torpedo",
+            "Water Queen",
+            "Payyoli Express"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is Sourav Ganguly's nickname?",
+        "choices": [
+            "Haryana Hurricane",
+            "Bengal Tiger",
+            "Flying Sikh",
+            "Rawalpindi Express"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is Kapil Dev's nickname?",
+        "choices": [
+            "Master Blaster",
+            "Bengal Tiger",
+            "Haryana Hurricane",
+            "Payyoli Express"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is Bula Choudhury's nickname?",
+        "choices": [
+            "Plastic Girl",
+            "Water Queen",
+            "Torpedo",
+            "Flying Sikh"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is Nadia Comaneci's nickname?",
+        "choices": [
+            "Water Queen",
+            "Torpedo",
+            "Plastic Girl",
+            "Rawalpindi Express"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is Ian Thorpe's nickname?",
+        "choices": [
+            "Torpedo",
+            "Haryana Hurricane",
+            "Bengal Tiger",
+            "Master Blaster"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is Milkha Singh's nickname?",
+        "choices": [
+            "Plastic Girl",
+            "Payyoli Express",
+            "Flying Sikh",
+            "Water Queen"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "According to the image, which sport is Michael Jordan associated with?",
+        "choices": [
+            "Boxing",
+            "Swimming",
+            "Basketball",
+            "Athletics"
+        ],
+        "correctAnswer": 2
+    }
+]

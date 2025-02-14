@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the world's largest postal network?",
+        "choices": [
+            "The United States",
+            "India",
+            "China",
+            "Russia"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Approximately how many post offices are there in India?",
+        "choices": [
+            "15,000",
+            "150,000",
+            "1,500,000",
+            "50,000"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which country is the largest producer of sugarcane in the world?",
+        "choices": [
+            "Brazil",
+            "India",
+            "China",
+            "United States"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "India is the world's largest producer of which commodity?",
+        "choices": [
+            "Rice",
+            "Wheat",
+            "Dried beans",
+            "Coffee"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are some examples of dried beans that India is the largest producer of?",
+        "choices": [
+            "Lentils and peas",
+            "Kidney beans and chickpeas",
+            "Soybeans and black beans",
+            "Lima beans and pinto beans"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which country is home to the world's largest movie industry, Bollywood?",
+        "choices": [
+            "United States",
+            "China",
+            "India",
+            "Nigeria"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In which city is Bollywood based?",
+        "choices": [
+            "New Delhi",
+            "Mumbai",
+            "Kolkata",
+            "Chennai"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is another name for Bollywood?",
+        "choices": [
+            "The City of Gold",
+            "The City of Lights",
+            "The City of Dreams",
+            "The City of Entertainment"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "When was the decimal system invented in India?",
+        "choices": [
+            "100 AD",
+            "500 AD",
+            "100 BC",
+            "500 BC"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The concept of '0' (zero) as a number is the invention of which nationality?",
+        "choices": [
+            "Greeks",
+            "Romans",
+            "Egyptians",
+            "Indians"
+        ],
+        "correctAnswer": 3
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Who is considered the 'Father of Indian Films'?",
+        "choices": [
+            "Satyajit Ray",
+            "Raj Kapoor",
+            "Dhundiraj Gopal Phalke (Dada Saheb Phalke)",
+            "Guru Dutt"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the name given for India's first Western?",
+        "choices": [
+            "Mother India",
+            "Alam-Ara",
+            "Sholay",
+            "Gunga Jumna"
+        ],
+        "correctAnswer": 2
+    }
+]

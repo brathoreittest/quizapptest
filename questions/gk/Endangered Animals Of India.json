@@ -1,0 +1,62 @@
+[
+    {
+        "question": "Which of the following is home to many beautiful creatures in the world?",
+        "choices": [
+            "Africa",
+            "Europe",
+            "India",
+            "Australia"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What are the animals shown in the images?",
+        "choices": [
+            "Domestic",
+            "Extinct",
+            "Endangered",
+            "Common"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following animals is also known as Hangul?",
+        "choices": [
+            "One-horned rhinoceros",
+            "Nilgiri Tahr",
+            "Bengal Tiger",
+            "Kashmir Red Stag"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "Which of the following animal is called as Bengal Tiger?",
+        "choices": [
+            "One-horned rhinoceros",
+            "Nilgiri Tahr",
+            "Bengal Tiger",
+            "Kashmir Red Stag"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "Which of the following animal is called as One-horned rhinoceros?",
+        "choices": [
+            "One-horned rhinoceros",
+            "Nilgiri Tahr",
+            "Bengal Tiger",
+            "Kashmir Red Stag"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Which of the following animal is called as Nilgiri Tahr?",
+        "choices": [
+            "One-horned rhinoceros",
+            "Nilgiri Tahr",
+            "Bengal Tiger",
+            "Kashmir Red Stag"
+        ],
+        "correctAnswer": 1
+    }
+]

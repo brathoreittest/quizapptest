@@ -1,0 +1,102 @@
+[
+    {
+        "question": "How many rings does the Olympic Games flag have?",
+        "choices": [
+            "Three",
+            "Four",
+            "Five",
+            "Six"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What do the five rings in the Olympic Games flag represent?",
+        "choices": [
+            "Countries",
+            "Cities",
+            "Continents",
+            "Flags"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "How often are the Olympic Games held?",
+        "choices": [
+            "Every two years",
+            "Every three years",
+            "Every four years",
+            "Every five years"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The emblem of the Asian Games is a bright, full rising ______ with interlocking rings.",
+        "choices": [
+            "Star",
+            "Moon",
+            "Planet",
+            "Sun"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "The 2018 FIFA World Cup took place in which country?",
+        "choices": [
+            "France",
+            "Croatia",
+            "Russia",
+            "New Delhi"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "The finals of the 2018 FIFA World Cup was between France and what other country?",
+        "choices": [
+            "Russia",
+            "Croatia",
+            "Brazil",
+            "Germany"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The motto of the Olympic Games is Citius, Altius, and ______.",
+        "choices": [
+            "Furious",
+            "Fortius",
+            "Fastius",
+            "Famus"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which country was the winner of the 2018 FIFA World Cup?",
+        "choices": [
+            "Russia",
+            "Croatia",
+            "France",
+            "Brazil"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "In which city were the first Asian Games held?",
+        "choices": [
+            "Beijing",
+            "Tokyo",
+            "New Delhi",
+            "Seoul"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What was the motto of the 2018 Asian Games?",
+        "choices": [
+            "Faster, Higher, Stronger",
+            "Play Hard, Play Fair",
+            "Energy of Asia",
+            "Unity in Diversity"
+        ],
+        "correctAnswer": 2
+    }
+]

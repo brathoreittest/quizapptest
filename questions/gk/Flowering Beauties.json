@@ -1,0 +1,32 @@
+[
+    {
+        "question": "On whose birthday did Riya give flowers?",
+        "choices": [
+            "Her friend's",
+            "Her mother's",
+            "Her father's",
+            "Her teacher's"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "Which continent was the world's oldest flower discovered in?",
+        "choices": [
+            "Europe",
+            "Africa",
+            "Asia",
+            "North America"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What kind of plant does the world's oldest flower resemble?",
+        "choices": [
+            "A rose",
+            "A tulip",
+            "A daisy",
+            "A water lily"
+        ],
+        "correctAnswer": 3
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "question": "An egg-laying Australian mammal.",
+        "choices": [
+            "Duck-billed platypus",
+            "Bat"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "An African bird which lays the biggest eggs.",
+        "choices": [
+            "Emu",
+            "Ostrich"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The animal having two humps.",
+        "choices": [
+            "Bactrian camel",
+            "Arabian camel"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The creature which is called the great dam-builder and gnaws through trees.",
+        "choices": [
+            "Beaver",
+            "Sloth"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "Name of the American vulture.",
+        "choices": [
+            "Kingfisher",
+            "Condor"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "The emperor birds found in the Antarctica.",
+        "choices": [
+            "Wallaroos",
+            "Penguins"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "An animal that is a deadly enemy of snakes.",
+        "choices": [
+            "Frog",
+            "Mongoose"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "'Pen' and the 'cob' are the genders of which water bird?",
+        "choices": [
+            "Swan",
+            "Duck"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "The animal that survives on bamboo shoots and lives mainly in the mountains of Western China.",
+        "choices": [
+            "Dingo",
+            "Giant Panda"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "An Australian marsupial that carries its baby in its pouch.",
+        "choices": [
+            "Kangaroo",
+            "Kiwi"
+        ],
+        "correctAnswer": 0
+    }
+]
