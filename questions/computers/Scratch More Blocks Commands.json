@@ -292,16 +292,6 @@
         "correctAnswer": 1
     },
     {
-        "question": "According to the text, ROBOGARDEN Guru will teach students different coding concepts, subjects of what?",
-        "choices": [
-            "Physics",
-            "STEAM",
-            "Chemistry",
-            "Maths"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "To open a saved project, what is the first step?",
         "choices": [
             "Click on Edit",
@@ -340,16 +330,6 @@
             "New Project"
         ],
         "correctAnswer": 3
-    },
-    {
-        "question": "According to the image, when was 'Custom Office Templates' last modified?",
-        "choices": [
-            "8/8/2023 1:26 PM",
-            "11/25/2023 11:43 PM",
-            "11/25/2023 5:12 PM",
-            "7/17/2023 2:29 PM"
-        ],
-        "correctAnswer": 2
     },
     {
         "question": "What type is the 'Adobe' file?",
@@ -522,16 +502,6 @@
         "correctAnswer": 1
     },
     {
-        "question": "What is the pen size set to in the code?",
-        "choices": [
-            "5",
-            "10",
-            "15",
-            "20"
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "How many degrees does the sprite turn?",
         "choices": [
             "5 degrees",
@@ -692,16 +662,6 @@
         "correctAnswer": 2
     },
     {
-        "question": "According to the image, where were most pen commands originally inspired from?",
-        "choices": [
-            "Scratch",
-            "Python",
-            "LOGO!",
-            "Java"
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "Which control block makes a portion of the script run repeatedly a certain number of times?",
         "choices": [
             "If-Then-Else",
@@ -750,56 +710,6 @@
             "Performs one task if a condition is met."
         ],
         "correctAnswer": 1
-    },
-    {
-        "question": "According to the example, when will the program run?",
-        "choices": [
-            "Only then will the programme run when the green flag is turned on.",
-            "When the sprite touches the edge.",
-            "When the mouse pointer touches the sprite.",
-            "The sprite says ouch"
-        ],
-        "correctAnswer": 0
-    },
-    {
-        "question": "According to the example, what will the sprite say in the beginning?",
-        "choices": [
-            "Hello World",
-            "Ouch",
-            "Touch me if you can!",
-            "Move 10 Steps"
-        ],
-        "correctAnswer": 2
-    },
-    {
-        "question": "In the 'Forever If-Then-Else' example, how many seconds will the sprite say 'Touch me if you can!' for?",
-        "choices": [
-            "10",
-            "2",
-            "27",
-            "13"
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the 'Forever If-Then-Else' example, what happens when the mouse-pointer touches the sprite?",
-        "choices": [
-            "The sprite moves 10 steps.",
-            "The sprite says 'Ouch!'",
-            "The sprite turns 90 degrees.",
-            "The sprite changes x by 27."
-        ],
-        "correctAnswer": 1
-    },
-    {
-        "question": "In the 'Forever If-Then-Else' example, how much will the sprite turn when the mouse-pointer touches it?",
-        "choices": [
-            "10 degrees",
-            "27 degrees",
-            "90 degrees",
-            "13 degrees"
-        ],
-        "correctAnswer": 2
     },
     {
         "question": "What backdrop should be used for the Scratch project?",
@@ -872,16 +782,6 @@
         "correctAnswer": 1
     },
     {
-        "question": "What does the sprite say after 'Its the time disco'?",
-        "choices": [
-            "Hello",
-            "Good Bye",
-            "Oh its a lot of fun",
-            "Dance time"
-        ],
-        "correctAnswer": 2
-    },
-    {
         "question": "What command is used to change the sprite's appearance?",
         "choices": [
             "move",
@@ -890,16 +790,6 @@
             "say"
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "Which menu contains the blue blocks mentioned in Step 1?",
-        "choices": [
-            "Looks",
-            "Motion",
-            "Events",
-            "Sound"
-        ],
-        "correctAnswer": 1
     },
     {
         "question": "Which step should you follow first when deleting a block from the script?",
@@ -962,16 +852,6 @@
         "correctAnswer": 0
     },
     {
-        "question": "What happens when a given key is pressed?",
-        "choices": [
-            "Just runs the script while clicking on the green flag button.",
-            "Only runs the script when a given key is pressed.",
-            "Just runs the script when clicking on the sprite you picked.",
-            "Only runs the script when it switches backdrop to the one listed."
-        ],
-        "correctAnswer": 1
-    },
-    {
         "question": "What happens when this sprite is clicked?",
         "choices": [
             "Just runs the script while clicking on the green flag button.",
@@ -980,16 +860,6 @@
             "Only runs the script when it switches backdrop to the one listed."
         ],
         "correctAnswer": 2
-    },
-    {
-        "question": "What happens when backdrop switches to the one listed?",
-        "choices": [
-            "Just runs the script while clicking on the green flag button.",
-            "Only runs the script when a given key is pressed.",
-            "Just runs the script when clicking on the sprite you picked.",
-            "Only runs the script when it switches backdrop to the one listed."
-        ],
-        "correctAnswer": 3
     },
     {
         "question": "What happens when the volume, timer or video movement reaches a given amount?",
